@@ -1,49 +1,69 @@
-# 📦 Infrastruktur Auroraexpress – Übersicht & Struktur
+# 🚄 Auroraexpress & Infrastruktur – Kollektive Räterepublik
 
-Willkommen im Bereich **Infrastruktur_Auroraexpress** der Kollektiven Räterepublik.  
-Hier findest du alle Handbücher, technischen Dokumente und Planungsmaterialien zum Aufbau, Umbau und Betrieb des **Auroraexpress-Systems** – inklusive Güterverkehr, Personenmobilität, Hubs, Stadtstruktur und technischer Grundlagen.
-
----
-
-## 📚 Struktur der Dokumente
-
-| Datei | Inhalt |
-|-------|--------|
-| `01_Auroraexpress_Gesamtsystem.md` | Systemüberblick Güter & Personenverkehr, Matching-Logik, Stadt-/Kategorisierung |
-| `02_Logo_Auroraexpress.md` | Symbolik, Farbwahl, Aufbau und Bedeutung des Aurora-Logos |
-| `03_Personenverkehr.md` | Aufbau, Taktung, Barrierefreiheit und Sozialintegration im Personenverkehr |
-| `04_Güterverkehr.md` | Magnetschwebetechnik, Containerlogistik, Simulationen, KI & Franchising |
-| `05_Energiezentren_Bildung.md` | Bildungsinfrastruktur, Integration, Mentoring, Energieversorgung in Hubs |
-| `06_Stadtplanung_Auroraexpress.md` | Stadtklassifikation, E0–E4-Ebenen, Zonenstruktur, Umsetzungsschritte |
-| `07_Hubs_Der_Zukunft.md` | Umbau bestehender Bahnhöfe, Transformation zu Aurora-Hubs mit Planungsmappen |
-| `08_Begriffserklärung_Auroraexpress.md` | Definition aller Schlüsselbegriffe (AUX, Schattennetz, Zonen etc.) |
-| `09_Technische_Verständnismappe.md` | Schemata, Gerätestandards, Schnittstellenbeschreibung für Hersteller |
-| `10_Betreiber_Leitfaden.md` | Verantwortlichkeiten, Wartung, Betriebsszenarien für Hubs & Netze |
-| `11_Roadmap_Auroraexpress.md` | Zeitachsen, Umsetzungsphasen, strategische Ziele und nächste Schritte |
+Willkommen im zentralen Infrastruktur- und Dokumentationsordner des **Auroraexpress-Systems** der Kollektiven Räterepublik.  
+Hier findest du alle Handbücher, Leitfäden und technischen Mappen, die für Planung, Bau, Betrieb und Weiterentwicklung der kollektiven Mobilitäts- und Versorgungssysteme notwendig sind.
 
 ---
 
-## 🧠 Was ist Auroraexpress?
+## 📘 Übersicht aller Handbücher
 
-> Ein vollständig neu gedachtes Verkehrs- und Versorgungssystem, das auf Nachhaltigkeit, KI-Logistik, modularer Stadtentwicklung und sozialer Gerechtigkeit beruht.
+### 🧭 01 – Gesamtsystem & Struktur
 
----
+- [`01_Auroraexpress_Gesamtsystem.md`](./01_Auroraexpress_Gesamtsystem.md)  
+  ➤ Übersicht über das Gesamtsystem, Matching-Kategorien, Stadt-/Raumlogik, Mikrodepots & Schattennetz
 
-## 📎 Wichtige Hinweise
-
-- **Alle Handbücher sind modular und kollektiv lizensiert.**
-- Jede Datei enthält klare Zielgruppen, Checklisten und Anwendungskontexte.
-- Das System ist **technisch dokumentiert** und **politisch eingebettet**.
+- [`08_Begriffserklärung_Auroraexpress.md`](./08_Begriffserklärung_Auroraexpress.md)  
+  ➤ Glossar aller zentralen Begriffe, Ebenen (E0–E4), AUX-Netz, Stadtklassen & Transformationen
 
 ---
 
-## 🤝 Mitmachen & Feedback
+### 🚉 02–04 – Verkehrs- & Logistiksysteme
 
-Du möchtest das System mitentwickeln, Feedback geben oder in deiner Region adaptieren?  
-→ Melde dich im entsprechenden **Kanal der Kollektiven Räterepublik** oder öffne ein **Issue** hier auf GitHub.
+- [`02_Logo_Auroraexpress.md`](./02_Logo_Auroraexpress.md)  
+  ➤ Symbolik, Farbkonzept und Anwendungen des Auroraexpress-Logos (digital & physisch)
+
+- [`03_Personenverkehr.md`](./03_Personenverkehr.md)  
+  ➤ Struktur & Barrierefreiheit des Personenverkehrssystems, Hubs, Mikroverteilung
+
+- [`04_Güterverkehr.md`](./04_Güterverkehr.md)  
+  ➤ Containerlogistik, Letzte Meile, Systemrobustheit, Außenhandel & Franchising
 
 ---
 
-> **Version:** 1.0  
-> **Status:** Aktiv in Umsetzung  
-> **Letzte Aktualisierung:** April 2025
+### 🏙️ 05–07 – Infrastruktur, Planung & Hubs
+
+- [`05_Energiezentren_Bildung.md`](./05_Energiezentren_Bildung.md)  
+  ➤ Integration von Bildungszentren, Mikromobilität, AuroraSleep & Energieversorgung
+
+- [`06_Stadtplanung_Auroraexpress.md`](./06_Stadtplanung_Auroraexpress.md)  
+  ➤ Stadtklassifikation A–E, E0–E4-Ebenenstruktur, Zonen, AUX-Netz, Umsetzungslogik
+
+- [`07_Hubs_Der_Zukunft.md`](./07_Hubs_Der_Zukunft.md)  
+  ➤ Umbau bestehender Bahnhöfe, Planungsmappen, Sozialfunktionen, Checklisten
+
+---
+
+### ⚙️ 09–11 – Technik, Betrieb & Roadmap
+
+- [`09_Technische_Verständnismappe.md`](./09_Technische_Verständnismappe.md)  
+  ➤ Gerätestandards, Containertechnik, AUX-Knoten, Schnittstellen & Redundanzen
+
+- [`10_Betreiber_Leitfaden.md`](./10_Betreiber_Leitfaden.md)  
+  ➤ Operativer Betrieb von Hubs, Krisenmanagement, Wartung, Verantwortlichkeiten
+
+- [`11_Roadmap_Auroraexpress.md`](./11_Roadmap_Auroraexpress.md)  
+  ➤ Ausbauetappen, Phasenpläne, regionale Pilotprojekte, Skalierung & Zeitachsen
+
+---
+
+## 🧩 Hinweise zur Nutzung
+
+- Diese Sammlung ist **vollständig**, **technisch direkt umsetzbar** und **modular erweiterbar**.  
+- Sie dient Architekt:innen, Stadtentwickler:innen, Techniker:innen, Programmierer:innen, Betreiber:innen & Bildungsinstitutionen.  
+- Alle Dokumente sind **offen kollektiv lizensiert** und Teil des Gesamtprojekts der **Kollektiven Räterepublik**.
+
+---
+
+🛠️ Für Fragen oder Weiterentwicklungen:  
+Bitte über Discord, Mail oder direkt im Repository pull request stellen.
+
