@@ -33,4 +33,50 @@ Zusätzlich:
 - 12 Containerschiffe gleichzeitig: Sofortige Umleitung
 - KI-Ausfall Stuttgart: Backup in 1,2 Sekunden
 - Manipulationsversuch: Zugriff blockiert, System gesichert
-- Stromausfall (3 Regionen): Notstrom & Priorisierungs
+- Stromausfall (3 Regionen): Notstrom & Priorisierungs-Algorithmen
+- Drohnenausfall (Unwetter): Umstieg auf Bodenlogistik
+
+---
+
+## 3. Sicherheits- & Risikomanagement
+
+- **Gefahrgut in isolierten Modulen**
+- **Zugang nur mit mehrfacher Authentifizierung**
+- **Digitale Lizenzprüfung für Franchisepartner**
+- **Redundanzprotokolle** über Schattennetz
+
+---
+
+## 4. Zukunftstechnologien
+
+- **Minikernreaktoren** für zentrale Energieversorgung
+- **Autonome Roboter & Drohnen** für Mikroverteilung
+- **Blockchain-Verträge** zur Absicherung der Lieferkette
+
+---
+
+## 5. Standortermittlung für Verteilerzentren
+
+**Formel:**
+Z = ⎡F / (π × R²)⎤
+
+Beispiel:  
+F = 30.000 km², R = 150 km → Z = 1
+
+**Standortvorschläge:**
+
+- **Nord:** Hamburg / Bremen
+- **West:** Köln / Ruhrgebiet
+- **Ost:** Leipzig / Dresden
+- **Süd:** Stuttgart / Ulm
+- **Mitte:** Erfurt
+
+**Sonderzentren:**
+- **Grenze:** Freiburg, Passau, Görlitz
+- **Häfen:** Rostock, Hamburg, Wilhelmshaven
+- **Berge:** Harz, Garmisch, Eifel
+
+---
+
+**Fazit:**  
+Das Auroraexpress-Güterverkehrssystem ist hochautomatisiert, resilient und ökologisch. Es ist zentral für eine klimaneutrale und kollektiv gesteuerte Zukunft der logistischen Versorgung.
