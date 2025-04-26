@@ -1,46 +1,26 @@
-# 📚 Bildung & Forschung – Kollektive Räterepublik
+# 📚 Bildung und Forschung in der Kollektiven Räterepublik
 
-Willkommen im Bereich **Bildung & Forschung** der Kollektiven Räterepublik.  
-Dieser Ordner enthält alle Handbücher, Strategien und systemischen Rahmenbedingungen für das Bildungswesen, die akademische Entwicklung und die wissenschaftliche Innovationslandschaft innerhalb des kollektiven Systems.
-
----
-
-## 🎯 Ziel dieses Bereichs
-
-- Aufbau eines **sozial gerechten, durchlässigen und praxisorientierten Bildungssystems**
-- Sicherstellung von **Forschung im Dienst des Gemeinwohls**
-- Verbindung von **Lernen, Mobilität, Infrastruktur und Innovation**
-- Förderung von **Kreativität, Teilhabe und ethischer Verantwortung**
+Dieser Bereich regelt die Organisation, Förderung und gesellschaftliche Einbettung von Bildung, Forschung und Innovation.  
+Das Ziel ist ein freier, nachhaltiger und kollektiver Wissensaufbau im Einklang mit den Prinzipien der Kollektiven Räterepublik.
 
 ---
 
-## 📁 Enthaltene Handbücher
+## 📂 Übersicht der Handbücher und Dokumente:
 
-| Datei                                  | Inhalt                                                                 |
-|----------------------------------------|------------------------------------------------------------------------|
-| `Bildungssystem_Kollektive_Raeterepublik.md` | Struktur, Zugang und Prinzipien des gesamten Bildungssystems           |
-| `Forschung_Innovation.md`              | Organisation, Förderung und Ethik kollektiver Forschung und Innovation |
-
----
-
-## 🔗 Verknüpfte Infrastrukturen
-
-- **Auroraexpress-System:** Bildungseinrichtungen sind direkt über das Hub-System vernetzt.
-- **Kollektives Intranet:** Zentraler Ort für Bildungsfeedback, Forschungsergebnisse und Mitbestimmung.
-- **Betriebe & Praxisnetzwerke:** Enge Zusammenarbeit mit Produktions-, Technik- und Sozialsektoren.
+| Nr. | Thema |
+|:---|:------|
+| [01_Handbuch_Gruppe_Bildung.md](01_Handbuch_Gruppe_Bildung.md) | Organisation der Gruppe Bildung |
+| [02_Handbuch_Gruppe_Forschung_und_Innovation.md](02_Handbuch_Gruppe_Forschung_und_Innovation.md) | Organisation der Gruppe Forschung & Innovation |
+| [03_Bildungssystem_Kollektive_Raeterepublik.md](03_Bildungssystem_Kollektive_Raeterepublik.md) | Struktur und Prinzipien des Bildungssystems |
+| [04_Forschung_Innovation.md](04_Forschung_Innovation.md) | Grundsätze für Forschung & Innovation |
+| [05_Handbuch_Weiterbildung_und_Lebenslanges_Lernen.md](05_Handbuch_Weiterbildung_und_Lebenslanges_Lernen.md) | Weiterbildung und lebenslanges Lernen |
+| [06_Handbuch_Buergerbildung.md](06_Handbuch_Buergerbildung.md) | Bürgerbildung und demokratische Bildungsarbeit |
+| [07_Handbuch_Wissenschaftskommunikation.md](07_Handbuch_Wissenschaftskommunikation.md) | Wissenschaft transparent kommunizieren |
+| [08_Handbuch_Forschungsethik.md](08_Handbuch_Forschungsethik.md) | Ethische Prinzipien der Forschung |
 
 ---
 
-## ✅ Status
-
-Alle hier enthaltenen Inhalte sind:
-- **Abgeschlossen und systemisch integriert**
-- **Frei verwendbar, weiterentwickelbar und kollektiv lizenziert**
-- **Teil der Gesamtstruktur der Kollektiven Räterepublik**
-
----
-
-Bei Erweiterungen (z. B. Berufsbildung, Erwachsenenbildung, wissenschaftliche Spezialisierung) wird dieses Verzeichnis fortlaufend ergänzt.
-
-> Bildung ist keine Dienstleistung – sie ist ein kollektives Versprechen.
-
+✅ **Abgeschlossen**  
+📅 *Stand: 26.04.2025*  
+🛠️ *Geprüft, synchronisiert und bereit zur Anwendung.*
+Create 00_README_Bildung_und_Forschung.md (aktualisierte Ordnerübersicht)
