@@ -1,5 +1,10 @@
 # 🌾 Ernährung – Handbücher der Kollektiven Räterepublik
-
+<!--
+Autor: Fabio Weidner
+Version: 1.0
+Sektion: Ernährung
+Veröffentlichung: April 2025
+-->
 Willkommen im Bereich **Ernährung**.  
 Hier findest du die Grundlagen für die nachhaltige, resiliente und qualitätsorientierte Lebensmittelproduktion in der Kollektiven Räterepublik.
 
@@ -35,3 +40,4 @@ Hier findest du die Grundlagen für die nachhaltige, resiliente und qualitätsor
 
 ---
 
+<sub><sup>Autor: Fabio Weidner | Version 1.0 | Ernährung | April 2025</sup></sub>
