@@ -1,5 +1,10 @@
 # 📖 00_Glossar Gesundheit der Kollektiven Räterepublik
-
+<!--
+Autor: Fabio Weidner
+Version: 1.0
+Sektion: Gesundheit
+Veröffentlichung: April 2025
+-->
 Willkommen im **Glossar für den Bereich Gesundheit**.  
 Hier findest du zentrale Begriffe und Definitionen, die in den Handbüchern dieses Bereichs verwendet werden.
 
@@ -27,3 +32,4 @@ Hier findest du zentrale Begriffe und Definitionen, die in den Handbüchern dies
 
 ---
 
+<sub><sup>Autor: Fabio Weidner | Version 1.0 | Gesundheit | April 2025</sup></sub>
