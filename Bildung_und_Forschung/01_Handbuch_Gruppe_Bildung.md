@@ -68,4 +68,4 @@ Die **Gruppe Bildung** ist verantwortlich für die Entwicklung, Pflege und Umset
 
 ---
 
-<sub><sup>Autor: Fabio Weidner | Version 1.0 | Bildung & Forschung | April 2025</sup></sub>
+
