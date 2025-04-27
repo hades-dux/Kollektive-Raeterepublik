@@ -1,4 +1,10 @@
 # 🛡️ 02_Handbuch_Militärische_Grundstrukturen_und_Krisenverteidigung.md
+<!--
+Autor: Fabio Weidner
+Version: 1.0
+Sektion: Justiz & Sicherheit
+Veröffentlichung: April 2025
+-->
 
 ---
 
