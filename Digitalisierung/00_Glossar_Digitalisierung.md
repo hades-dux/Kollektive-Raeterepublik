@@ -1,4 +1,15 @@
 # 📖 00_Glossar Digitalisierung der Kollektiven Räterepublik
+<!--
+Autor: Fabio Weidner
+Version: 1.0
+Sektion: Digitalisierung
+Veröffentlichung: April 2025
+-->
+
+---
+
+<sub><sup>Autor: Fabio Weidner | Version 1.0 | Digitalisierung | April 2025</sup></sub>
+
 
 Willkommen im **Glossar für den Bereich Digitalisierung**.  
 Hier findest du zentrale Begriffe und Definitionen, die in den Handbüchern dieses Bereichs verwendet werden.
@@ -27,3 +38,4 @@ Hier findest du zentrale Begriffe und Definitionen, die in den Handbüchern dies
 🔐 *Freigegeben zur Nutzung und Weiterentwicklung*
 
 ---
+<sub><sup>Autor: Fabio Weidner | Version 1.0 | Digitalisierung | April 2025</sup></sub>
