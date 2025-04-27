@@ -1,4 +1,10 @@
 # 📚 Handbuch: Justizsystem der Kollektiven Räterepublik
+<!--
+Autor: Fabio Weidner
+Version: 1.0
+Sektion: Justiz & Sicherheit
+Veröffentlichung: April 2025
+-->
 
 ## Einleitung: Warum ein neues Justizsystem notwendig war
 Das alte Rechtssystem war oft unzugänglich, intransparent und elitär. Die Kollektive Räterepublik setzt deshalb auf ein **transparenteres, zugänglicheres und gemeinschaftlich kontrolliertes Justizsystem**, das Fairness, Rechenschaft und gesellschaftliche Teilhabe garantiert.
