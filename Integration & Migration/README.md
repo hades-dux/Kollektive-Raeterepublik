@@ -1,42 +1,35 @@
-# 🌍 Integration & Migration – Handbücher der Kollektiven Räterepublik
+# Integration & Migration in der Kollektiven Räterepublik
+
+Willkommen im Bereich **Integration & Migration** der offiziellen Bibliothek der Kollektiven Räterepublik.
+
+Hier findest du alle Handbücher zur Aufnahme, Eingliederung, Bildung, Schutzrechte und Förderung gesellschaftlicher Vielfalt.
+
+---
+
+## 📚 Inhaltsverzeichnis
+
+- [00_Glossar Integration & Migration](./00_Glossar_Integration_und_Migration.md)
+- [01_Handbuch Gruppe Integration & Migration](./01_Handbuch_Gruppe_Integration_und_Migration.md)
+- [02_Handbuch Aufnahmezentren & Ersteingliederung](./02_Handbuch_Aufnahmezentren_und_Ersteingliederung.md)
+- [03_Handbuch Sprachbildung & Bildungszugang](./03_Handbuch_Sprachbildung_und_Bildungszugang.md)
+- [04_Handbuch Rechte, Schutz und Beteiligung](./04_Handbuch_Rechte_Schutz_und_Beteiligung.md)
+- [05_Handbuch Kultureller Austausch & Vielfalt](./05_Handbuch_Kultureller_Austausch_und_Vielfalt.md)
+
+---
+
+## 🏛️ Über diese Sektion
+
+Diese Dokumente sichern die strukturierte, menschenwürdige und zukunftsorientierte Integration und Migration innerhalb der Kollektiven Räterepublik.  
+Im Mittelpunkt stehen schnelle Eingliederung, Sprachförderung, gesellschaftliche Teilhabe und Schutz individueller Rechte.
+
+---
+
 <!--
 Autor: Fabio Weidner
 Version: 1.0
 Sektion: Integration & Migration
 Veröffentlichung: April 2025
 -->
-Willkommen im Bereich **Integration & Migration**.  
-Hier findest du alle Grundlagen zur Aufnahme, Integration, Förderung und Teilhabe neuer Bürger:innen in der Kollektiven Räterepublik.
-
----
-
-## 📚 Übersicht der Handbücher:
-
-| Nr. | Titel | Status |
-|:---|:---|:---|
-| 01 | Handbuch Gruppe Integration & Migration | ✅ |
-| 02 | Handbuch Aufnahmezentren & Ersteingliederung | ✅ |
-| 03 | Handbuch Sprachbildung & Bildungszugang | ✅ |
-| 04 | Handbuch Rechte, Schutz und Beteiligung | ✅ |
-| 05 | Handbuch Kultureller Austausch und Vielfalt | ✅ |
-
----
-
-## 🧭 Schwerpunkte im Bereich Integration & Migration:
-
-- **Schnelle, respektvolle und koordinierte Erstaufnahme**
-- **Flächendeckende Sprachbildung und Bildungsintegration**
-- **Frühe politische Beteiligung und umfassende Bürgerrechte**
-- **Förderung von kulturellem Austausch und gemeinsamer Erinnerungskultur**
-- **Schutzrechte gegen Diskriminierung und strukturelle Benachteiligung**
-
----
-
-## 📅 Status
-
-✅ Alle Dokumente geprüft, systemisch angepasst und vollständig eingepflegt.
-
-📜 Verantwortlich: Projektteam Kollektive Räterepublik – Ressort Integration & Migration
 
 ---
 
