@@ -1,3 +1,10 @@
+<!--
+Autor: Fabio Weidner
+Version: 1.0
+Sektion: Bildung & Forschung
+Veröffentlichung: April 2025
+-->
+
 # 00_Glossar
 
 Dieses Glossar fasst zentrale Begriffe zusammen, die in den Handbüchern der Sektion "Bildung und Forschung" der Kollektiven Räterepublik verwendet werden.
@@ -18,5 +25,7 @@ Dieses Glossar fasst zentrale Begriffe zusammen, die in den Handbüchern der Sek
 | **Anwendungsorientierte Forschung** | Forschung, die konkrete gesellschaftliche oder technologische Probleme lösen oder innovative Entwicklungen fördern soll. |
 
 ---
+
+<sub><sup>Autor: Fabio Weidner | Version 1.0 | Bildung & Forschung | April 2025</sup></sub>
 
 > Dieses Glossar wird regelmäßig ergänzt und aktualisiert, um neue Begriffe und Entwicklungen im Bereich Bildung und Forschung aufzunehmen.
