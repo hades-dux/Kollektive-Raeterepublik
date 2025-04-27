@@ -1,4 +1,10 @@
 # 🌾 Handbuch für Ernährungssouveränität & regionale Versorgung in der Kollektiven Räterepublik
+<!--
+Autor: Fabio Weidner
+Version: 1.0
+Sektion: Ernährung
+Veröffentlichung: April 2025
+-->
 
 ## 1. Einleitung
 
