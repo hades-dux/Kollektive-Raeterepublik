@@ -1,4 +1,10 @@
 # Handbuch für Sicherheitsdienste der Kollektiven Räterepublik
+<!--
+Autor: Fabio Weidner
+Version: 1.0
+Sektion: Justiz & Sicherheit
+Veröffentlichung: April 2025
+-->
 
 ## 1. Struktur und Aufgabe
 - Die Sicherheitsdienste dienen dem Schutz der öffentlichen Ordnung, der Infrastruktur und der Bürger:innen.
