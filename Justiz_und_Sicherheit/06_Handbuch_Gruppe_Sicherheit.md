@@ -1,4 +1,10 @@
 # 🛡️ Handbuch für die Gruppe Sicherheit der Kollektiven Räterepublik
+<!--
+Autor: Fabio Weidner
+Version: 1.0
+Sektion: Justiz & Sicherheit
+Veröffentlichung: April 2025
+-->
 
 ---
 
