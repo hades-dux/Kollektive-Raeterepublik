@@ -1,4 +1,10 @@
 # 🛡️ Handbuch für Cybersicherheit der Kollektiven Räterepublik
+<!--
+Autor: Fabio Weidner
+Version: 1.0
+Sektion: Justiz & Sicherheit
+Veröffentlichung: April 2025
+-->
 
 ## 1. Einleitung: Schutz der Freiheit im digitalen Raum
 
