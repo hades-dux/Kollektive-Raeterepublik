@@ -1,5 +1,10 @@
 # 📡 Handbuch für Wissenschaftskommunikation in der Kollektiven Räterepublik
-
+<!--
+Autor: Fabio Weidner
+Version: 1.0
+Sektion: Bildung & Forschung
+Veröffentlichung: April 2025
+-->
 ## 1. Einleitung
 
 Wissenschaftskommunikation verbindet Forschung und Gesellschaft.  
@@ -45,5 +50,8 @@ Sie stellt sicher, dass wissenschaftliche Erkenntnisse verständlich, transparen
 📅 *Datum: 06.04.2025, 21:46 Uhr*  
 🕊️ *Dokument geprüft, integriert und für vollständig erklärt.*  
 🔒 *Freigegeben zur Anwendung und gesellschaftlichen Verankerung.*
-[ADD] 07_Handbuch_Wissenschaftskommunikation: Wissenschaftskommunikation verbindlich geregelt
+
+---
+
+<sub><sup>Autor: Fabio Weidner | Version 1.0 | Bildung & Forschung | April 2025</sup></sub>
 
