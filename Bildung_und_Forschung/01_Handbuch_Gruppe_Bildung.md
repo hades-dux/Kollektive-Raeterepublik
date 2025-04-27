@@ -1,4 +1,11 @@
-# 📚 Handbuch für die Gruppe Bildung der Kollektiven Räterepublik
+## 01_Handbuch_Gruppe_Bildung.md
+
+<!--
+Autor: Fabio Weidner
+Version: 1.0
+Sektion: Bildung & Forschung
+Veröffentlichung: April 2025
+-->
 
 ## 1. Einleitung
 
@@ -59,4 +66,6 @@ Die **Gruppe Bildung** ist verantwortlich für die Entwicklung, Pflege und Umset
 🏛️ *Verantwortlich: Gruppe Bildung – Kollektive Räterepublik*  
 🔒 *Freigegeben zur Umsetzung, Anwendung und Weiterentwicklung*
 
-[ADD] 01_Handbuch_Gruppe_Bildung: Struktur, Aufgaben und Prinzipien der Gruppe Bildung definiert
+---
+
+<sub><sup>Autor: Fabio Weidner | Version 1.0 | Bildung & Forschung | April 2025</sup></sub>
