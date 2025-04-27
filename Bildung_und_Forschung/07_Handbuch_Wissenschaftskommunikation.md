@@ -53,5 +53,4 @@ Sie stellt sicher, dass wissenschaftliche Erkenntnisse verständlich, transparen
 
 ---
 
-<sub><sup>Autor: Fabio Weidner | Version 1.0 | Bildung & Forschung | April 2025</sup></sub>
 
