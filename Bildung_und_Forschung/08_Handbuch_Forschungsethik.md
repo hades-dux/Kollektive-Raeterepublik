@@ -59,6 +59,3 @@ Forschungsethik setzt die Grenzen, innerhalb derer Innovationen entstehen dürfe
 
 ---
 
-<sub><sup>Autor: Fabio Weidner | Version 1.0 | Bildung & Forschung | April 2025</sup></sub>
-
-
