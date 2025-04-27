@@ -1,5 +1,10 @@
 # 🚑 Gesundheit – Handbücher der Kollektiven Räterepublik
-
+<!--
+Autor: Fabio Weidner
+Version: 1.0
+Sektion: Gesundheit
+Veröffentlichung: April 2025
+-->
 Willkommen im Bereich **Gesundheit**.  
 Hier findest du alle Grundlagen für den Aufbau, die Pflege und die Weiterentwicklung eines solidarischen, öffentlichen und innovativen Gesundheitssystems.
 
@@ -35,3 +40,4 @@ Hier findest du alle Grundlagen für den Aufbau, die Pflege und die Weiterentwic
 
 ---
 
+<sub><sup>Autor: Fabio Weidner | Version 1.0 | Gesundheit | April 2025</sup></sub>
