@@ -1,42 +1,35 @@
-# 🚑 Gesundheit – Handbücher der Kollektiven Räterepublik
+# Gesundheit in der Kollektiven Räterepublik
+
+Willkommen im Bereich **Gesundheit** der offiziellen Bibliothek der Kollektiven Räterepublik.
+
+Hier findest du alle Handbücher zu Gesundheitseinrichtungen, Prävention, Krisenvorsorge und Forschung im Gesundheitswesen.
+
+---
+
+## 📚 Inhaltsverzeichnis
+
+- [00_Glossar Gesundheit](./00_Glossar_Gesundheit.md)
+- [01_Handbuch Gruppe Gesundheit](./01_Handbuch_Gruppe_Gesundheit.md)
+- [02_Handbuch Gesundheitseinrichtungen & Versorgung](./02_Handbuch_Gesundheitseinrichtungen_und_Versorgung.md)
+- [03_Handbuch Prävention und Gesundheitsförderung](./03_Handbuch_Prävention_und_Gesundheitsförderung.md)
+- [04_Handbuch Notfallmedizin und Krisenvorsorge](./04_Handbuch_Notfallmedizin_und_Krisenvorsorge.md)
+- [05_Handbuch Forschung und Entwicklung im Gesundheitswesen](./05_Handbuch_Forschung_und_Entwicklung_Gesundheit.md)
+
+---
+
+## 🏛️ Über diese Sektion
+
+Diese Dokumente sichern eine umfassende, bürgernahe und resiliente Gesundheitsversorgung innerhalb der Kollektiven Räterepublik.  
+Im Fokus stehen Prävention, gleichberechtigter Zugang, dezentrale Versorgung und Forschung zur Stärkung des öffentlichen Gesundheitssystems.
+
+---
+
 <!--
 Autor: Fabio Weidner
 Version: 1.0
 Sektion: Gesundheit
 Veröffentlichung: April 2025
 -->
-Willkommen im Bereich **Gesundheit**.  
-Hier findest du alle Grundlagen für den Aufbau, die Pflege und die Weiterentwicklung eines solidarischen, öffentlichen und innovativen Gesundheitssystems.
-
----
-
-## 📚 Übersicht der Handbücher:
-
-| Nr. | Titel | Status |
-|:---|:---|:---|
-| 01 | Handbuch Gruppe Gesundheit | ✅ |
-| 02 | Handbuch Gesundheitseinrichtungen & Versorgung | ✅ |
-| 03 | Handbuch Prävention und Gesundheitsförderung | ✅ |
-| 04 | Handbuch Notfallmedizin und Krisenvorsorge | ✅ |
-| 05 | Handbuch Forschung und Entwicklung im Gesundheitswesen | ✅ |
-
----
-
-## 🧭 Schwerpunkte im Bereich Gesundheit:
-
-- Aufbau eines **öffentlich finanzierten Gesundheitssystems** ohne Profitorientierung
-- **Flächendeckende Basis- und Fachversorgung** für alle Bürger:innen
-- **Starke Präventions- und Gesundheitsbildungsprogramme**
-- **Krisensichere Notfallversorgung und dezentrale Materialvorsorge**
-- **Ethikgeleitete Forschung und Innovation** im Gesundheitswesen
-
----
-
-## 📅 Status
-
-✅ Alle Dokumente geprüft, systemisch angepasst und vollständig eingepflegt.
-
-📜 Verantwortlich: Projektteam Kollektive Räterepublik – Ressort Gesundheit
 
 ---
 
