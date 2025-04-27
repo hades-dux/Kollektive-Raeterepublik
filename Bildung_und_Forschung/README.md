@@ -1,26 +1,51 @@
-# 📚 Bildung und Forschung in der Kollektiven Räterepublik
+# Bildung und Forschung
 
-Dieser Bereich regelt die Organisation, Förderung und gesellschaftliche Einbettung von Bildung, Forschung und Innovation.  
-Das Ziel ist ein freier, nachhaltiger und kollektiver Wissensaufbau im Einklang mit den Prinzipien der Kollektiven Räterepublik.
-
----
-
-## 📂 Übersicht der Handbücher und Dokumente:
-
-| Nr. | Thema |
-|:---|:------|
-| [01_Handbuch_Gruppe_Bildung.md](01_Handbuch_Gruppe_Bildung.md) | Organisation der Gruppe Bildung |
-| [02_Handbuch_Gruppe_Forschung_und_Innovation.md](02_Handbuch_Gruppe_Forschung_und_Innovation.md) | Organisation der Gruppe Forschung & Innovation |
-| [03_Bildungssystem_Kollektive_Raeterepublik.md](03_Bildungssystem_Kollektive_Raeterepublik.md) | Struktur und Prinzipien des Bildungssystems |
-| [04_Forschung_Innovation.md](04_Forschung_Innovation.md) | Grundsätze für Forschung & Innovation |
-| [05_Handbuch_Weiterbildung_und_Lebenslanges_Lernen.md](05_Handbuch_Weiterbildung_und_Lebenslanges_Lernen.md) | Weiterbildung und lebenslanges Lernen |
-| [06_Handbuch_Buergerbildung.md](06_Handbuch_Buergerbildung.md) | Bürgerbildung und demokratische Bildungsarbeit |
-| [07_Handbuch_Wissenschaftskommunikation.md](07_Handbuch_Wissenschaftskommunikation.md) | Wissenschaft transparent kommunizieren |
-| [08_Handbuch_Forschungsethik.md](08_Handbuch_Forschungsethik.md) | Ethische Prinzipien der Forschung |
+<!-- TOC -->
+- [Struktur](#struktur)
+  - [00 Glossar](./00_Glossar.md)
+  - [01 Handbuch Gruppe Bildung](./01_Handbuch_Gruppe_Bildung.md)
+  - [02 Handbuch Gruppe Forschung und Innovation](./02_Handbuch_Gruppe_Forschung_und_Innovation.md)
+  - [03 Bildungssystem Kollektive Räterepublik](./03_Bildungssystem_Kollektive_Raeterepublik.md)
+  - [04 Forschung Innovation](./04_Forschung_Innovation.md)
+  - [05 Weiterbildung und Lebenslanges Lernen](./05_Handbuch_Weiterbildung_und_Lebenslanges_Lernen.md)
+  - [06 Bürgerbildung](./06_Handbuch_Buergerbildung.md)
+  - [07 Wissenschaftskommunikation](./07_Handbuch_Wissenschaftskommunikation.md)
+  - [08 Forschungsethik](./08_Handbuch_Forschungsethik.md)
+- [Zielsetzung](#zielsetzung)
+- [Rücksprung zur Hauptbibliothek](#rücksprung-zur-hauptbibliothek)
+<!-- /TOC -->
 
 ---
 
-✅ **Abgeschlossen**  
-📅 *Stand: 26.04.2025*  
-🛠️ *Geprüft, synchronisiert und bereit zur Anwendung.*
-Create 00_README_Bildung_und_Forschung.md (aktualisierte Ordnerübersicht)
+## 📚 Struktur
+
+| Nr. | Dokument | Beschreibung |
+|:---|:---|:---|
+| [00_Glossar](./00_Glossar.md) | Zentrale Begriffe und Definitionen zur schnellen Orientierung. |
+| [01_Handbuch_Gruppe_Bildung](./01_Handbuch_Gruppe_Bildung.md) | Aufbau, Aufgaben und interne Struktur der Gruppe Bildung. |
+| [02_Handbuch_Gruppe_Forschung_und_Innovation](./02_Handbuch_Gruppe_Forschung_und_Innovation.md) | Aufbau, Aufgaben und interne Struktur der Gruppe Forschung & Innovation. |
+| [03_Bildungssystem_Kollektive_Raeterepublik](./03_Bildungssystem_Kollektive_Raeterepublik.md) | Gesamtkonzept für das Bildungssystem der Kollektiven Räterepublik. |
+| [04_Forschung_Innovation](./04_Forschung_Innovation.md) | Leitlinien für Forschung, Innovationsförderung und Wissensentwicklung. |
+| [05_Handbuch_Weiterbildung_und_Lebenslanges_Lernen](./05_Handbuch_Weiterbildung_und_Lebenslanges_Lernen.md) | Struktur und Organisation des lebenslangen Lernens. |
+| [06_Handbuch_Buergerbildung](./06_Handbuch_Buergerbildung.md) | Politische und gesellschaftliche Bildungsprogramme für Bürger. |
+| [07_Handbuch_Wissenschaftskommunikation](./07_Handbuch_Wissenschaftskommunikation.md) | Regeln für die Verständlichkeit und Transparenz wissenschaftlicher Kommunikation. |
+| [08_Handbuch_Forschungsethik](./08_Handbuch_Forschungsethik.md) | Prinzipien und ethische Richtlinien für wissenschaftliche Arbeit. |
+
+---
+
+## 🎯 Zielsetzung
+
+Diese Dokumente dienen dazu:
+- Eine transparente, gemeinwohlorientierte Bildungs- und Forschungslandschaft zu schaffen.
+- Die Grundlage für lebenslanges Lernen, Innovation und wissenschaftliche Verantwortung zu sichern.
+- Bürgern aktive Teilhabe und Zugang zu Bildung und Forschung zu ermöglichen.
+
+---
+
+## ↩️ Rücksprung zur Hauptbibliothek
+
+[Zurück zur 📚 Bibliothek der Kollektiven Räterepublik](https://github.com/hades-dux/Kollektive-Raeterepublik)
+
+---
+
+> Letzte Aktualisierung: April 2025
