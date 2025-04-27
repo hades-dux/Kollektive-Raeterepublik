@@ -1,5 +1,10 @@
 # Handbuch für Forschung & Innovation in der Kollektiven Räterepublik
-
+<!--
+Autor: Fabio Weidner
+Version: 1.0
+Sektion: Bildung & Forschung
+Veröffentlichung: April 2025
+-->
 ---
 
 ## 1. Leitprinzipien
@@ -71,3 +76,7 @@
 📅 *Datum: 05.04.2025, 22:26 Uhr*  
 🕊️ *Dokument geprüft, integriert und für vollständig erklärt.*  
 🔒 *Freigegeben zur Anwendung und wissenschaftlichen Weiterentwicklung.*
+
+---
+
+<sub><sup>Autor: Fabio Weidner | Version 1.0 | Bildung & Forschung | April 2025</sup></sub>
