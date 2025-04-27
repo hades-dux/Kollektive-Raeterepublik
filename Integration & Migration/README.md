@@ -1,5 +1,10 @@
 # 🌍 Integration & Migration – Handbücher der Kollektiven Räterepublik
-
+<!--
+Autor: Fabio Weidner
+Version: 1.0
+Sektion: Integration & Migration
+Veröffentlichung: April 2025
+-->
 Willkommen im Bereich **Integration & Migration**.  
 Hier findest du alle Grundlagen zur Aufnahme, Integration, Förderung und Teilhabe neuer Bürger:innen in der Kollektiven Räterepublik.
 
@@ -35,3 +40,4 @@ Hier findest du alle Grundlagen zur Aufnahme, Integration, Förderung und Teilha
 
 ---
 
+<sub><sup>Autor: Fabio Weidner | Version 1.0 | Integration & Migration | April 2025</sup></sub>
