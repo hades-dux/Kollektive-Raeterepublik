@@ -1,5 +1,10 @@
 # 🏛️ Handbuch für Bürgerbildung in der Kollektiven Räterepublik
-
+<!--
+Autor: Fabio Weidner
+Version: 1.0
+Sektion: Bildung & Forschung
+Veröffentlichung: April 2025
+-->
 ## 1. Einleitung
 
 Bürgerbildung vermittelt das notwendige Wissen und die Fähigkeiten, um aktiv und reflektiert an der kollektiven Demokratie teilnehmen zu können.  
@@ -55,4 +60,6 @@ Sie ist eine Grundvoraussetzung für eine funktionierende, selbstbestimmte Gesel
 🕊️ *Dokument geprüft, integriert und für vollständig erklärt.*  
 🔒 *Freigegeben zur Umsetzung und demokratischen Stärkung.*
 
-[ADD] 06_Handbuch_Buergerbildung: Bürgerbildungskonzept für aktive Demokratie eingeführt
+---
+
+<sub><sup>Autor: Fabio Weidner | Version 1.0 | Bildung & Forschung | April 2025</sup></sub>
