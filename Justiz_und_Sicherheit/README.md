@@ -1,4 +1,4 @@
-# 📚 Justiz & Sicherheit – Handbücher der Kollektiven Räterepublik
+# Justiz & Sicherheit – Handbuch und Struktur
 <!--
 Autor: Fabio Weidner
 Version: 1.0
@@ -6,68 +6,74 @@ Sektion: Justiz & Sicherheit
 Veröffentlichung: April 2025
 -->
 
-Willkommen im Ordner **Justiz_und_Sicherheit**.  
-Hier sind alle offiziellen Handbücher gesammelt, die die juristische und sicherheitspolitische Struktur der Kollektiven Räterepublik definieren.
+## Inhaltsverzeichnis
 
----
+- [00 Glossar](#00_glossar_justiz_und_sicherheit)
+- [01 Handbuch Justizsystem](#01_handbuch_justizsystem)
+- [02 Handbuch Tribunalgericht](#02_handbuch_tribunalgericht)
+- [03 Handbuch Bezirksgerichte](#03_handbuch_bezirksgerichte)
+- [04 Handbuch Schlichtungsstellen](#04_handbuch_schlichtungsstellen)
+- [05 Handbuch Ethik, Ombudsstellen & kollektive Integrität](#05_handbuch_ethik_ombudsstellen_und_integrität)
+- [06 Handbuch Gruppe Sicherheit](#06_handbuch_gruppe_sicherheit)
+- [07 Handbuch Sicherheitsdienste](#07_handbuch_sicherheitsdienste)
+- [08 Handbuch Krisenmanagement und Verteidigung](#08_handbuch_krisenmanagement_und_verteidigung)
+- [09 Handbuch Militärische Grundstrukturen und Krisenverteidigung](#09_handbuch_militaerische_grundstrukturen_und_krisenverteidigung)
+- [10 Handbuch Maritime Sicherheitseinheit](#10_handbuch_maritime_sicherheitseinheit)
+- [11 Handbuch Luftsicherheit und Hochgeschwindigkeitstransporte](#11_handbuch_luftsicherheit_und_hochschnelltransporte)
+- [12 Handbuch Cybersicherheit](#12_handbuch_cybersicherheit)
 
-## 📖 Übersicht der Handbücher:
+## 00 Glossar Justiz & Sicherheit
 
-| Nr. | Titel | Status |
-|:---:|:------------------------------------------------|:--------:|
-| 01 | Handbuch Tribunalgericht | ✅ Abgeschlossen |
-| 02 | Handbuch Bezirksgerichte | ✅ Abgeschlossen |
-| 03 | Handbuch Schlichtungsstellen | ✅ Abgeschlossen |
-| 04 | Handbuch Ethik, Ombudsstellen & kollektive Integrität | ✅ Abgeschlossen |
-| 05 | Handbuch Ethikrat & Ombudsstellen | ✅ Abgeschlossen |
-| 06 | Handbuch Sicherheitsdienste | ✅ Abgeschlossen |
-| 07 | Handbuch Verteidigungsstruktur | ✅ Abgeschlossen |
-| 08 | Handbuch Cybersicherheitsdienste | ✅ Abgeschlossen |
+Das Glossar stellt eine Sammlung von Definitionen und Erklärungen relevanter Begriffe dar, die in der Justiz & Sicherheit Sektion verwendet werden. Es dient dazu, sicherzustellen, dass alle Leser die grundlegenden Konzepte verstehen, die in den verschiedenen Handbüchern behandelt werden.
 
----
+## 01 Handbuch Justizsystem
 
-## ⚖️ Kernbereiche:
+Dieses Handbuch bietet einen umfassenden Überblick über das Justizsystem der Kollektiven Räterepublik. Es umfasst die Strukturen der verschiedenen Gerichte und die Grundprinzipien des Rechtssystems.
 
-- **Rechtsprechung:**  
-  - Tribunalgericht (oberstes Gericht)  
-  - Bezirksgerichte (lokale Instanzen)  
-  - Schlichtungsstellen (alternative Konfliktlösung)
+## 02 Handbuch Tribunalgericht
 
-- **Ethik & Ombudsarbeit:**  
-  - Ethische Reflexion  
-  - Schutzräume für Hinweise und Beschwerden  
-  - Vertrauensaufbau und Transparenz
+Das Tribunalgericht ist die höchste Instanz für die Beurteilung schwerwiegender rechtlicher und ethischer Konflikte. In diesem Handbuch werden seine Aufgaben, Verfahren und die Struktur beschrieben.
 
-- **Sicherheitsdienste:**  
-  - Schutz öffentlicher Einrichtungen  
-  - Krisenintervention  
-  - Bürgernahe Sicherheit, deeskalativ
+## 03 Handbuch Bezirksgerichte
 
-- **Verteidigung:**  
-  - Dezentrale Infrastrukturverteidigung  
-  - Schutz der zivilen Bevölkerung
+Die Bezirksgerichte befassen sich mit lokalen rechtlichen Angelegenheiten. Dieses Handbuch erklärt ihre Zuständigkeit, Struktur und Funktionsweise.
 
-- **Cybersicherheit:**  
-  - Schutz kritischer digitaler Infrastruktur  
-  - Krisenmanagement bei Cyberangriffen
+## 04 Handbuch Schlichtungsstellen
 
----
+Schlichtungsstellen spielen eine wichtige Rolle bei der Konfliktlösung auf regionaler Ebene. Dieses Handbuch behandelt ihre Aufgaben, wie sie mit Konflikten umgehen und wie sie Streitigkeiten schlichten.
 
-## 🛡️ Besondere Prinzipien:
+## 05 Handbuch Ethik, Ombudsstellen & kollektive Integrität
 
-- **Unabhängigkeit der Justiz** gegenüber politischen Organen  
-- **Deeskalation & Verteidigung** statt Kontrolle und Repression  
-- **Zugängliche Ethikverfahren** für alle Bürger:innen  
-- **Maximale Transparenz und Rechenschaftspflicht**  
-- **Kollektive Weiterentwicklung** durch regelmäßige Evaluationen
+Dieses Handbuch beschreibt die Ethikrichtlinien und die Rolle der Ombudsstellen in der Kollektiven Räterepublik. Es geht um die Förderung einer offenen und verantwortungsbewussten Gesellschaft.
 
----
+## 06 Handbuch Gruppe Sicherheit
 
-✅ *Alle Handbücher wurden systematisch geprüft und vollständig integriert.*  
-🗓️ *Stand: 06.04.2025*  
-👥 *Verantwortlich: Projektteam Kollektive Räterepublik – Ressort Justiz & Sicherheit*  
+Sicherheitsdienste und ihre organisatorischen Strukturen werden hier erläutert, ebenso wie die speziellen Aufgaben der Gruppe Sicherheit innerhalb der Kollektiven Räterepublik.
+
+## 07 Handbuch Sicherheitsdienste
+
+Sicherheitsdienste sind für die Aufrechterhaltung der öffentlichen Ordnung zuständig. Dieses Handbuch geht auf ihre Aufgaben und Organisation ein.
+
+## 08 Handbuch Krisenmanagement und Verteidigung
+
+Dieses Handbuch behandelt die organisatorischen und funktionalen Aspekte des Krisenmanagements und der Verteidigungsstrategien der Kollektiven Räterepublik.
+
+## 09 Handbuch Militärische Grundstrukturen und Krisenverteidigung
+
+Hier wird die militärische Struktur sowie die Strategien zur Krisenverteidigung innerhalb der Kollektiven Räterepublik behandelt.
+
+## 10 Handbuch Maritime Sicherheitseinheit
+
+Die maritime Sicherheitseinheit stellt sicher, dass alle Seewege und Küstenregionen der Kollektiven Räterepublik sicher und frei von Bedrohungen bleiben. Dieses Handbuch beschreibt die Aufgaben und Organisation dieser Einheit.
+
+## 11 Handbuch Luftsicherheit und Hochgeschwindigkeitstransporte
+
+Luftsicherheit und die Absicherung von Hochgeschwindigkeitstransportsystemen sind essenziell für die Sicherheit und Stabilität. Dieses Handbuch behandelt die relevanten Verfahren und Strukturen.
+
+## 12 Handbuch Cybersicherheit
+
+Das Handbuch für Cybersicherheit beschreibt die Verfahren und Methoden zum Schutz vor digitalen Bedrohungen. Es umfasst auch die Arbeit von Cyberabwehrteams und den Schutz wichtiger Informationssysteme.
 
 ---
 
 <sub><sup>Autor: Fabio Weidner | Version 1.0 | Justiz & Sicherheit | April 2025</sup></sub>
-
