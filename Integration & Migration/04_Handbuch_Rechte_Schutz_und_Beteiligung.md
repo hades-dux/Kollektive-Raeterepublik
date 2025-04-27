@@ -1,4 +1,10 @@
 # 🛡️ Handbuch für Rechte, Schutz & Beteiligung der Kollektiven Räterepublik
+<!--
+Autor: Fabio Weidner
+Version: 1.0
+Sektion: Integration & Migration
+Veröffentlichung: April 2025
+-->
 
 ## 1. Einleitung
 
