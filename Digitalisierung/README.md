@@ -1,5 +1,10 @@
 # 💻 Digitalisierung – Handbücher der Kollektiven Räterepublik
-
+<!--
+Autor: Fabio Weidner
+Version: 1.0
+Sektion: Digitalisierung
+Veröffentlichung: April 2025
+-->
 Willkommen im Bereich **Digitalisierung**.  
 Hier findest du alle Strukturen, Konzepte und Schutzsysteme rund um das digitale Ökosystem der Kollektiven Räterepublik.
 
@@ -37,3 +42,4 @@ Hier findest du alle Strukturen, Konzepte und Schutzsysteme rund um das digitale
 
 ---
 
+<sub><sup>Autor: Fabio Weidner | Version 1.0 | Digitalisierung | April 2025</sup></sub>
