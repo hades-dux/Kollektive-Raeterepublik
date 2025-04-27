@@ -1,4 +1,10 @@
 # Handbuch für das Bildungssystem der Kollektiven Räterepublik
+<!--
+Autor: Fabio Weidner
+Version: 1.0
+Sektion: Bildung & Forschung
+Veröffentlichung: April 2025
+-->
 
 ## Einleitung: Warum wir Bildung neu denken mussten
 
@@ -101,3 +107,7 @@ Alle Einrichtungen sind **öffentlich**, **barrierefrei** und qualitätsgesicher
 📅 *Datum: 05.04.2025, 22:45 Uhr*  
 🕊️ *Dokument geprüft, systemisch eingebunden und für vollständig erklärt.*  
 🔒 *Freigegeben zur Umsetzung, Anwendung und kollektiven Weiterentwicklung.*
+
+---
+
+<sub><sup>Autor: Fabio Weidner | Version 1.0 | Bildung & Forschung | April 2025</sup></sub>
