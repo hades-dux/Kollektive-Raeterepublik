@@ -1,4 +1,10 @@
 # 🚨 Handbuch für Notfallmedizin und Krisenvorsorge der Kollektiven Räterepublik
+<!--
+Autor: Fabio Weidner
+Version: 1.0
+Sektion: Gesundheit
+Veröffentlichung: April 2025
+-->
 
 ## 1. Einleitung
 
