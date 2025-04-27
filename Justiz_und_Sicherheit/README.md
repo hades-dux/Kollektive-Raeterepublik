@@ -1,4 +1,10 @@
 # 📚 Justiz & Sicherheit – Handbücher der Kollektiven Räterepublik
+<!--
+Autor: Fabio Weidner
+Version: 1.0
+Sektion: Justiz & Sicherheit
+Veröffentlichung: April 2025
+-->
 
 Willkommen im Ordner **Justiz_und_Sicherheit**.  
 Hier sind alle offiziellen Handbücher gesammelt, die die juristische und sicherheitspolitische Struktur der Kollektiven Räterepublik definieren.
@@ -63,14 +69,5 @@ Hier sind alle offiziellen Handbücher gesammelt, die die juristische und sicher
 
 ---
 
-# 💬 Commit-Message für den Upload:
-
-```plaintext
-docs: Finales README für Justiz_und_Sicherheit 📚🛡️
-
-- Übersicht aller Handbücher für Justiz, Ethik, Sicherheit, Verteidigung und Cybersicherheit ergänzt
-- Kernbereiche und Prinzipien zusammengefasst
-- Projektstand dokumentiert (Stand: 06.04.2025)
-- Vollständigkeitsprüfung abgeschlossen
-
+<sub><sup>Autor: Fabio Weidner | Version 1.0 | Justiz & Sicherheit | April 2025</sup></sub>
 
