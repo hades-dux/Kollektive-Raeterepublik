@@ -1,3 +1,10 @@
+<!--
+Autor: Fabio Weidner
+Version: 1.0
+Sektion: Unterhaltung
+Veröffentlichung: April 2025
+-->
+
 # 📖 00_Glossar Unterhaltung der Kollektiven Räterepublik
 
 Willkommen im **Glossar für den Bereich Unterhaltung**.  
@@ -27,3 +34,4 @@ Hier findest du zentrale Begriffe und Definitionen, die in den Handbüchern dies
 
 ---
 
+<sub><sup>Autor: Fabio Weidner | Version 1.0 | Unterhaltung | April 2025</sup></sub>
