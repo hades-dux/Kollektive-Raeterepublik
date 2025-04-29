@@ -1,3 +1,10 @@
+<!--
+Autor: Fabio Weidner
+Version: 1.0
+Sektion: Politik & Verwaltung – Sonderräte
+Veröffentlichung: April 2025
+-->
+
 # 🌍 Handbuch für den Interkontinentalen Rat für Außenpolitik der Kollektiven Räterepublik
 
 ## 1. Einleitung
