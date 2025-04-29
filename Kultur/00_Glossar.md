@@ -10,7 +10,7 @@
 | **Kleiner Rat der Kulturgruppe** | Leitendes Gremium der Kulturgruppe, gewählt von den Mitgliedern, zuständig für Organisation, Kommunikation und Protokollierung. |
 | **Kulturelle Erinnerung** | Pflege und Weitergabe historischer, gesellschaftlicher und kultureller Identitäten im kollektiven Gedächtnis. |
 | **Kunstförderung** | Unterstützung von Künstlern und kulturellen Projekten durch Mittel, Räume und organisatorische Hilfe. |
-| **Freier Kunstmarkt** | Ein offener, nicht-kommerziell dominierter Raum für künstlerisches Schaffen und Präsentieren außerhalb klassischer Marktmechanismen. |
+| **Kunstmarkt freier Raum** | Ein offener, nicht-kommerziell dominierter Raum für künstlerisches Schaffen und Präsentieren außerhalb klassischer Marktmechanismen. |
 | **Kulturpolitik** | Strategien und Maßnahmen zur Gestaltung der kulturellen Entwicklung innerhalb der Kollektiven Räterepublik. |
 | **Experimentelle Kunst** | Kunstformen, die traditionelle Ausdrucksformen überschreiten und innovative Methoden ausprobieren. |
 | **Kulturelle Räume** | Physische Orte (wie Ateliers, Veranstaltungsräume, Treffpunkte), die für kulturelle Entfaltung erhalten und geschützt werden sollen. |
