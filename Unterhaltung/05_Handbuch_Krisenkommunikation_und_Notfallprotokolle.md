@@ -1,3 +1,10 @@
+<!--
+Autor: Fabio Weidner
+Version: 1.0
+Sektion: Unterhaltung
+Veröffentlichung: April 2025
+-->
+
 # 🚨 Handbuch für Krisenkommunikation & Notfallprotokolle der Gruppe Unterhaltung in der Kollektiven Räterepublik
 
 ## 1. Einleitung
