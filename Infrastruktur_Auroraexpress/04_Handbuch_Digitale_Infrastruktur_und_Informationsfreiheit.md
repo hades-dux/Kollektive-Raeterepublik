@@ -1,3 +1,10 @@
+<!--
+Autor: Fabio Weidner
+Version: 1.0
+Sektion: Infrastruktur
+Veröffentlichung: April 2025
+-->
+
 # 📘 04_Handbuch_Digitale_Infrastruktur_und_Informationsfreiheit
 
 ## Einleitung: Digitalisierung als Gemeingut
