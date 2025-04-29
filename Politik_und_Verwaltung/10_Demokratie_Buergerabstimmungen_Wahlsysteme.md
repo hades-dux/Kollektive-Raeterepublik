@@ -1,4 +1,10 @@
 # 🗳️ Handbuch für Demokratie, Bürgerabstimmungen & Wahlsysteme der Kollektiven Räterepublik
+<!--
+Autor: Fabio Weidner
+Version: 1.0
+Sektion: Politik & Verwaltung
+Veröffentlichung: April 2025
+-->
 
 ## Präambel
 
