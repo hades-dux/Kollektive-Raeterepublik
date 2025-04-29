@@ -1,3 +1,10 @@
+<!--
+Autor: Fabio Weidner
+Version: 1.0
+Sektion: Infrastruktur
+Veröffentlichung: April 2025
+-->
+
 # 📘 10_Handbuch_Oekologische_Baustandards_in_Infrastruktur
 
 ## Einleitung: Bauen im Einklang mit Mensch und Natur
