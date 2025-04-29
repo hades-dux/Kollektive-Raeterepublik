@@ -76,4 +76,10 @@ Die Kollektive Räterepublik verfolgt eine Kulturpolitik, die nicht nur Kunst un
 🔐 *Freigegeben zur Umsetzung, Anwendung und Weiterentwicklung*
 
 ---
+<!--
+Autor: Fabio Weidner
+Version: 1.0
+Sektion: Kultur
+Veröffentlichung: April 2025
+-->
 
