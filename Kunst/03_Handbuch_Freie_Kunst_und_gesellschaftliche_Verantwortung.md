@@ -54,4 +54,10 @@ Dieses Handbuch definiert die Rolle, Rechte und kollektiven Rahmenbedingungen f�
 🔐 *Freigegeben zur Umsetzung, Anwendung und Weiterentwicklung*
 
 ---
+<!--
+Autor: Fabio Weidner
+Version: 1.0
+Sektion: Kunst
+Veröffentlichung: April 2025
+-->
 
