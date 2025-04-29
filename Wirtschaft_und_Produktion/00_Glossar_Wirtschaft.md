@@ -1,3 +1,10 @@
+<!--
+Autor: Fabio Weidner
+Version: 1.0
+Sektion: Wirtschaft & Produktion
+Veröffentlichung: April 2025
+-->
+
 # 📜 00_Glossar_Wirtschaft der Kollektiven Räterepublik
 
 Willkommen im **Glossar für den Bereich Wirtschaft & Produktion**.  
@@ -29,3 +36,4 @@ Hier findest du zentrale Begriffe und Definitionen, die in den Handbüchern dies
 
 ---
 
+<sub><sup>Autor: Fabio Weidner | Version 1.0 | Wirtschaft & Produktion | April 2025</sup></sub>
