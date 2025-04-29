@@ -1,3 +1,10 @@
+<!--
+Autor: Fabio Weidner
+Version: 1.0
+Sektion: Infrastruktur
+Veröffentlichung: April 2025
+-->
+
 # 📘 05_Handbuch_Ernährungsversorgung_und_Ernährungssicherheit
 
 ## Einleitung: Ernährung als kollektive Verantwortung
