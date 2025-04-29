@@ -54,4 +54,12 @@ Die **Gruppe Kunst** in der Kollektiven Räterepublik trägt die Verantwortung f
 🏩 *Verantwortlich: Gruppe Kunst – Kollektive Räterepublik*  
 🔐 *Freigegeben zur Umsetzung, Anwendung und kollektiven Weiterentwicklung*
 
+---
+<!--
+Autor: Fabio Weidner
+Version: 1.0
+Sektion: Kunst
+Veröffentlichung: April 2025
+-->
+
 
