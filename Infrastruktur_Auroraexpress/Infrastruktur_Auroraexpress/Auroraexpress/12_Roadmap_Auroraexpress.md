@@ -1,3 +1,10 @@
+<!--
+Autor: Fabio Weidner
+Version: 1.0
+Sektion: Infrastruktur – Auroraexpress
+Veröffentlichung: April 2025
+-->
+
 # 🗺️ Auroraexpress – Roadmap & Zeitachsen
 
 ## Ziel
