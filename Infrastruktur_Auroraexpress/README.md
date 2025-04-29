@@ -1,38 +1,41 @@
-# 📚 Infrastruktur Allgemein – Kollektive Räterepublik
+<!--
+Autor: Fabio Weidner
+Version: 1.0
+Sektion: Infrastruktur
+Veröffentlichung: April 2025
+-->
 
-Willkommen im Bereich **Infrastruktur Allgemein** der Kollektiven Räterepublik.
+# 🏗️ Infrastruktur – Kollektive Räterepublik
 
-Hier findest du alle systematischen Regelungen und Handbücher zur Gestaltung, Entwicklung und Sicherung öffentlicher Infrastruktur. Infrastruktur wird als grundlegendes Gemeingut betrachtet – ökologisch, sozial, kollektiv und demokratisch organisiert.
-
----
-
-## 📖 Enthaltene Handbücher
-
-| Nr. | Titel |
-|:---:|:-----|
-| 01 | Handbuch Gruppe Infrastruktur |
-| 02 | Handbuch Kollektives Intranet |
-| 03 | Handbuch Infrastruktur & öffentliche Versorgung |
-| 04 | Handbuch Digitale Infrastruktur & Informationsfreiheit |
-| 05 | Handbuch Ernährungsversorgung & Ernährungssicherheit |
-| 06 | Handbuch Inklusion & Teilhabesicherung |
-| 07 | Handbuch Mobilität & Verkehrsinfrastruktur |
-| 08 | Handbuch Wohnen, Raumordnung & soziale Infrastruktur |
-| 09 | Handbuch Krisen- und Notfallinfrastruktur |
-| 10 | Handbuch Ökologische Baustandards in Infrastruktur |
+Dieser Bereich dokumentiert alle Grundstrukturen zur Versorgung, Mobilität, Digitalisierung, Inklusion und öffentlichen Ordnung innerhalb der Kollektiven Räterepublik.  
+Er beinhaltet außerdem die technischen und sozialen Standards für Infrastrukturprojekte.
 
 ---
 
-## 🌟 Leitgedanken
+## 📚 Inhaltsverzeichnis
 
-- Infrastruktur ist **kein Markt**, sondern **kollektive Basis** für Teilhabe und Lebensqualität.
-- **Nachhaltigkeit, Resilienz und soziale Gerechtigkeit** prägen alle Projekte und Planungen.
-- **Digitale und physische Infrastruktur** sind integraler Bestandteil demokratischer Selbstverwaltung.
+| Nr. | Titel | Beschreibung |
+|:--:|:------|:-------------|
+| 00 | [00_Glossar_Infrastruktur.md](./00_Glossar_Infrastruktur.md) | Glossar zentraler Begriffe aus dem Bereich Infrastruktur |
+| 01 | [01_Handbuch_Gruppe_Infrastruktur.md](./01_Handbuch_Gruppe_Infrastruktur.md) | Aufbau und interne Organisation der Gruppe Infrastruktur |
+| 02 | [02_Handbuch_Infrastruktur_und_Oeffentliche_Versorgung.md](./02_Handbuch_Infrastruktur_und_Oeffentliche_Versorgung.md) | Grundversorgung mit Wasser, Strom, Netzen etc. |
+| 03 | [03_Handbuch_Intranet_Kollektive_Raeterepublik.md](./03_Handbuch_Intranet_Kollektive_Raeterepublik.md) | Infrastruktur des digitalen Verwaltungsnetzes |
+| 04 | [04_Handbuch_Digitale_Infrastruktur_und_Informationsfreiheit.md](./04_Handbuch_Digitale_Infrastruktur_und_Informationsfreiheit.md) | Netzneutralität, Datenschutz, digitale Teilhabe |
+| 05 | [05_Handbuch_Ernährungsversorgung_und_Ernährungssicherheit.md](./05_Handbuch_Ernährungsversorgung_und_Ernährungssicherheit.md) | Lebensmittelsicherheit und Zugangssysteme |
+| 06 | [06_Handbuch_Inklusion_und_Teilhabesicherung.md](./06_Handbuch_Inklusion_und_Teilhabesicherung.md) | Barrierefreiheit, soziale Gerechtigkeit in der Infrastruktur |
+| 07 | [07_Handbuch_Mobilitaet_und_Verkehrsinfrastruktur.md](./07_Handbuch_Mobilitaet_und_Verkehrsinfrastruktur.md) | Öffentlicher Verkehr, Mobilitätswende, Auroraexpress |
+| 08 | [08_Handbuch_Wohnen_Raumordnung_und_Soziale_Infrastruktur.md](./08_Handbuch_Wohnen_Raumordnung_und_Soziale_Infrastruktur.md) | Wohnungsversorgung, Raumordnung, soziale Einrichtungen |
+| 09 | [09_Handbuch_Krisen- und_Notfallinfrastruktur.md](./09_Handbuch_Krisen- und_Notfallinfrastruktur.md) | Infrastrukturplanung für Katastrophenfälle |
+| 10 | [10_Handbuch_Oekologische_Baustandards_in_Infrastruktur.md](./10_Handbuch_Oekologische_Baustandards_in_Infrastruktur.md) | Nachhaltige Bauweise & Umweltschutz im Infrastrukturbereich |
 
 ---
 
-✅ **Status:** Alle Handbücher vollständig integriert und aktuell.  
-🔒 *Letzte Prüfung: 06.04.2025*
+## 🔖 Version & Veröffentlichung
+
+- Version: 1.0  
+- Freigegeben: April 2025  
+- Autor: Fabio Weidner
 
 ---
 
+<sub><sup>Autor: Fabio Weidner | Version 1.0 | Infrastruktur | April 2025</sup></sub>
