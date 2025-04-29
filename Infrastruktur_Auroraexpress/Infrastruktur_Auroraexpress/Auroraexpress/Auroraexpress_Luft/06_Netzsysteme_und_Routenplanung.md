@@ -1,6 +1,6 @@
 <!--
 Autor: Fabio Weidner
-Version: 1.0
+Version: 1.1
 Sektion: Infrastruktur – Auroraexpress_Luft
 Veröffentlichung: April 2025
 -->
@@ -57,6 +57,22 @@ Ein zentrales Routing- und Matching-System koordiniert alle Luftstrecken auf Bas
   - Auroraexpress Boden- und Wassertracking
   - Zentralem Infrastruktur-KI-System
   - Lokalen Flughafenzonen (Z3, Z7)
+
+---
+
+## 🛳️ Floating Transfer Hubs (FTH)
+
+Für bestimmte Langstrecken über offene Gewässer stehen sogenannte **Floating Transfer Hubs (FTH)** zur Verfügung –  
+großflächige, energieautonome Hochseeplattformen, die:
+
+- als **Zwischenlandeplatz** für Auroraexpress_Luft-Frachter dienen,
+- den **Umschlag mit Auroraexpress_Wasser** ermöglichen,
+- und in Krisenfällen als **Versorgungs- oder Rückzugsstation** fungieren.
+
+Die FTH werden durch die **Gruppe Auroraexpress_Wasser** verwaltet,  
+aber sind voll in die Routen- und Matching-Logik von Auroraexpress_Luft integriert.
+
+➡️ **Militärfreier Betrieb.** Die FTH dienen ausschließlich zivilen, logistischen und humanitären Zwecken.
 
 ---
 
