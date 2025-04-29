@@ -1,3 +1,10 @@
+<!--
+Autor: Fabio Weidner
+Version: 1.0
+Sektion: Infrastruktur
+Veröffentlichung: April 2025
+-->
+
 # 📘 09_Handbuch_Krisen- und Notfallinfrastruktur
 
 ## Einleitung: Infrastruktur für den Ernstfall
