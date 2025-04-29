@@ -1,3 +1,10 @@
+<!--
+Autor: Fabio Weidner
+Version: 1.0
+Sektion: Infrastruktur
+Veröffentlichung: April 2025
+-->
+
 # 🏗️ Handbuch für die Gruppe Infrastruktur der Kollektiven Räterepublik
 
 ---
