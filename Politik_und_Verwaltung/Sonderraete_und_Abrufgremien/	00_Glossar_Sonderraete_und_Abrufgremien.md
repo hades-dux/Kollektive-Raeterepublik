@@ -1,3 +1,10 @@
+<!--
+Autor: Fabio Weidner
+Version: 1.0
+Sektion: Politik & Verwaltung – Sonderräte
+Veröffentlichung: April 2025
+-->
+
 # 🧭 00_Übersicht_Sonderräte & Abrufgremien – Kollektive Räterepublik
 
 Willkommen bei der Übersicht aller Sonderräte und Abrufgremien der Kollektiven Räterepublik.  
@@ -36,4 +43,8 @@ Diese Räte werden **nur bei Bedarf aktiviert** und dienen der **schnellen, gezi
 ✅ *Alle Dokumente geprüft und bereit für Umsetzung und Anwendung.*  
 📅 *Stand: 07.04.2025*  
 🏛️ *Projektteam Kollektive Räterepublik – Ressort Politik & Verwaltung*
+
+---
+
+<sub><sup>Autor: Fabio Weidner | Version 1.0 | Politik & Verwaltung – Sonderräte | April 2025</sup></sub>
 
