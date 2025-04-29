@@ -72,3 +72,9 @@ Die **Gruppe Kultur** ist verantwortlich für die Gestaltung und Organisation de
 🔐 *Freigegeben zur Umsetzung, Anwendung und Weiterentwicklung*
 
 ---
+<!--
+Autor: Fabio Weidner
+Version: 1.0
+Sektion: Kultur
+Veröffentlichung: April 2025
+-->
