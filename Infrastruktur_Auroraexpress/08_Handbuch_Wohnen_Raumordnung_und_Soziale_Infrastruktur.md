@@ -1,3 +1,10 @@
+<!--
+Autor: Fabio Weidner
+Version: 1.0
+Sektion: Infrastruktur
+Veröffentlichung: April 2025
+-->
+
 # 📘 08_Handbuch_Wohnen_Raumordnung_und_Soziale_Infrastruktur
 
 ## Einleitung: Wohnen als Menschenrecht – nicht als Ware
