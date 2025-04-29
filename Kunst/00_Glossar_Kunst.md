@@ -26,3 +26,12 @@ Hier findest du zentrale Begriffe und Definitionen, die in den Handbüchern dies
 🔐 *Freigegeben zur Nutzung und Weiterentwicklung*
 
 ---
+<!--
+Autor: Fabio Weidner
+Version: 1.0
+Sektion: Kunst
+Veröffentlichung: April 2025
+-->
+---
+
+<sub><sup>Autor: Fabio Weidner | Version 1.0 | Kunst | April 2025</sup></sub>
