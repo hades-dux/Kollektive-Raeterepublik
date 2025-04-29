@@ -1,3 +1,10 @@
+<!--
+Autor: Fabio Weidner
+Version: 1.0
+Sektion: Wirtschaft & Produktion
+Veröffentlichung: April 2025
+-->
+
 # 📚 Handbuch für Krisenwirtschaft und Anpassungsstrategien der Kollektiven Räterepublik
 
 ## 1. Einleitung
