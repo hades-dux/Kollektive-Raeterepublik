@@ -1,4 +1,10 @@
 # Handbuch für den Bezirksrat der Kollektiven Räterepublik
+<!--
+Autor: Fabio Weidner
+Version: 1.0
+Sektion: Politik & Verwaltung
+Veröffentlichung: April 2025
+-->
 
 ## 1. Einleitung
 Der **Bezirksrat** ist eine entscheidende Instanz in der **Exekutive** der Kollektiven Räterepublik. Er übernimmt die Verwaltung und Koordination auf lokaler Ebene und sorgt für die Umsetzung politischer Entscheidungen, die vom Kollektivrat oder dem Kollektiv getroffen wurden. Der Bezirksrat stellt sicher, dass die Bedürfnisse der Bürger:innen in den einzelnen Bezirken berücksichtigt werden und ist in direkter Kommunikation mit den Gruppen und den jeweiligen kleinen Räten.
