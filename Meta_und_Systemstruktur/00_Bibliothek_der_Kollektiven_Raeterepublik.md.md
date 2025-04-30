@@ -1,3 +1,8 @@
+🔎 **Suchfunktion:**  
+👉 [Klicke hier, um die gesamte Bibliothek nach Stichwörtern zu durchsuchen](https://github.com/hades-dux/Kollektive-Raeterepublik/search)
+
+Oder nutze auf GitHub einfach die Tastenkombination `T` (Go to file) oder `Cmd+F` / `Strg+F` für Seiteninterne Suche.
+
 <!--
 Autor: Fabio Weidner
 Version: 1.0
