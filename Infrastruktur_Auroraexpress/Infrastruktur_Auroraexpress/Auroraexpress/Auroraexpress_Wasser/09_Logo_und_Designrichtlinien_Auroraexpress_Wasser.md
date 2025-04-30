@@ -5,6 +5,10 @@ Sektion: Infrastruktur – Auroraexpress_Wasser
 Veröffentlichung: April 2025
 -->
 
+<p align="right">
+  <img src="./Auroraexpress_Wasser_Logo.png" alt="Logo Auroraexpress Wasser" height="80">
+</p>
+
 # 🎨 09 – Logo & Designrichtlinien Auroraexpress_Wasser
 
 ---
@@ -13,6 +17,14 @@ Veröffentlichung: April 2025
 
 Das Logo von Auroraexpress_Wasser folgt dem einheitlichen Stil des Auroraexpress-Systems  
 und integriert ein wellenförmiges Element, das Bewegung, Tiefe und ökologische Stabilität symbolisiert.
+
+---
+
+### 🖼️ Offizielle Darstellung
+
+![Auroraexpress Wasser Logo](./Auroraexpress_Wasser_Logo.png)
+
+---
 
 ### 📐 Aufbau
 
