@@ -1,3 +1,7 @@
+<p align="right">
+  <img src="https://raw.githubusercontent.com/hades-dux/Kollektive-Raeterepublik/main/Meta_und_Systemstruktur/logo_offiziell.png" alt="Logo der Kollektiven Räterepublik" height="80">
+</p>
+
 # 🎨 Handbuch zur Förderung und zum Schutz von Kulturellen Räumen in der Kollektiven Räterepublik
 
 ## 1. Einleitung
