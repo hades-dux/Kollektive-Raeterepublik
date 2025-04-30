@@ -1,3 +1,7 @@
+<p align="right">
+  <img src="./Auroraexpress_Boden_Logo.png" alt="Auroraexpress Logo" height="80">
+</p>
+
 <!--
 Autor: Fabio Weidner
 Version: 1.0
@@ -29,21 +33,24 @@ Die Farben wurden bewusst kontrastreich gewählt: Anthrazit als stabiler Hinterg
 ### 3. Aufbau des Logos
 
 #### 3.1. Der Phönix
-- **Stilisierter Flugkörper**, mit symmetrischen Flügeln nach oben geöffnet.
+- **Stilisierter Flugkörper**, der sich spiralförmig nach oben bewegt.
 - **Kopf und Blickrichtung** zeigen nach vorne – Symbol für Zukunftsorientierung.
 - **Flügelform** erinnert an Trassenpläne und Schienennetze.
+- **Kreisbewegung** als Ausdruck der geschlossenen Systemlogik der Räterepublik.
 - **Konturlinien** sind scharfkantig und klar – Ausdruck kollektiver Struktur und Planung.
 
 #### 3.2. Das rote Detail
-- Befindet sich im oberen Brustbereich des Phönix oder an den Flügelansätzen.
-- Ist Blickfang und Symbol für Dynamik, Mobilität, Transformation.
+- **Roter Schweif**, der sich vom Körper löst und in ein oranges Auslaufen übergeht.
+- **Symbol für Dynamik, Mobilität, Transformation und revolutionäre Energie.**
 
 #### 3.3. Der Energieakzent im inneren Flügel
 - **Form:** fließender, halbtransparenter Energiestreifen
 - **Farbe:** Aurora-Rot (#E6242B)
-- **Bedeutung:** symbolisiert Fortschrittsenergie und gemeinsame Verantwortung
-- **Effekt:** kann digital leicht pulsieren oder schimmern
-- **Position:** rechter innerer Flügel, zentral eingebettet
+- **Bedeutung:** Fortschrittsenergie und gemeinsame Verantwortung
+- **Effekt:** optional animiert (pulsierend / schimmernd)
+- **Position:** rechter Flügel, zentral eingebettet
+
+---
 
 ## 🖼️ Offizielle Darstellung
 
@@ -53,7 +60,11 @@ Die Farben wurden bewusst kontrastreich gewählt: Anthrazit als stabiler Hinterg
 
 ![Auroraexpress Bodenlogo](./Auroraexpress_Boden_Logo.png)
 
+Das offizielle Logo des Auroraexpress zeigt einen stilisierten **Phönix**, der sich in einer kreisförmigen Bewegung aufbaut – Symbol für das **geschlossene, sich selbst tragende System** der Kollektiven Räterepublik. Der Körper des Vogels ist **schlicht in Grau gehalten**, wodurch die **leuchtend roten und goldenen Flammenakzente** an Flügeln und Schweif besonders hervortreten.
 
+Die Form der Flügel und der Umriss des Körpers erinnern an ein **Schienennetz in Bewegung** – Ausdruck kollektiver Infrastruktur, koordinierter Energie und geteilten Fortschritts. Die stilisierte Dynamik unterstreicht, dass der Auroraexpress nicht nur Verkehrsmittel, sondern auch **ideologischer Träger einer neuen Mobilitätskultur** ist.
+
+Der goldene Schnabel markiert den Willen zur Durchsetzung – der rote Schweif fließt aus dem Körper heraus und verweist farblich auf die **kommunistische Energie**, die den Wandel antreibt.
 
 ---
 
