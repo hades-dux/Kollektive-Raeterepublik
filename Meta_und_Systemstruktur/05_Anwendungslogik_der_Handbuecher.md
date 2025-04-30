@@ -26,9 +26,9 @@ Die Kollektive Räterepublik verfügt über ein strukturiertes System von Handb�
 Ein Handbuch ist ein offizielles Regel- und Strukturdokument zu einem bestimmten Themenbereich (z. B. Gesundheit, Wirtschaft, Justiz). Es enthält verbindliche Vorgaben, Prozesse, Aufgabenverteilungen und Zuständigkeiten.
 
 **Kerneigenschaften:**
-- Verbindlich und überprüfbar
-- Thematisch fokussiert
-- Modular und revisionsfähig
+- Verbindlich und überprüfbar  
+- Thematisch fokussiert  
+- Modular und revisionsfähig  
 
 ---
 
@@ -36,18 +36,18 @@ Ein Handbuch ist ein offizielles Regel- und Strukturdokument zu einem bestimmten
 
 Alle Handbücher folgen einer standardisierten Struktur:
 
-1. **Metadaten (HTML-Kommentar)**
-   - Autor, Version, Sektion, Veröffentlichungsdatum
-2. **Einleitung**
-   - Worum geht es? Was regelt das Handbuch?
-3. **Zuständigkeiten**
-   - Welche Gremien oder Gruppen sind betroffen oder verantwortlich?
-4. **Regelteil / Strukturteil**
-   - Paragraphen, Funktionsbeschreibungen, Listen oder Ablaufdiagramme
-5. **Rückkopplung & Kontrolle**
-   - Wer darf das Handbuch ändern und wie?
-6. **Stempel (sichtbar)**
-   - Autor, Version, Sektion, Datum als Fußnote
+1. **Metadaten (HTML-Kommentar)**  
+   - Autor, Version, Sektion, Veröffentlichungsdatum  
+2. **Einleitung**  
+   - Worum geht es? Was regelt das Handbuch?  
+3. **Zuständigkeiten**  
+   - Welche Gremien oder Gruppen sind betroffen oder verantwortlich?  
+4. **Regelteil / Strukturteil**  
+   - Paragraphen, Funktionsbeschreibungen, Listen oder Ablaufdiagramme  
+5. **Rückkopplung & Kontrolle**  
+   - Wer darf das Handbuch ändern und wie?  
+6. **Stempel (sichtbar)**  
+   - Autor, Version, Sektion, Datum als Fußnote  
 
 ---
 
@@ -65,10 +65,10 @@ Alle Handbücher folgen einer standardisierten Struktur:
 
 ## 🧭 Navigation & Orientierung
 
-- **00_Bibliothek_der_Kollektiven_Raeterepublik.md** als zentraler Einstiegspunkt
-- **Nummerierte Dateinamen** zur Sortierung und Navigation (z. B. `03_Struktur_und_Dokumentationsstandards.md`)
-- **Verlinkung innerhalb der Dokumente** per relativer Pfadangabe
-- **Meta-Ordner** für systemweite Regeln und übergreifende Orientierung
+- **00_Bibliothek_der_Kollektiven_Raeterepublik.md** als zentraler Einstiegspunkt  
+- **Nummerierte Dateinamen** zur Sortierung und Navigation (z. B. `03_Struktur_und_Dokumentationsstandards.md`)  
+- **Verlinkung innerhalb der Dokumente** per relativer Pfadangabe  
+- **Meta-Ordner** für systemweite Regeln und übergreifende Orientierung  
 
 ---
 
@@ -78,8 +78,18 @@ Alle Handbücher folgen einer standardisierten Struktur:
 |------------------------|----------------------------------------------------|
 | **Neue Mitglieder**    | Erste Orientierung, Begriffsverständnis           |
 | **Gruppenmitglieder**  | Anwendung in der täglichen Organisation           |
-| **Räte & Verantwortliche** | Umsetzung von Verfahren und Kontrolle          |
-| **Beobachtende Kollektive** | Nachvollziehbarkeit & Übertragbarkeit       |
+| **Räte & Verantwortliche** | Umsetzung von Verfahren und Kontrolle        |
+| **Beobachtende Kollektive** | Nachvollziehbarkeit & Übertragbarkeit     |
+
+---
+
+## 🎨 Visuelle Standards
+
+Alle offiziellen Dokumente der Kollektiven Räterepublik folgen einem einheitlichen visuellen Rahmen:
+
+- **Logo oben rechts:** Jedes verfasste offizielle Dokument trägt das offizielle Emblem der Kollektiven Räterepublik oben rechts.
+- **Format:** Das Logo wird als eingebundenes Bild (`<img>`-Tag) im Kopfbereich des Dokuments angezeigt.
+- **Ausnahme:** Auroraexpress-Handbücher verwenden ein eigenes Logo, ebenfalls oben rechts positioniert, abgestimmt auf ihren spezifischen Bereich.
 
 ---
 
@@ -88,5 +98,3 @@ Alle Handbücher folgen einer standardisierten Struktur:
 Die Handbücher sind das zentrale Wissensträgermodul der Kollektiven Räterepublik. Ihre einheitliche Form, ihr offener Zugang und ihre klare Struktur sichern Transparenz, Nachvollziehbarkeit und Reproduzierbarkeit des gesamten politischen Systems.
 
 ---
-
-
