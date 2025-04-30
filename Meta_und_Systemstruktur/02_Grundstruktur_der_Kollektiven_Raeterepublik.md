@@ -56,6 +56,15 @@ Auf Ebene der Bezirke koordinieren Bezirksräte Abstimmungen, verwalten Ressourc
 - In Krisenzeiten können eigene Krisenräte gebildet werden
 
 ### 3. Kollektivrat
+#### Ausschüsse des Kollektivrats
+
+Der Kollektivrat arbeitet nicht als monolithisches Gremium, sondern gliedert sich in **thematische Ausschüsse**, die jeweils einer bestimmten Gruppe (z. B. Gesundheit, Bildung, Wirtschaft) zugeordnet sind. Diese Ausschüsse:
+
+- stehen in direktem Kontakt mit den entsprechenden Gruppen,
+- helfen bei der Umsetzung kollektiver Zielsetzungen,
+- bewerten Ergebnisse und kommunizieren Rückmeldungen an den Gesamt-Kollektivrat,
+- und sichern dadurch eine strategische Abstimmung zwischen thematischer Arbeit und gesamtgesellschaftlicher Perspektive.
+
 Der Kollektivrat ist das höchste koordinierende Organ auf Republikebene. Er organisiert Abstimmungen, kontrolliert Exekutivgremien und erstellt zentrale Wirtschafts- und Forschungspläne.
 
 - Begrenztes Vetorecht bei Grundsatzentscheidungen
