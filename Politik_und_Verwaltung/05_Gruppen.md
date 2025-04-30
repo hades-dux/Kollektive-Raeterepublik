@@ -33,6 +33,7 @@ Darüber hinaus ist sie verantwortlich für die **Grundstruktur aller Gruppen** 
 
 ## 3. Übersicht der Gruppen in der Kollektiven Räterepublik
 
+- Außenpolitik
 - Bildung
 - Kunst
 - Infrastruktur
