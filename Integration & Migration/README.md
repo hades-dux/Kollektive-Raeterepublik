@@ -1,3 +1,7 @@
+<p align="right">
+  <img src="https://raw.githubusercontent.com/hades-dux/Kollektive-Raeterepublik/main/Meta_und_Systemstruktur/logo_offiziell.png" alt="Logo der Kollektiven Räterepublik" height="80">
+</p>
+
 # Integration & Migration in der Kollektiven Räterepublik
 
 Willkommen im Bereich **Integration & Migration** der offiziellen Bibliothek der Kollektiven Räterepublik.
