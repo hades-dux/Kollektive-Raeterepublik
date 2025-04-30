@@ -1,3 +1,7 @@
+<p align="right">
+  <img src="https://raw.githubusercontent.com/hades-dux/Kollektive-Raeterepublik/main/Meta_und_Systemstruktur/logo_offiziell.png" alt="Logo der Kollektiven Räterepublik" height="80">
+</p>
+
 # Glossar – Justiz & Sicherheit in der Kollektiven Räterepublik
 
 Dieses Glossar dient als Nachschlagewerk für zentrale Begriffe der Sektion **Justiz & Sicherheit** innerhalb der Bibliothek der Kollektiven Räterepublik.
