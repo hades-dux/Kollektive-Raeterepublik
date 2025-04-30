@@ -67,4 +67,4 @@ Die Dokumente in diesem Ordner dienen:
 
 ---
 
-<sub><sup>Version 1.0 | Meta & Systemstruktur | April 2025</sup></sub>
+<sub><sup>Autor: Fabio Weidner | Version 1.0 | Meta & Systemstruktur | April 2025</sup></sub>
