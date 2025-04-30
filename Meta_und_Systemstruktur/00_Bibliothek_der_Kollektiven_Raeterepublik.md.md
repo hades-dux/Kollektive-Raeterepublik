@@ -1,3 +1,7 @@
+<p align="right">
+  <img src="https://raw.githubusercontent.com/hades-dux/Kollektive-Raeterepublik/main/Meta_und_Systemstruktur/logo_offiziell.png" alt="Logo der Kollektiven Räterepublik" height="80">
+</p>
+
 🔎 **Suchfunktion:**  
 👉 [Klicke hier, um die gesamte Bibliothek nach Stichwörtern zu durchsuchen](https://github.com/hades-dux/Kollektive-Raeterepublik/search)
 
