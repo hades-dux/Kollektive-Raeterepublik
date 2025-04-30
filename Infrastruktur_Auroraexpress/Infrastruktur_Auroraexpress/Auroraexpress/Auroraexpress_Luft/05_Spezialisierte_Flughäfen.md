@@ -1,3 +1,6 @@
+<p align="right">
+  <img src="./Auroraexpress_Luft_Logo.png" alt="Logo von Auroraexpress_Luft" height="80">
+</p>
 <!--
 Autor: Fabio Weidner
 Version: 1.0
