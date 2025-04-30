@@ -1,3 +1,6 @@
+<p align="right">
+  <img src="./Auroraexpress_Boden_Logo.png" alt="Auroraexpress Logo" height="80">
+</p>
 <!--
 Autor: Fabio Weidner
 Version: 1.0
