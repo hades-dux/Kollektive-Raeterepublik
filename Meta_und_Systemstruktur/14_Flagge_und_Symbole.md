@@ -54,7 +54,7 @@ Das Emblem der Kollektiven Räterepublik ist mehr als ein Logo – es ist ein ko
 
 ### 🔷 Offizielles Logo (freigestellt, z. B. für Formulare und Webseiten)
 
-![Offizielles Logo](./logo_offiziell_transparent.png)
+![Offizielles Logo](./logo_offiziell.png)
 
 ---
 
