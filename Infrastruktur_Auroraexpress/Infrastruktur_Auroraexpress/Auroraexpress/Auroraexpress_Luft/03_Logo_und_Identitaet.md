@@ -1,3 +1,7 @@
+<p align="right">
+  <img src="./Auroraexpress_Luft_Logo.png" alt="Logo von Auroraexpress_Luft" height="80">
+</p>
+
 <!--
 Autor: Fabio Weidner
 Version: 1.0
@@ -16,59 +20,65 @@ Das Logo soll diese Rolle **ästhetisch, technologisch und symbolisch sichtbar m
 
 ## 🎯 Grundidee
 
-Das Logo muss folgende Elemente vermitteln:
+Das Logo vermittelt:
 
-- **Flugfähigkeit & Geschwindigkeit**
-- **Technologische Präzision**
-- **Autonomie + Sicherheit**
-- **Integration ins Aurora-System**
+- **Flugfähigkeit & Richtung** durch den stilisierten Aufstiegspfeil  
+- **Technologie & Präzision** durch klare Vektorformen  
+- **Systemintegration** durch die umschließende Kreisbewegung  
+- **Effizienz & kollektiver Fortschritt** durch das reduzierte, moderne Design
 
 ---
 
 ## ✒️ Visuelle Merkmale
 
-| Element | Bedeutung |
-|--------|-----------|
-| **Stilisierter Flügelbogen** | Bewegung, Flugkurve, Richtung und Leichtigkeit |
-| **Pfeil nach oben** | Vertikaler Aufstieg → VTOL-Fähigkeit, Dynamik |
-| **Kreisförmiger Rahmen** | Einbindung in das System (Auroraexpress als Gesamtnetz) |
-| **Digitalisierte Linienstruktur** | Automatisierung, Tracking, moderne Steuerung |
-| **Farbcode: Blau-Violett** | Luft, Technik, Vertrauen, Präzision |
-| **Optional: stilisierter Vogel (z. B. Schwalbe)** | Verbindung von Natur & Technologie, Orientierung & Effizienz |
+| Element                        | Bedeutung                                                  |
+|-------------------------------|------------------------------------------------------------|
+| **Aufwärts gerichteter Pfeil**| Vertikaler Aufstieg, Geschwindigkeit, VTOL-Symbolik        |
+| **Kreisform**                 | Eingebundene Bewegung im Aurora-System, Orientierung       |
+| **Flügelsilhouette**          | Flugfähigkeit, Richtung, Dynamik                           |
+| **Schienenartige Linienführung** | Verbindung zu Infrastruktur, Tracking & Routenführung   |
+| **Farbcode: Blau-Violett (#4B3F72)** | Vertrauen, Technik, Luftfahrtästhetik               |
+
+---
+
+## 🖼️ Offizielle Darstellung
+
+### ✈️ Offizielles Logo des Auroraexpress_Luft
+
+![Auroraexpress Luft Logo](./Auroraexpress_Luft_Logo.png)
 
 ---
 
 ## 🧠 Anwendung
 
-- Logo wird auf:
-  - Frachtfliegern
-  - Flughafengebäuden (Zone Z3)
-  - offiziellen Systemkarten
-  - digitalen Oberflächen (AuroraApp, Tracking-UI)
+Verwendung auf:
 
-verwendet.
+- **Frachtflugzeugen**
+- **Zone-Z3 Flughafengebäuden**
+- **Tracking-Interfaces & AuroraApps**
+- **Systemkarten & Infopanels**
 
 ---
 
 ## 🔄 Konsistenz mit Auroraexpress
 
-- Formensprache lehnt sich an das zentrale **Auroraexpress-Logo** an
-- Ergänzt durch visuelle Flugdynamik
-- Keine symbolische Trennung – sondern modularer Zusatz
+- Stilistisch angelehnt an das zentrale **Auroraexpress-Logo**
+- Ergänzt durch **luftfahrtspezifische Symbolik**
+- **Modulare Identität**, kein Bruch zur Hauptmarke
 
 ---
 
 ## 🖼️ Varianten
 
-| Typ | Verwendungszweck |
-|-----|------------------|
-| **Hauptlogo** | Kommunikation, App, Gebäude |
-| **Minimal-Icon** | Tracking-Plattform, Frachteinheiten, Micro-HUD |
-| **Schattenvariante** | Dunkelmodus UI und Nachtsichtsysteme |
+| Typ               | Verwendung                                  |
+|-------------------|---------------------------------------------|
+| **Standardlogo**  | Kommunikation, Gebäude, Anwendungen         |
+| **Icon-Version**  | Mikroanzeigen, Geräte, Oberflächen          |
+| **Darkmode-Version** | UI & Interfaces bei Nacht oder im Dunkelmodus |
 
 ---
 
-✅ Abgeschlossen  
-📅 Stand: 29.04.2025  
-🏩 Zuständig: Gruppe Auroraexpress  
-🔐 Freigegeben zur Visualisierung & Implementierung
+✅ **Abgeschlossen**  
+📅 *Stand: 30.04.2025*  
+🏩 *Zuständig: Gruppe Auroraexpress*  
+🔐 *Freigegeben zur offiziellen Verwendung & Implementierung*
