@@ -44,6 +44,25 @@ Das Emblem der Kollektiven Räterepublik ist mehr als ein Logo – es ist ein ko
 
 ---
 
+---
+
+## 🖼️ Offizielle Darstellung
+
+### 🏴 Offizielle Flagge (für Banner, Gebäude, Textilien)
+
+![Offizielle Flagge](./flagge_offiziell.png)
+
+### 🔷 Offizielles Logo (freigestellt, z. B. für Formulare und Webseiten)
+
+![Offizielles Logo](./logo_offiziell_transparent.png)
+
+---
+
+📝 Diese Grafiken entsprechen der Beschreibung in diesem Dokument.  
+🛠️ Spraybar, druckfähig, reproduzierbar.  
+
+---
+
 ### 🧱 Verwendung
 
 - Auf offiziellen Dokumenten, Gebäuden, Fahnen
