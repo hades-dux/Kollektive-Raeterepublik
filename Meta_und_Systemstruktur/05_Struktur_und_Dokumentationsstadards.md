@@ -5,68 +5,84 @@ Sektion: Meta & Systemstruktur
 Veröffentlichung: April 2025
 -->
 
-# 📘 Handbuch: Struktur & Dokumentationsstandards
+# 📘 Anwendungslogik der Handbücher
 
-> 📚 Dieses Handbuch ist Teil der offiziellen Dokumentation der Kollektiven Räterepublik. Es regelt verbindlich alle Aspekte im Bereich **Meta & Systemstruktur**.
+> 📚 Dieses Dokument erklärt, wie die Handbücher der Kollektiven Räterepublik aufgebaut sind, wozu sie dienen und wie sie von unterschiedlichen Nutzergruppen verwendet werden können.
 
 ---
 
 ## 🧭 Einleitung
 
-Dieses Handbuch definiert die verbindlichen Strukturstandards für alle Regelwerke und Handbücher in der Kollektiven Räterepublik. Es stellt sicher, dass alle politischen und verwaltungstechnischen Inhalte systematisch, transparent und nachvollziehbar dokumentiert werden.
+Die Kollektive Räterepublik verfügt über ein strukturiertes System von Handbüchern, Artikeln, Protokollen und Glossaren. Sie bilden das Rückgrat der politischen und organisatorischen Selbstverwaltung. Diese Dokumente folgen gemeinsamen Standards, sind untereinander verknüpft und für alle Bürger:innen öffentlich zugänglich.
 
 ---
 
-## ⚙️ Zuständigkeiten
+## 📚 Was ist ein Handbuch?
 
-- Aufsicht: **Kollektivrat**
-- Geltungsbereich: **republikweit**
+Ein Handbuch ist ein offizielles Regel- und Strukturdokument zu einem bestimmten Themenbereich (z. B. Gesundheit, Wirtschaft, Justiz). Es enthält verbindliche Vorgaben, Prozesse, Aufgabenverteilungen und Zuständigkeiten.
 
----
-
-## 🧾 Regelungen
-
-### §1 – Aufbau eines jeden Handbuchs
-
-Jedes Handbuch muss folgende Struktur einhalten:
-- Unsichtbarer Metadaten-Stempel im Header (HTML-Kommentar)
-- Sichtbarer Stempel am Ende mit Autor, Version, Sektion und Veröffentlichungsdatum
-- Klare Einleitung, Zuständigkeiten, Regelparagraphen, Rückkopplungshinweise
-- Versionsgeschichte (bei Bedarf)
+**Kerneigenschaften:**
+- Verbindlich und überprüfbar
+- Thematisch fokussiert
+- Modular und revisionsfähig
 
 ---
 
-### §2 – Standard-Formatierung
+## 🧾 Aufbau eines Handbuchs
 
-- Alle Handbücher sind in **Markdown** zu schreiben.
-- Verlinkungen innerhalb des Repos erfolgen **relativ**.
-- Emojis und Icons dürfen genutzt werden, um Lesbarkeit zu verbessern.
-- Dokumente enthalten Checklisten und Beispiele, wo sinnvoll.
+Alle Handbücher folgen einer standardisierten Struktur:
 
----
-
-### §3 – Versionierung & Änderungen
-
-- Änderungen an bestehenden Handbüchern werden als **neue Version** mit neuer Versionsnummer veröffentlicht.
-- Die Änderung wird dokumentiert und im GitHub-Verlauf sichtbar gemacht.
-- Historische Versionen bleiben abrufbar.
-
----
-
-## 🔁 Rückkopplung & Kontrolle
-
-- **Änderung nur durch:** Beschluss im Kollektiv oder durch den Kollektivrat
-- **Geplante Revision:** nach Bedarf, mindestens jährlich
+1. **Metadaten (HTML-Kommentar)**
+   - Autor, Version, Sektion, Veröffentlichungsdatum
+2. **Einleitung**
+   - Worum geht es? Was regelt das Handbuch?
+3. **Zuständigkeiten**
+   - Welche Gremien oder Gruppen sind betroffen oder verantwortlich?
+4. **Regelteil / Strukturteil**
+   - Paragraphen, Funktionsbeschreibungen, Listen oder Ablaufdiagramme
+5. **Rückkopplung & Kontrolle**
+   - Wer darf das Handbuch ändern und wie?
+6. **Stempel (sichtbar)**
+   - Autor, Version, Sektion, Datum als Fußnote
 
 ---
 
-## 🔐 Stempel
+## 🗃️ Weitere Dokumenttypen im System
 
-📚 Dieses Handbuch ist Bestandteil der offiziellen Systemstruktur.  
-🔢 Abgeschlossen  
-🗓️ Stand: 30.04.2025  
-🏩 Verantwortlich:Kollektive Räterepublik  
-🔐 Freigegeben zur Nutzung und Weiterentwicklung
+| Dokumenttyp       | Inhalt & Zweck                                  | Beispiele                                  |
+|-------------------|--------------------------------------------------|---------------------------------------------|
+| **Handbuch**      | Regelt Strukturen, Verfahren & Zuständigkeiten | Wirtschaft, Justiz, Infrastruktur           |
+| **Artikel**       | Erläutert Zusammenhänge oder Theorien          | Historische Grundlagen, Systemvergleiche    |
+| **Glossar**       | Definiert Begriffe von A–Z                     | Begriffsverzeichnis                         |
+| **Manifest**      | Grundsatzprogramm der Räterepublik            | Politische Leitlinien                       |
+| **Protokoll**     | Änderungen, Feedback, Revisionen               | Änderungsprotokoll, Version 1.1             |
 
 ---
+
+## 🧭 Navigation & Orientierung
+
+- **00_Bibliothek_der_Kollektiven_Raeterepublik.md** als zentraler Einstiegspunkt
+- **Nummerierte Dateinamen** zur Sortierung und Navigation (z. B. `03_Struktur_und_Dokumentationsstandards.md`)
+- **Verlinkung innerhalb der Dokumente** per relativer Pfadangabe
+- **Meta-Ordner** für systemweite Regeln und übergreifende Orientierung
+
+---
+
+## 👥 Nutzung durch verschiedene Zielgruppen
+
+| Zielgruppe             | Nutzen                                             |
+|------------------------|----------------------------------------------------|
+| **Neue Mitglieder**    | Erste Orientierung, Begriffsverständnis           |
+| **Gruppenmitglieder**  | Anwendung in der täglichen Organisation           |
+| **Räte & Verantwortliche** | Umsetzung von Verfahren und Kontrolle          |
+| **Beobachtende Kollektive** | Nachvollziehbarkeit & Übertragbarkeit       |
+
+---
+
+## 📌 Fazit
+
+Die Handbücher sind das zentrale Wissensträgermodul der Kollektiven Räterepublik. Ihre einheitliche Form, ihr offener Zugang und ihre klare Struktur sichern Transparenz, Nachvollziehbarkeit und Reproduzierbarkeit des gesamten politischen Systems.
+
+---
+
 
