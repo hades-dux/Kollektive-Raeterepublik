@@ -1,3 +1,6 @@
+<p align="right">
+  <img src="./Auroraexpress_Wasser_Logo.png" alt="Logo Auroraexpress Wasser" height="80">
+</p>
 <!--
 Autor: Fabio Weidner
 Version: 1.0
