@@ -45,6 +45,16 @@ Die Farben wurden bewusst kontrastreich gewählt: Anthrazit als stabiler Hinterg
 - **Effekt:** kann digital leicht pulsieren oder schimmern
 - **Position:** rechter innerer Flügel, zentral eingebettet
 
+## 🖼️ Offizielle Darstellung
+
+## 🔥 Offizielles Logo des Auroraexpress
+
+### 🛤️ Symbol für Wandel, Fortschritt & kollektive Mobilität
+
+![Auroraexpress Bodenlogo](./Auroraexpress_Boden_Logo.png)
+
+
+
 ---
 
 ### 4. Varianten und Anwendungen
