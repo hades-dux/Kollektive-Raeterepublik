@@ -1,3 +1,7 @@
+<p align="right">
+  <img src="https://raw.githubusercontent.com/hades-dux/Kollektive-Raeterepublik/main/Meta_und_Systemstruktur/logo_offiziell.png" alt="Logo der Kollektiven Räterepublik" height="80">
+</p>
+
 # 🎭 Kultur – Kollektive Räterepublik
 
 Dieser Ordner enthält alle Regelungen, Prinzipien und Handbücher der **Kulturgruppe** innerhalb der Kollektiven Räterepublik.  
