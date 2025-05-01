@@ -5,7 +5,7 @@
 <!--  
 Autor: Fabio Weidner  
 Version: 1.0  
-Sektion: Außenpolitik – Gruppe Außenpolitik  
+Sektion: Außenpolitik
 Veröffentlichung: Mai 2025  
 -->
 
