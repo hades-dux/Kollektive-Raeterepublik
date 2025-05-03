@@ -31,7 +31,7 @@ graph TD
     Bezirksrat -->|organisiert| Gruppenstruktur
     Gruppenstruktur --> Gruppen[Thematische Gruppen]
     Gruppen --> KleineRaete[Kleine Räte + Vorsitzende]
-    KleineRaete --> GeschlossenerRat[Geschlossener Rat (Exekutive)]
+   KleineRaete --> GeschlossenerRat[Geschlossener Rat - Exekutive]
     GeschlossenerRat -->|Umsetzung| Maßnahmen
     Maßnahmen --> Rückkopplung[Rückmeldung aus Bevölkerung & Gruppen]
     Rückkopplung --> Kollektivrat
