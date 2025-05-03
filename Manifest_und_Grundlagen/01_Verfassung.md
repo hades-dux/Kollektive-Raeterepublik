@@ -1,14 +1,13 @@
 <p align="right">
   <img src="https://raw.githubusercontent.com/hades-dux/Kollektive-Raeterepublik/main/Meta_und_Systemstruktur/logo_offiziell.png" alt="Logo der Kollektiven Räterepublik" height="80">
 </p>
+
 # 📜 Verfassung der Kollektiven Räterepublik (v1.1)
 
-<!--
-Autor: Fabio Weidner
-Version: 1.0
-Sektion: Manifest & Grundlagen
-Veröffentlichung: Mai 2025
+<!-- Autor: Fabio Weidner | Version: 1.0 | Sektion: Manifest & Grundlagen | Veröffentlichung: Mai 2025 -->
+
 ---
+
 
 ## Artikel 1 – Grundprinzipien
 
@@ -304,7 +303,7 @@ Persönliche Daten dürfen nur mit informierter Zustimmung erhoben, verarbeitet 
 
 🔢 **Abgeschlossen**  
 🗓️ *Stand: 26.04.2025*  
-🏩 *Verantwortlich: Gruppe Wirtschaft & Produktion – Kollektive Räterepublik*  
+🏩 *Verantwortlich: Kollektive Räterepublik*  
 🔐 *Freigegeben zur Umsetzung, Anwendung und Weiterentwicklung*
 
 ---
