@@ -4,7 +4,7 @@
 
 <!--
 Autor: Fabio Weidner
-Version: 1.1
+Version: 1.2
 Sektion: Meta & Systemstruktur
 Veröffentlichung: Mai 2025
 -->
@@ -25,17 +25,16 @@ Die Kollektive Räterepublik basiert auf einem systemisch rückgekoppelten Kreis
 
 ```mermaid
 graph TD
-    Kollektiv((Kollektiv)) --> Kollektivrat[Kollektivrat]
-    Kollektiv --> Bezirksrat[Bezirksrat]
-    Kollektivrat -->|organisiert| Gruppenstruktur
-    Bezirksrat -->|organisiert| Gruppenstruktur
-    Gruppenstruktur --> Gruppen[Thematische Gruppen]
-    Gruppen --> KleineRaete[Kleine Räte + Vorsitzende]
-   KleineRaete --> GeschlossenerRat[Geschlossener Rat - Exekutive]
-    GeschlossenerRat -->|Umsetzung| Maßnahmen
-    Maßnahmen --> Rückkopplung[Rückmeldung aus Bevölkerung & Gruppen]
-    Rückkopplung --> Kollektivrat
+    Kollektiv((Kollektiv / Bürger:innen)) --> Kollektivrat[Kollektivrat]
+    Kollektiv --> Bezirksrat[Bezirksräte]
+    Kollektivrat -->|organisiert & koordiniert| KleineRaete[Kleine Räte]
+    Bezirksrat -->|organisiert & koordiniert| KleineRaete
+    KleineRaete -->|verwalten & steuern| Gruppenstruktur[Thematische Gruppen]
+    Gruppenstruktur -->|führen Entscheidungen aus| GeschlossenerRat[Geschlossener Rat - Exekutive]
+    GeschlossenerRat -->|Umsetzung| Maßnahmen[Gesellschaftliche Maßnahmen]
+    Maßnahmen --> Rückkopplung[Rückmeldung & Feedback]
     Rückkopplung --> Kollektiv
+    Rückkopplung --> Kollektivrat
 ```
 
 ---
@@ -44,15 +43,18 @@ graph TD
 
 ```mermaid
 graph LR
-    subgraph Kollektiv
+    subgraph Basis
         Bürger[Kollektiv / Bürger:innen]
     end
-    subgraph Räte
+    subgraph Politische Ebene
         Kollektivrat
         Bezirksräte
-        KleineRäte[Kleine Räte]
+        KleineRäte[Kleine Räte der Gruppen]
     end
-    subgraph Gruppenstruktur
+    subgraph Exekutive
+        GeschlossenerRat[Geschlossener Rat]
+    end
+    subgraph Gruppenebene
         Außenpolitik
         Bildung
         Kunst
@@ -71,69 +73,18 @@ graph LR
         Sicherheit
         VerwaltungStruktur[Verwaltung & Struktur]
     end
-    subgraph Exekutive
-        GeschlossenerRat[Geschlossener Rat]
-    end
     subgraph Judikative
         Tribunalgericht
         Bezirksgericht
     end
+
     Bürger --> Kollektivrat
     Bürger --> Bezirksräte
-    Kollektivrat --> Außenpolitik
-    Kollektivrat --> Bildung
-    Kollektivrat --> Kunst
-    Kollektivrat --> Infrastruktur
-    Kollektivrat --> Auroraexpress
-    Kollektivrat --> Unterhaltung
-    Kollektivrat --> ForschungInnovation
-    Kollektivrat --> Ernährung
-    Kollektivrat --> Gesundheit
-    Kollektivrat --> IntegrationMigration
-    Kollektivrat --> WirtschaftProduktion
-    Kollektivrat --> Digitalisierung
-    Kollektivrat --> JustizRecht
-    Kollektivrat --> UmweltKlima
-    Kollektivrat --> Kultur
-    Kollektivrat --> Sicherheit
-    Kollektivrat --> VerwaltungStruktur
-
-    Bezirksräte --> Außenpolitik
-    Bezirksräte --> Bildung
-    Bezirksräte --> Kunst
-    Bezirksräte --> Infrastruktur
-    Bezirksräte --> Auroraexpress
-    Bezirksräte --> Unterhaltung
-    Bezirksräte --> ForschungInnovation
-    Bezirksräte --> Ernährung
-    Bezirksräte --> Gesundheit
-    Bezirksräte --> IntegrationMigration
-    Bezirksräte --> WirtschaftProduktion
-    Bezirksräte --> Digitalisierung
-    Bezirksräte --> JustizRecht
-    Bezirksräte --> UmweltKlima
-    Bezirksräte --> Kultur
-    Bezirksräte --> Sicherheit
-    Bezirksräte --> VerwaltungStruktur
-
-    Außenpolitik --> GeschlossenerRat
-    Bildung --> GeschlossenerRat
-    Kunst --> GeschlossenerRat
-    Infrastruktur --> GeschlossenerRat
-    Auroraexpress --> GeschlossenerRat
-    Unterhaltung --> GeschlossenerRat
-    ForschungInnovation --> GeschlossenerRat
-    Ernährung --> GeschlossenerRat
-    Gesundheit --> GeschlossenerRat
-    IntegrationMigration --> GeschlossenerRat
-    WirtschaftProduktion --> GeschlossenerRat
-    Digitalisierung --> GeschlossenerRat
-    JustizRecht --> GeschlossenerRat
-    UmweltKlima --> GeschlossenerRat
-    Kultur --> GeschlossenerRat
-    Sicherheit --> GeschlossenerRat
-    VerwaltungStruktur --> GeschlossenerRat
-
+    Kollektivrat --> KleineRäte
+    Bezirksräte --> KleineRäte
+    KleineRäte --> Gruppenebene
+    Gruppenebene --> GeschlossenerRat
+    GeschlossenerRat -->|Umsetzung & Koordination| Gruppenebene
     Bürger --> Tribunalgericht
     Bürger --> Bezirksgericht
 ```
@@ -144,11 +95,11 @@ graph LR
 
 ```mermaid
 graph TD
-    Entscheidung[Entscheidung] --> Umsetzung[Umsetzung durch Exekutive]
+    Entscheidung[Politische Entscheidung] --> Umsetzung[Umsetzung durch Exekutive]
     Umsetzung --> Wirkung[Gesellschaftliche Wirkung]
-    Wirkung --> Feedback[Feedback aus Gruppen / Bevölkerung]
-    Feedback --> Analyse[Analyse durch Kollektivrat / Gruppen]
-    Analyse --> Revision[ggf. Revision / Anpassung]
+    Wirkung --> Feedback[Feedback aus Gruppen & Bevölkerung]
+    Feedback --> Analyse[Analyse & Bewertung durch Kollektivrat und Kleine Räte]
+    Analyse --> Revision[Revision & Anpassung]
     Revision --> Entscheidung
 ```
 
