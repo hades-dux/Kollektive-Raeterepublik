@@ -86,5 +86,3 @@ Durch demokratische Kontrolle, Transparenz und Zusammenarbeit sichern sie eine W
 🛠️ *Dokument finalisiert, integriert und für den Hochladeprozess bereit*
 
 ---
-
-### Commit Message
