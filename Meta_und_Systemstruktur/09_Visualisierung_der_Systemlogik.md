@@ -4,9 +4,9 @@
 
 <!--
 Autor: Fabio Weidner
-Version: 1.0
+Version: 1.1
 Sektion: Meta & Systemstruktur
-Veröffentlichung: April 2025
+Veröffentlichung: Mai 2025
 -->
 
 # 🗺️ Visualisierung der Systemlogik der Kollektiven Räterepublik
@@ -49,29 +49,93 @@ graph LR
     end
     subgraph Räte
         Kollektivrat
-        Bezirksrat
-        Tribunalgericht
+        Bezirksräte
+        KleineRäte[Kleine Räte]
     end
     subgraph Gruppenstruktur
-        GruppeA[Gesundheit]
-        GruppeB[Wirtschaft]
-        GruppeC[Kultur]
-        GruppeD[Infrastruktur]
+        Außenpolitik
+        Bildung
+        Kunst
+        Infrastruktur
+        Auroraexpress
+        Unterhaltung
+        ForschungInnovation[Forschung & Innovation]
+        Ernährung
+        Gesundheit
+        IntegrationMigration[Integration & Migration]
+        WirtschaftProduktion[Wirtschaft & Produktion]
+        Digitalisierung
+        JustizRecht[Justiz & Recht]
+        UmweltKlima[Umwelt & Klima]
+        Kultur
+        Sicherheit
+        VerwaltungStruktur[Verwaltung & Struktur]
     end
     subgraph Exekutive
-        GeschlossenerRat
+        GeschlossenerRat[Geschlossener Rat]
+    end
+    subgraph Judikative
+        Tribunalgericht
+        Bezirksgericht
     end
     Bürger --> Kollektivrat
-    Bürger --> Bezirksrat
-    Kollektivrat --> GruppeA
-    Kollektivrat --> GruppeB
-    Kollektivrat --> GruppeC
-    Kollektivrat --> GruppeD
-    GruppeA --> GeschlossenerRat
-    GruppeB --> GeschlossenerRat
-    GruppeC --> GeschlossenerRat
-    GruppeD --> GeschlossenerRat
+    Bürger --> Bezirksräte
+    Kollektivrat --> Außenpolitik
+    Kollektivrat --> Bildung
+    Kollektivrat --> Kunst
+    Kollektivrat --> Infrastruktur
+    Kollektivrat --> Auroraexpress
+    Kollektivrat --> Unterhaltung
+    Kollektivrat --> ForschungInnovation
+    Kollektivrat --> Ernährung
+    Kollektivrat --> Gesundheit
+    Kollektivrat --> IntegrationMigration
+    Kollektivrat --> WirtschaftProduktion
+    Kollektivrat --> Digitalisierung
+    Kollektivrat --> JustizRecht
+    Kollektivrat --> UmweltKlima
+    Kollektivrat --> Kultur
+    Kollektivrat --> Sicherheit
+    Kollektivrat --> VerwaltungStruktur
+
+    Bezirksräte --> Außenpolitik
+    Bezirksräte --> Bildung
+    Bezirksräte --> Kunst
+    Bezirksräte --> Infrastruktur
+    Bezirksräte --> Auroraexpress
+    Bezirksräte --> Unterhaltung
+    Bezirksräte --> ForschungInnovation
+    Bezirksräte --> Ernährung
+    Bezirksräte --> Gesundheit
+    Bezirksräte --> IntegrationMigration
+    Bezirksräte --> WirtschaftProduktion
+    Bezirksräte --> Digitalisierung
+    Bezirksräte --> JustizRecht
+    Bezirksräte --> UmweltKlima
+    Bezirksräte --> Kultur
+    Bezirksräte --> Sicherheit
+    Bezirksräte --> VerwaltungStruktur
+
+    Außenpolitik --> GeschlossenerRat
+    Bildung --> GeschlossenerRat
+    Kunst --> GeschlossenerRat
+    Infrastruktur --> GeschlossenerRat
+    Auroraexpress --> GeschlossenerRat
+    Unterhaltung --> GeschlossenerRat
+    ForschungInnovation --> GeschlossenerRat
+    Ernährung --> GeschlossenerRat
+    Gesundheit --> GeschlossenerRat
+    IntegrationMigration --> GeschlossenerRat
+    WirtschaftProduktion --> GeschlossenerRat
+    Digitalisierung --> GeschlossenerRat
+    JustizRecht --> GeschlossenerRat
+    UmweltKlima --> GeschlossenerRat
+    Kultur --> GeschlossenerRat
+    Sicherheit --> GeschlossenerRat
+    VerwaltungStruktur --> GeschlossenerRat
+
     Bürger --> Tribunalgericht
+    Bürger --> Bezirksgericht
 ```
 
 ---
@@ -83,7 +147,7 @@ graph TD
     Entscheidung[Entscheidung] --> Umsetzung[Umsetzung durch Exekutive]
     Umsetzung --> Wirkung[Gesellschaftliche Wirkung]
     Wirkung --> Feedback[Feedback aus Gruppen / Bevölkerung]
-    Feedback --> Analyse[Analyse durch Kollektivrat / Gruppe]
+    Feedback --> Analyse[Analyse durch Kollektivrat / Gruppen]
     Analyse --> Revision[ggf. Revision / Anpassung]
     Revision --> Entscheidung
 ```
@@ -95,5 +159,3 @@ graph TD
 Die Visualisierung zeigt: Die Kollektive Räterepublik ist ein System zyklischer Politik – nicht Top-down, sondern feedbackbasiert, lernfähig und kollektiv getragen.
 
 ---
-
-
