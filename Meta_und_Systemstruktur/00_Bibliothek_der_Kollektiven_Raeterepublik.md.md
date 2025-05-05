@@ -31,6 +31,61 @@ Ob politische Mitbestimmung, digitale Infrastruktur, soziale Gerechtigkeit, Kris
 **Viel Freude beim Erkunden, Verstehen und Weiterdenken.**  
 Alle Inhalte stehen zur freien Weiterentwicklung im Kollektiv bereit.
 
+<p align="right">
+  <img src="https://raw.githubusercontent.com/hades-dux/Kollektive-Raeterepublik/main/Meta_und_Systemstruktur/logo_offiziell.png" alt="Logo der Kollektiven Räterepublik" height="80">
+</p>
+
+# 🌐 Außenpolitik der Kollektiven Räterepublik
+
+Die Außenpolitik der Kollektiven Räterepublik basiert auf Prinzipientreue, Souveränität, Frieden und solidarischer Kooperation.  
+Sie dient nicht dem geopolitischen Einfluss, sondern der globalen Gerechtigkeit, kollektiven Absicherung und dem Austausch auf Augenhöhe.
+
+---
+
+## 🧭 Einleitung
+
+Die Räterepublik betreibt eine aktive, aber nicht dominante Außenpolitik.  
+Sie setzt auf multilaterale Allianzen, friedliche Konfliktlösung, klare Prinzipien und systemtreue Diplomatie.
+
+Alle Dateien befinden sich im Repository unter:  
+🔗 [`/Außenpolitik`].(https://github.com/hades-dux/Kollektive-Raeterepublik/tree/main/Au%C3%9Fenpolitik) 
+
+---
+
+## 📚 Handbücher
+
+| Nr. | Titel | Status |
+|-----|-------|--------|
+| 00 | [Glossar](./00_glossar.md) | ✅ |
+| 01 | [Gruppe Außenpolitik](./01_Handbuch_Gruppe_Aussenpolitik.md) | ✅ |
+| 02 | [Idealisierung](./02_Idealisierung.md) | ✅ |
+| 03 | [Internationale Beziehungen](./03_Internationale.md) | ✅ |
+| 04 | [Umgang mit Sanktionen](./04_Umgang_mit_Sanktionen.md) | ✅ |
+| 05 | [Diplomatischer Dienst](./05_Diplomatischer_Dienst.md) | ✅ |
+| 06 | [Internationale Organisationen](./06_Internationale_Organisationen.md) | ✅ |
+| 07 | [Kollektive Fluchtpolitik](./07_Kollektive_Fluchtpolitik.md) | ✅ |
+| 08 | [Internationale Krisenhilfe](./08_Internationale_Krisenhilfe.md) | ✅ |
+| 09 | [Politische Bündnisse & Rätekooperation](./09_Politische_Buendnisse_und_Raetekooperation.md) | ✅ |
+| 10 | [Internationale Rechtspolitik & Gerichtsbarkeit](./10_Internationale_Rechtspolitik_und_Kollektive_Gerichtsbarkeit.md) | ✅ |
+| 11 | [Offene Position für zukünftige Außenpolitik](./11_Offene_Position_fuer_zukuenftige_Aussenpolitik.md) | ⏳ |
+
+---
+
+## 🧠 Mitwirken & Weiterentwicklung
+
+> Dieses Verzeichnis ist offen für kollektive Beiträge.  
+> Diskussionsimpulse und Ergänzungen sind im **Think Tank (Discord)** jederzeit willkommen.
+
+---
+
+## 🗂️ Metadaten
+
+📅 Stand: Mai 2025  
+🛠 Maintainer: Gruppe Außenpolitik  
+🔐 Lizenz: Kollektive Weiterentwicklung mit Quellenangabe
+
+---
+
 
 # 🎓 BILDUNG & FORSCHUNG
 
@@ -302,12 +357,13 @@ Alle Dateien befinden sich im Repository unter:
 
 | Nr. | Datei | Inhalt |
 |-----|-------|--------|
-| 00 | [`00_Glossar_Integration_und_Migration.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Integration%20%26%20Migration/00_Glossar_Integration_und_Migration.md) | Begriffe rund um Migration, Aufnahme & Teilhabe |
-| 01 | [`01_Handbuch_Gruppe_Integration_und_Migration.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Integration%20%26%20Migration/01_Handbuch_Gruppe_Integration_und_Migration.md) | Struktur & Zuständigkeiten der Integrationsgruppe |
-| 02 | [`02_Handbuch_Aufnahmezentren_und_Ersteingliederung.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Integration%20%26%20Migration/02_Handbuch_Aufnahmezentren_und_Ersteingliederung.md) | Prozesse in Ankunftszentren & erste Unterstützungsmaßnahmen |
-| 03 | [`03_Handbuch_Sprachbildung_und_Bildungszugang.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Integration%20%26%20Migration/03_Handbuch_Sprachbildung_und_Bildungszugang.md) | Sprachförderung, Bildungseinbindung & Anerkennung |
-| 04 | [`04_Handbuch_Rechte_Schutz_und_Beteiligung.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Integration%20%26%20Migration/04_Handbuch_Rechte_Schutz_und_Beteiligung.md) | Rechtssicherheit, Mitbestimmung & Schutzmaßnahmen |
-| 05 | [`05_Handbuch_Kultureller_Austausch_und_Vielfalt.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Integration%20%26%20Migration/05_Handbuch_Kultureller_Austausch_und_Vielfalt.md) | Gesellschaftlicher Dialog, Vielfalt & kulturelle Programme |
+| 00 | [Glossar](./00_Glossar.md) | ✅ |
+| 01 | [Gruppe Integration & Migration](./01_Handbuch_Gruppe_Integration_und_Migration.md) | ✅ |
+| 02 | [Aufnahmezentren & Ersteingliederung](./02_Handbuch_Aufnahmezentren_und_Ersteingliederung.md) | ✅ |
+| 03 | [Sprachbildung & Bildungszugang](./03_Handbuch_Sprachbildung_und_Bildungszugang.md) | ✅ |
+| 04 | [Rechte, Schutz & Beteiligung](./04_Handbuch_Rechte_Schutz_und_Beteiligung.md) | ✅ |
+| 05 | [Rückführung & internationale Kooperation](./05_Handbuch_Rueckfuehrung_und_internationale_Kooperation.md) | ✅ |
+| 06 | [Asylrecht & Schutzformen](./06_Asylrecht_und_Schutzformen.md) | ✅ |
 
 ---
 
