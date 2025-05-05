@@ -7,7 +7,7 @@
 <!--
 Autor: Fabio Weidner
 Version: 1.0
-Sektion: Bildung & Forschung
+Sektion: Außenpolitik
 Veröffentlichung: April 2025
 -->
 
