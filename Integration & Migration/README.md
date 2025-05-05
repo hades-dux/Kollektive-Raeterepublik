@@ -9,6 +9,7 @@ Autor: Fabio Weidner
 Version: 1.0
 Sektion: Integration & Migration
 Veröffentlichung: Mai 2025
+-->
 
 Die Kollektive Räterepublik versteht Migration als Teil gesellschaftlicher Realität.  
 Integration ist ein kollektiver Prozess – getragen von Sprache, Bildung, Teilhabe und Haltung.  
