@@ -2,39 +2,43 @@
   <img src="https://raw.githubusercontent.com/hades-dux/Kollektive-Raeterepublik/main/Meta_und_Systemstruktur/logo_offiziell.png" alt="Logo der Kollektiven Räterepublik" height="80">
 </p>
 
-# Integration & Migration in der Kollektiven Räterepublik
-
-Willkommen im Bereich **Integration & Migration** der offiziellen Bibliothek der Kollektiven Räterepublik.
-
-Hier findest du alle Handbücher zur Aufnahme, Eingliederung, Bildung, Schutzrechte und Förderung gesellschaftlicher Vielfalt.
-
----
-
-## 📚 Inhaltsverzeichnis
-
-- [00_Glossar Integration & Migration](./00_Glossar_Integration_und_Migration.md)
-- [01_Handbuch Gruppe Integration & Migration](./01_Handbuch_Gruppe_Integration_und_Migration.md)
-- [02_Handbuch Aufnahmezentren & Ersteingliederung](./02_Handbuch_Aufnahmezentren_und_Ersteingliederung.md)
-- [03_Handbuch Sprachbildung & Bildungszugang](./03_Handbuch_Sprachbildung_und_Bildungszugang.md)
-- [04_Handbuch Rechte, Schutz und Beteiligung](./04_Handbuch_Rechte_Schutz_und_Beteiligung.md)
-- [05_Handbuch Kultureller Austausch & Vielfalt](./05_Handbuch_Kultureller_Austausch_und_Vielfalt.md)
-
----
-
-## 🏛️ Über diese Sektion
-
-Diese Dokumente sichern die strukturierte, menschenwürdige und zukunftsorientierte Integration und Migration innerhalb der Kollektiven Räterepublik.  
-Im Mittelpunkt stehen schnelle Eingliederung, Sprachförderung, gesellschaftliche Teilhabe und Schutz individueller Rechte.
-
----
+# 🧭 Integration & Migration
 
 <!--
 Autor: Fabio Weidner
 Version: 1.0
 Sektion: Integration & Migration
-Veröffentlichung: April 2025
--->
+Veröffentlichung: Mai 2025
+
+Die Kollektive Räterepublik versteht Migration als Teil gesellschaftlicher Realität.  
+Integration ist ein kollektiver Prozess – getragen von Sprache, Bildung, Teilhabe und Haltung.  
+Dieses Verzeichnis dokumentiert die Grundprinzipien, Verfahren und Schutzmechanismen.
 
 ---
 
-<sub><sup>Autor: Fabio Weidner | Version 1.0 | Integration & Migration | April 2025</sup></sub>
+## 📚 Inhaltsverzeichnis
+
+| Nr. | Titel | Status |
+|-----|-------|--------|
+| 00 | [Glossar](./00_Glossar.md) | ✅ |
+| 01 | [Gruppe Integration & Migration](./01_Handbuch_Gruppe_Integration_und_Migration.md) | ✅ |
+| 02 | [Aufnahmezentren & Ersteingliederung](./02_Handbuch_Aufnahmezentren_und_Ersteingliederung.md) | ✅ |
+| 03 | [Sprachbildung & Bildungszugang](./03_Handbuch_Sprachbildung_und_Bildungszugang.md) | ✅ |
+| 04 | [Rechte, Schutz & Beteiligung](./04_Handbuch_Rechte_Schutz_und_Beteiligung.md) | ✅ |
+| 05 | [Rückführung & internationale Kooperation](./05_Handbuch_Rueckfuehrung_und_internationale_Kooperation.md) | ✅ |
+| 06 | [Asylrecht & Schutzformen](./06_Asylrecht_und_Schutzformen.md) | ✅ |
+
+---
+
+## 🧠 Mitwirken & Weiterentwicklung
+
+> Dieses Verzeichnis ist offen für kollektive Beiträge.  
+> Diskussionsimpulse und Ergänzungen sind im **Think Tank (Discord)** jederzeit willkommen.
+
+---
+
+## 🗂️ Metadaten
+
+📅 Stand: Mai 2025  
+🛠 Maintainer: Gruppe Integration & Migration  
+🔐 Lizenz: Kollektive Weiterentwicklung mit Quellenangabe
