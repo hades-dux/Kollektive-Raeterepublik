@@ -2,68 +2,54 @@
   <img src="https://raw.githubusercontent.com/hades-dux/Kollektive-Raeterepublik/main/Meta_und_Systemstruktur/logo_offiziell.png" alt="Logo der Kollektiven Räterepublik" height="80">
 </p>
 
-# 🏠 Handbuch für Aufnahmezentren & Ersteingliederung der Kollektiven Räterepublik
 <!--
-Autor: Fabio Weidner
-Version: 1.0
-Sektion: Integration & Migration
-Veröffentlichung: April 2025
+Autor: Fabio Weidner  
+Version: 1.1  
+Sektion: Integration & Migration  
+Aktualisierung: Mai 2025  
 -->
 
-## 1. Einleitung
+# 🛡️ Handbuch: Rechte, Schutz & Beteiligung
 
-Die Aufnahmezentren der Kollektiven Räterepublik gewährleisten eine **schnelle, respektvolle und menschenwürdige Erstaufnahme** neuer Bürger:innen.  
-Ziel ist es, **einen reibungslosen Einstieg** in das gesellschaftliche Leben zu ermöglichen und von Anfang an **Selbstständigkeit und Teilhabe** zu fördern.
+## 1. Recht auf Schutz
 
----
+Die Kollektive Räterepublik bekennt sich zum Schutz aller Menschen in existenzieller Not.  
+Alle Personen, die Schutz suchen, werden geprüft – nicht nach Herkunft, sondern nach humanitären und politischen Maßstäben.
 
-## 2. Grundprinzipien der Aufnahme
+### Formen von Schutzstatus:
 
-- **Willkommenskultur**: Begegnung auf Augenhöhe, respektvoller Empfang.
-- **Schnelligkeit und Effizienz**: Vermeidung langer Aufenthalte in Übergangsstrukturen.
-- **Transparente Prozesse**: Alle Rechte, Pflichten und Möglichkeiten werden offen erklärt.
-- **Frühzeitige Perspektivschaffung**: Aufnahme ist der Startpunkt für Integration, nicht das Ende.
+- **Asylberechtigung** (Grundgesetz-orientiert)
+- **Flüchtlingsschutz** (nach Genfer Konvention)
+- **Subsidiärer Schutz** (bei ernsthafter Gefahr im Herkunftsland)
+- **Abschiebungsverbote** (medizinisch oder humanitär begründet)
 
----
+Jede Form bringt spezifische Rechte und Pflichten mit sich, insbesondere beim Zugang zu Sprache, Bildung, Wohnen, Mobilität und Arbeit.
 
-## 3. Struktur der Aufnahmezentren
+## 2. Recht auf Beteiligung
 
-| Bereich | Aufgabe |
-|:---|:---|
-| **Ankunftsbereich** | Registrierung, Erstinformationen, Verteilung auf Programme |
-| **Sprach- und Orientierungskurse** | Sofortstart nach Ankunft |
-| **Gesundheitsuntersuchung** | Basis-Check + Zugang zu weiterführender Versorgung |
-| **Beratungseinheiten** | Aufklärung über Rechte, Pflichten und Möglichkeiten |
-| **Wohnintegration** | Erste Wohnvermittlungen und Notunterkünfte (falls nötig) |
-| **Mentorenkontakt** | Zuteilung einer Kontaktperson/Mentor:in innerhalb der ersten Woche |
+Alle anerkannten Schutzberechtigten haben Anspruch auf:
 
----
+- Sprachförderung & Bildungsintegration  
+- Gesundheitsversorgung & soziale Absicherung  
+- Arbeitsmarktzugang & Weiterqualifikation  
+- Teilnahme an gesellschaftlichen Projekten
 
-## 4. Ablauf der Ersteingliederung
+## 3. Einschränkung der politischen Mitbestimmung
 
-1. **Registrierung & Dokumentation**  
-   (inklusive Erfassung von Qualifikationen, Berufserfahrung und Sprachkenntnissen)
-2. **Sofortige Zuweisung zu Sprachbildung & Grundbildungskursen**
-3. **Gesundheitscheck und Impfangebote**
-4. **Berufliche und schulische Erstberatung**
-5. **Vermittlung in Wohnprojekte oder dezentrale Unterkünfte**
-6. **Integration in lokale Strukturen** (z. B. Sportvereine, Kulturinitiativen)
+Das aktive und passive Wahlrecht setzt eine **Staatsbürgerschaft** voraus.  
+Diese kann beantragt werden, sobald:
+- die grundlegenden Prinzipien der Räterepublik verstanden wurden  
+- aktive Teilnahme an Integrationsmaßnahmen erfolgt ist  
+- kein extremistisches, antidemokratisches oder systemfeindliches Verhalten vorliegt
 
----
+## 4. Vertrauensschutz und Systemklarheit
 
-## 5. Qualitätsstandards
-
-- **Maximaler Aufenthalt im Aufnahmezentrum: 3 Monate**.
-- **Verbindliche Abschlussgespräche** zur Planung der weiteren Schritte.
-- **Regelmäßige externe Evaluation** durch Integrationsgremien und Bürgerforen.
-- **Beschwerdemechanismen** für alle neuen Bürger:innen, einfach zugänglich und unabhängig bearbeitet.
+Die Räterepublik schützt Menschen – aber verlangt auch Systemkenntnis, Teilhabe und Haltung.  
+Das Asylrecht ist kein politisches Exilrecht. Wer autoritären Regimen entkommt, wird als Mensch geschützt – nicht als Träger ideologischer Altlasten.
 
 ---
 
-✅ **Abgeschlossen**  
-📅 *Stand: 26.04.2025*  
-🏩 *Verantwortlich: Gruppe Integration & Migration – Kollektive Räterepublik*  
-🔐 *Freigegeben zur Umsetzung, Anwendung und Weiterentwicklung*
-
----
-
+✅ Aktualisiert  
+📅 Stand: 05.05.2025  
+📂 Zuständig: Gruppe Integration & Migration  
+🔐 Verknüpft mit KFG, Sprachbildung, Aufnahmezentren & Justizstruktur
