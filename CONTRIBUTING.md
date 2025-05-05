@@ -15,9 +15,9 @@ Dieses Projekt dient der Entwicklung, Strukturierung und öffentlichen Dokumenta
 
 ## 📌 Wer kann beitragen?
 
-- Bürger:innen der Kollektiven Räterepublik
-- Externe Unterstützer:innen mit inhaltlicher Relevanz
-- Entwickler:innen, Designer:innen und andere Mitwirkende
+- Bürger:innen der Kollektiven Räterepublik  
+- Externe Unterstützer:innen mit inhaltlicher Relevanz  
+- Entwickler:innen, Designer:innen und andere Mitwirkende  
 
 Alle Beiträge unterliegen der Prüfung durch den **Kollektivrat** und ggf. der **Ethik- oder Strukturkommission**.
 
@@ -64,6 +64,7 @@ Für größere Diskussionen nutze bitte:
 - Issues mit dem Label `📚 Inhaltlich` oder `⚙️ System`
 - Diskussionen im Discord (wenn aktiv)
 - Direkte Rückmeldung via Mail/Matrix an Projektleitung
+- Unser [Discord-Server](https://discord.gg/kKNTYH25) für spontane Fragen, Diskussionen oder Beteiligung am Projektalltag
 
 ---
 
