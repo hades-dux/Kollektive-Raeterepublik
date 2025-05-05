@@ -1,84 +1,48 @@
 <p align="right">
-  <img src="https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png" alt="CC BY-NC-SA 4.0">
+  <img src="https://raw.githubusercontent.com/hades-dux/Kollektive-Raeterepublik/main/Meta_und_Systemstruktur/logo_offiziell.png" alt="Logo der Kollektiven Räterepublik" height="80">
 </p>
 
+# 🔐 SECURITY.md – Sicherheitskontakt
 
-# 🔐 SECURITY.md  
-_Sicherheitsrichtlinien für das Repository der Kollektiven Räterepublik_
-
----
-
-## 🧱 Zielsetzung
-
-Die Kollektive Räterepublik steht für Transparenz und Sicherheit. Dieses Dokument beschreibt, wie mit Sicherheitslücken, Datenschutzbedenken oder kritischen Vorfällen umgegangen wird.
+Wenn du eine Schwachstelle oder sicherheitsrelevante Beobachtung im Repository der **Kollektiven Räterepublik** melden möchtest, bitten wir dich, folgende Optionen zu nutzen:
 
 ---
 
-## 🛡️ Melden von Sicherheitsproblemen
+## 🛡️ Empfohlene Kontaktmöglichkeiten
 
-Wenn du eine Sicherheitslücke in einem unserer Repositorien entdeckt hast, nutze bitte **verantwortungsvolle Offenlegung**.
+### 📬 Private Sicherheitsmeldung über GitHub
+🔒 Über die Funktion [„Report a vulnerability“](https://github.com/hades-dux/Kollektive-Raeterepublik/security/advisories) kannst du GitHub-gestützt eine **vertrauliche Schwachstellenmeldung** einreichen.
 
-### 📬 Melde Sicherheitsprobleme über:
-
-- **GitHub Private Issue (bevorzugt)**: [hier klicken](../../security/advisories/new)
-- **Discord:** [Offizieller Server der Kollektiven Räterepublik](https://discord.gg/kKNTYH25)
-- **(Optional, in Vorbereitung)**: Matrix-Kanal `@sicherheitsrat:raeterepublik.org`
-- **(In Planung)**: Mailadresse `sicherheit@raeterepublik.org`
-
-Bitte gib möglichst viele Details an, damit wir die Schwachstelle schnell reproduzieren und beheben können.
-
-### 🕵️‍♂️ Was du angeben solltest:
-- Beschreibung der Schwachstelle oder des Vorfalls
-- Reproduktionsschritte (wenn möglich)
-- Betroffene Datei/Abschnitt (sofern relevant)
-- Einschätzung der möglichen Auswirkungen
+> Diese Funktion ist aktiviert. Nur Administratoren können deine Meldung einsehen.
 
 ---
 
-## 🔒 Umgang mit Meldungen
+## 🔄 Alternative Kontaktkanäle
 
-1. **Vertraulichkeit:**  
-   Deine Meldung wird vertraulich behandelt. Deine Identität wird ohne Zustimmung nicht veröffentlicht.
-
-2. **Bestätigung innerhalb von 72 Stunden:**  
-   Wir bestätigen den Eingang und priorisieren die Bearbeitung nach Schweregrad.
-
-3. **Reaktion & Patching:**  
-   Sicherheitsrelevante Fehler werden dokumentiert, öffentlich gepatcht und in den **Sicherheits-Log** aufgenommen.
-
-4. **Dank & Anerkennung:**  
-   Bei Wunsch erfolgt namentliche Nennung im **Security-Dankregister** (opt-in).
+### 📧 E-Mail (PGP optional)
+`sicherheit@raeterepublik.org` *(wird baldmöglichst eingerichtet)*
 
 ---
 
-## 🔁 Regelmäßige Audits
-
-- **Code-Audits:** durch Projektverantwortliche oder Sicherheitsgruppen
-- **Struktur-Audits:** zur Prüfung sensibler Inhalte (z. B. ethische Systeme, gerichtliche Protokolle)
-- **Transparenzberichte:** werden halbjährlich veröffentlicht
+### 💬 Discord
+🔗 [https://discord.gg/kKNTYH25](https://discord.gg/kKNTYH25)  
+→ Melde dich im Kanal `#sicherheitsmeldungen` oder direkt bei den Moderatoren.
 
 ---
 
-## 🧾 Bekannte Schwachstellen
-
-Aktuell sind **keine bekannten Sicherheitslücken** in diesem Repository dokumentiert.
-
----
-
-## 🧷 Sicherheitspolitik
-
-Alle Beiträge müssen:
-- dem **Verhaltenskodex** entsprechen (`CODE_OF_CONDUCT.md`)
-- keine Tracking- oder Fremdskripte enthalten
-- keine proprietären Abhängigkeiten ohne Lizenzprüfung einbinden
+### 🧪 Matrix (in Planung)
+Ein Matrix-Kanal mit direkter Moderation ist in Vorbereitung. Bis dahin empfehlen wir Discord oder GitHub.
 
 ---
 
-## 🧠 Verantwortlichkeit
+## 📝 Hinweis zur Reaktion
 
-Die **Sicherheitsgruppe der Kollektiven Räterepublik** (SG-KRR) prüft alle sicherheitsrelevanten Aspekte.  
-Sie arbeitet unabhängig und ist direkt dem **Kollektivrat** rechenschaftspflichtig.
+- Wir bemühen uns um **zeitnahe Rückmeldung** innerhalb von 5 Werktagen.
+- Kritische Sicherheitslücken werden in Zusammenarbeit mit dir koordiniert und dokumentiert.
+- Bitte keine öffentlichen Issues oder Pull Requests für Sicherheitslücken nutzen.
 
 ---
 
-Vielen Dank für deine Hilfe, unsere gemeinsame Struktur sicher und vertrauenswürdig zu halten.
+> Letzte Aktualisierung: Mai 2025  
+> Maintainer: Fabio Weidner
+
