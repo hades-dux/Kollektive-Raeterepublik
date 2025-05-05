@@ -4,8 +4,9 @@
 
 # 🧭 Code of Conduct der Kollektiven Räterepublik
 
-
 <!-- Autor: Fabio Weidner | Version: 1.0 | Veröffentlichung: Mai 2025 -->
+
+---
 
 ## Präambel
 
