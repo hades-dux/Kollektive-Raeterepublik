@@ -2,699 +2,727 @@
   <img src="https://raw.githubusercontent.com/hades-dux/Kollektive-Raeterepublik/main/Meta_und_Systemstruktur/logo_offiziell.png" alt="Logo der Kollektiven Räterepublik" height="80">
 </p>
 
-🔎 **Suchfunktion:**  
-👉 [Klicke hier, um die gesamte Bibliothek nach Stichwörtern zu durchsuchen](https://github.com/hades-dux/Kollektive-Raeterepublik/search)
-
-Oder nutze auf GitHub einfach die Tastenkombination `T` (Go to file) oder `Cmd+F` / `Strg+F` für Seiteninterne Suche.
-
 <!--
 Autor: Fabio Weidner
-Version: 1.0
-Sektion: Meta_und_Systemstruktur
-Veröffentlichung: April 2025
+Version: 1.1
+Sektion: Meta & Systemstruktur
+Veröffentlichung: Mai 2025
 -->
 
-# 📚 BIBLIOTHEK DER KOLLEKTIVEN RÄTEREPUBLIK
+# 📚 Bibliothek der Kollektiven Räterepublik
 
-Willkommen in der digitalen Bibliothek der **Kollektiven Räterepublik**.  
-Hier findest du alle verfassten **Handbücher, Regelwerke, Glossare, Leitfäden und Grundlagendokumente**, die das System in Theorie und Praxis beschreiben, strukturieren und weiterentwickeln.
+Willkommen!  
+Diese **Bibliothek** ist der zentrale Einstiegspunkt für alle, die sich mit der Struktur, den Prinzipien und den Themenfeldern der **Kollektiven Räterepublik** vertraut machen wollen – egal ob du **neu dabei** bist oder schon Erfahrung im System hast.
 
-Ob politische Mitbestimmung, digitale Infrastruktur, soziale Gerechtigkeit, Krisenmanagement oder Kunstförderung – jedes Themenfeld ist modular gegliedert und durchsuchbar.
-
-🧭 Diese Bibliothek dient als:
-- Einstiegspunkt für Neugierige und Beteiligte
-- Referenz für Verwaltung und Organisation
-- Archiv für politische und soziale Innovationsarbeit
-
 ---
-
-**Viel Freude beim Erkunden, Verstehen und Weiterdenken.**  
-Alle Inhalte stehen zur freien Weiterentwicklung im Kollektiv bereit.
 
-<p align="right">
-  <img src="https://raw.githubusercontent.com/hades-dux/Kollektive-Raeterepublik/main/Meta_und_Systemstruktur/logo_offiziell.png" alt="Logo der Kollektiven Räterepublik" height="80">
-</p>
+## 🧭 Für Einsteiger:innen: Wo beginne ich?
 
-# 🌐 Außenpolitik der Kollektiven Räterepublik
+Wenn du noch nie ein Handbuch gelesen hast, **beginne hier**:
 
-Die Außenpolitik der Kollektiven Räterepublik basiert auf Prinzipientreue, Souveränität, Frieden und solidarischer Kooperation.  
-Sie dient nicht dem geopolitischen Einfluss, sondern der globalen Gerechtigkeit, kollektiven Absicherung und dem Austausch auf Augenhöhe.
+| Einstiegshilfe | Beschreibung |
+|----------------|--------------|
+| [`Meta_und_Systemstruktur`](../Meta_und_Systemstruktur/README.md) | Enthält die grundlegende Struktur, Logik und Funktionsweise der Räterepublik. Hier findest du die Verfassung, systematische Grundlagen, visuelle Logik und Partizipationswege. |
+| 00a | `00_Glossar.md`                                          | Alternativformat mit Kurzdefinitionen A–Z                             |
+| 02  | `02_Grundstruktur_der_Kollektiven_Raeterepublik.md`      | Politische, wirtschaftliche und institutionelle Ordnung               |
+| 03  | `03_Zyklus_der_politischen_Mitbestimmung.md`             | Politische Kreislauflogik & Verantwortungsstruktur                    |
+| 04  | `04_Politische_Entscheidungen_und_Rückkopplung.md`       | Entscheidungsfluss, Kontrolle & Wirkungskreisläufe                    |
+| 06  | `06_Historische_und_Theoretische_Grundlagen.md`          | Ideengeschichte, Vorbilder und Theoriebasis der Kollektiven Räterepublik |
+| 07  | `07_Systemvergleich_Raetedemokratie_vs_Parlament.md`     | Vergleich klassischer parlamentarischer Systeme mit Rätelogik         |
+| 09  | `09_Visualisierung_der_Systemlogik.md`                   | Schema- & Diagrammsammlung zur Gesamtstruktur                         |
+| 11  | `11_Buergerbeteiligung_und_Partizipationskultur.md`      | Mitbestimmungsformen & kulturelle Verankerung                         |
+| 13  | `13_Ausblick_und_Entwicklungsperspektiven.md`            | Zukünftige Ziele, Baustellen & strategische Weiterentwicklung         |
+| 14  | `14_Flagge_und_Symbole.md`                               | Identität, visuelle Gestaltung & Zeichen der Räterepublik             |
 
 ---
 
-## 🧭 Einleitung
+## 🧠 Für Fortgeschrittene & Systemarbeiter:innen
 
-Die Räterepublik betreibt eine aktive, aber nicht dominante Außenpolitik.  
-Sie setzt auf multilaterale Allianzen, friedliche Konfliktlösung, klare Prinzipien und systemtreue Diplomatie.
+Wenn du tiefer einsteigen willst, sind diese Themen besonders relevant:
 
-Alle Dateien befinden sich im Repository unter:  
-🔗 [`/Außenpolitik`].(https://github.com/hades-dux/Kollektive-Raeterepublik/tree/main/Au%C3%9Fenpolitik) 
+| Thema | Beschreibung |
+|-------|--------------|
+| **Revisionsprotokoll** | [Systempflege & Änderungsverlauf](../Meta_und_Systemstruktur/08_Systempflege_und_Revisionsprotokoll.md) |
+| **Zugänglichkeit** | [Barrierefreiheit, Sprachversionen, Inklusion](../Meta_und_Systemstruktur/12_Zugänglichkeit_Barrierefreiheit_und_Sprachen.md) |
+| **KI-Ethik & Kontrollmechanismen** | [KI-Recht & Ethikrichtlinien](../Meta_und_Systemstruktur/15_KI_Ethik_Gesetz.md) |
+| **Beteiligungskultur** | [Wie Bürger:innen im System mitwirken können](../Meta_und_Systemstruktur/11_Buergerbeteiligung_und_Partizipationskultur.md) |
 
 ---
-
-## 📚 Handbücher
-
-| Nr. | Titel | Status |
-|-----|-------|--------|
-| 00 | [Glossar](./00_glossar.md) | ✅ |
-| 01 | [Gruppe Außenpolitik](./01_Handbuch_Gruppe_Aussenpolitik.md) | ✅ |
-| 02 | [Idealisierung](./02_Idealisierung.md) | ✅ |
-| 03 | [Internationale Beziehungen](./03_Internationale.md) | ✅ |
-| 04 | [Umgang mit Sanktionen](./04_Umgang_mit_Sanktionen.md) | ✅ |
-| 05 | [Diplomatischer Dienst](./05_Diplomatischer_Dienst.md) | ✅ |
-| 06 | [Internationale Organisationen](./06_Internationale_Organisationen.md) | ✅ |
-| 07 | [Kollektive Fluchtpolitik](./07_Kollektive_Fluchtpolitik.md) | ✅ |
-| 08 | [Internationale Krisenhilfe](./08_Internationale_Krisenhilfe.md) | ✅ |
-| 09 | [Politische Bündnisse & Rätekooperation](./09_Politische_Buendnisse_und_Raetekooperation.md) | ✅ |
-| 10 | [Internationale Rechtspolitik & Gerichtsbarkeit](./10_Internationale_Rechtspolitik_und_Kollektive_Gerichtsbarkeit.md) | ✅ |
-| 11 | [Offene Position für zukünftige Außenpolitik](./11_Offene_Position_fuer_zukuenftige_Aussenpolitik.md) | ⏳ |
-
----
-
-## 🧠 Mitwirken & Weiterentwicklung
 
-> Dieses Verzeichnis ist offen für kollektive Beiträge.  
-> Diskussionsimpulse und Ergänzungen sind im **Think Tank (Discord)** jederzeit willkommen.
+## 📌 Hinweise zur Nutzung
 
----
+- Diese Bibliothek wird **laufend erweitert**. Neue Inhalte erkennst du an **Änderungen im Changelog** der jeweiligen Ordner.
+- Jeder Themenbereich ist **modular** aufgebaut. Du musst nicht alles lesen – aber du kannst jederzeit vertiefen.
+## 📚 Inhaltsübersicht: Themencluster & Oberordner
 
-## 🗂️ Metadaten
+> Jede Kategorie enthält ein README mit genauer Beschreibung und einer **TOC (Table of Contents)**, um dir die Navigation zu erleichtern.  
+> **Klicke auf den jeweiligen Ordner**, um zum Thema zu gelangen.
 
-📅 Stand: Mai 2025  
-🛠 Maintainer: Gruppe Außenpolitik  
-🔐 Lizenz: Kollektive Weiterentwicklung mit Quellenangabe
+| Nr. | Ordnername | Themencluster | Link |
+|-----|------------|----------------|------|
+| 01 | Außenpolitik | Internationale Beziehungen, Asyl, Krisen | [`📁`](../Außenpolitik/README.md) |
+| 02 | Bildung_und_Forschung | Bildungssystem, Forschung, Weiterbildung | [`📁`](../Bildung_und_Forschung/README.md) |
+| 03 | Digitalisierung | IT, Cybersicherheit, Plattformen | [`📁`](../Digitalisierung/README.md) |
+| 04 | Ernährung | Landwirtschaft, Ernährungssicherheit | [`📁`](../Ernährung/README.md) |
+| 05 | Gesundheit | Versorgung, Prävention, Notfallmedizin | [`📁`](../Gesundheit/README.md) |
+| 06 | Infrastruktur_Auroraexpress | Logistiksystem, Mobilität, Planung | [`📁`](../Infrastruktur_Auroraexpress/README.md) |
+| 07 | Infrastruktur | Allgemeine Infrastruktur, Versorgung | [`📁`](../Infrastruktur/README.md) |
+| 08 | Integration & Migration | Aufnahme, Vielfalt, Asylrecht | [`📁`](../Integration%20&%20Migration/README.md) |
+| 09 | Justiz_und_Sicherheit | Gerichte, Polizei, Ethik | [`📁`](../Justiz_und_Sicherheit/README.md) |
+| 10 | Kultur | Kulturpolitik, Kunstförderung | [`📁`](../Kultur/README.md) |
+| 11 | Kunst | Freie Kunst, Subkultur, Räume | [`📁`](../Kunst/README.md) |
+| 12 | Manifest_und_Grundlagen | Verfassung, Manifest, Glossar | [`📁`](../Manifest_und_Grundlagen/README.md) |
+| 13 | Meta_und_Systemstruktur | Struktur, Feedback, Flags, KI | [`📁`](../Meta_und_Systemstruktur/README.md) |
+| 14 | Politik_und_Verwaltung | Kollektiv, Räte, Bürgerabstimmungen | [`📁`](../Politik_und_Verwaltung/README.md) |
+| 15 | Sonderraete_und_Abrufgremien | Krisenrat, Aufsicht, Mobilität etc. | [`📁`](../Sonderraete_und_Abrufgremien/README.md) |
+| 16 | Umwelt & Klima | Nachhaltigkeit, Energie, Schutz | [`📁`](../Umwelt%20&%20Klima/README.md) |
+| 17 | Unterhaltung | Medien, Archive, Formate | [`📁`](../Unterhaltung/README.md) |
+| 18 | Wirtschaft_und_Produktion | Wirtschaftssystem, Betriebe, Krisen | [`📁`](../Wirtschaft_und_Produktion/README.md) |
 
 ---
-
 
-# 🎓 BILDUNG & FORSCHUNG
+# 🌍 Außenpolitik der Kollektiven Räterepublik
 
-Diese Sektion umfasst die gesammelten Regelwerke, Strukturpapiere und Handbücher zur Organisation, Weiterentwicklung und Reflexion von Bildung und Forschung in der Kollektiven Räterepublik.
+> **Wie positioniert sich eine basisdemokratische Gesellschaft in der Welt?**
 
----
+Die Sektion **Außenpolitik** dokumentiert die Grundlagen, Strategien und organisatorischen Strukturen der Kollektiven Räterepublik im internationalen Kontext.  
+Hier findest du Antworten auf Fragen wie:
 
-## 🧭 EINLEITUNG
+- **Wie geht die Räterepublik mit internationalen Konflikten um?**  
+- **Welche Bündnisse strebt sie an – und warum?**  
+- **Wie sieht ein kollektiver diplomatischer Dienst aus?**  
+- **Was ist ihre Haltung zu Asyl, Krisenhilfe und globalen Organisationen?**
 
-Bildung & Forschung gelten in der Kollektiven Räterepublik als zentrale Säulen gesellschaftlicher Entwicklung. Die hier verlinkten Dokumente bilden die gesamte systemische Grundlage dieses Bereichs – von der Grundstruktur über ethische Standards bis hin zur lebenslangen Weiterbildung.
+Die Dokumente richten sich an alle, die verstehen wollen, **wie solidarische Außenpolitik gedacht und umgesetzt** werden kann – von Grundprinzipien bis zu konkreten Handlungsleitlinien.
 
-Alle Dateien befinden sich im Repository unter:  
-🔗 [`/Bildung_und_Forschung`](https://github.com/hades-dux/Kollektive-Raeterepublik/tree/main/Bildung_und_Forschung)
+# 📁 Inhaltsverzeichnis Außenpolitik (https://github.com/hades-dux/Kollektive-Raeterepublik/tree/main/Au%C3%9Fenpolitik) 
 
----
+Dieses Dokument enthält alle Dateien und Unterthemen des Ordners `Außenpolitik`.
 
-## 📘 INHALTSVERZEICHNIS DER DOKUMENTE
-
-| Nr. | Datei | Inhalt |
-|-----|-------|--------|
-| 00 | [`00_Glossar.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Bildung_und_Forschung/00_Glossar.md) | Begriffserklärungen für Bildung & Forschung |
-| 01 | [`01_Handbuch_Gruppe_Bildung.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Bildung_und_Forschung/01_Handbuch_Gruppe_Bildung.md) | Aufbau, Aufgaben & Struktur der Bildungsgruppe |
-| 02 | [`02_Handbuch_Gruppe_Forschung_und_Innovation.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Bildung_und_Forschung/02_Handbuch_Gruppe_Forschung_und_Innovation.md) | Organisation und Arbeitsweise der Forschungsgruppe |
-| 03 | [`03_Bildungssystem_Kollektive_Raeterepublik.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Bildung_und_Forschung/03_Bildungssystem_Kollektive_Raeterepublik.md) | Struktur des gesamten Bildungssystems |
-| 04 | [`04_Forschung_Innovation.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Bildung_und_Forschung/04_Forschung_Innovation.md) | Prinzipien, Planungslogik & Umsetzung innovativer Forschung |
-| 05 | [`05_Handbuch_Weiterbildung_und_Lebenslanges_Lernen.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Bildung_und_Forschung/05_Handbuch_Weiterbildung_und_Lebenslanges_Lernen.md) | Strukturen & Regelungen zur kontinuierlichen Weiterbildung |
-| 06 | [`06_Handbuch_Buergerbildung.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Bildung_und_Forschung/06_Handbuch_Buergerbildung.md) | Politische und gesellschaftliche Bildung aller Bürger:innen |
-| 07 | [`07_Handbuch_Wissenschaftskommunikation.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Bildung_und_Forschung/07_Handbuch_Wissenschaftskommunikation.md) | Vermittlung von Forschung in Gesellschaft & Medien |
-| 08 | [`08_Handbuch_Forschungsethik.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Bildung_und_Forschung/08_Handbuch_Forschungsethik.md) | Ethische Leitlinien und Prinzipien für alle Forschungsbereiche |
+| Nr. | Dateiname                                                                 | Inhalt / Zweck                                                                 |
+|-----|---------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| 01  | `00_glossar.md`                                                           | Glossar zu Begriffen im Bereich Außenpolitik                                  |
+| 02  | `01_Handbuch_Gruppe_Aussenpolitik.md`                                     | Zentrale Koordination und Aufgaben der Gruppe Außenpolitik                    |
+| 03  | `02_Idealisierung.md`                                                    | Ideelle Grundprinzipien und außenpolitisches Leitbild                         |
+| 04  | `03_Internationale.md`                                                   | Verhältnis zur internationalen Rätebewegung                                   |
+| 05  | `04_Umgang_mit_Sanktionen.md`                                            | Strategien zum Umgang mit Sanktionen und internationalen Restriktionen        |
+| 06  | `05_Diplomatischer_Dienst.md`                                            | Aufbau und Rolle eines kollektiven diplomatischen Dienstes                    |
+| 07  | `06_Internationale_Organisationen.md`                                    | Umgang mit UN, WHO, WTO etc.                                                  |
+| 08  | `07_Kollektive_Fluchtpolitik.md`                                         | Grundlagen zur Aufnahme, Flucht und transnationalen Solidarität               |
+| 09  | `08_Internationale_Krisenhilfe.md`                                       | Strukturen zur internationalen Hilfe bei Katastrophen und Konflikten          |
+| 10  | `09_Politische_Buendnisse_und_Raetekooperation.md`                       | Bündnispolitik & strategische Rätekooperationen                               |
+| 11  | `10_Internationale_Rechtspolitik_und_Kollektive_Gerichtsbarkeit.md`     | Rechtliche Standards & internationale Strafgerichtsbarkeit                    |
+| 12  | `11_Offene_Position_fuer_zukuenftige_Aussenpolitik.md`                  | Reserviert für zukünftige Erweiterungen                                       |
+| 13  | `README.md`                                                              | Einführung und Übersicht über das Themenfeld Außenpolitik                     |
 
 ---
 
-# 💻 DIGITALISIERUNG
+# 🎓 Bildung & Forschung in der Kollektiven Räterepublik
 
-Diese Sektion bündelt alle Grundlagendokumente zur digitalen Struktur, Sicherheit, Resilienz und Partizipation innerhalb der Kollektiven Räterepublik.
+> **Wie lernen wir? Wie forschen wir? Und wie sorgen wir dafür, dass alle davon profitieren?**
 
----
+Diese Sektion beschreibt den Aufbau und die Leitideen eines **emanzipatorischen Bildungssystems** und einer **solidarischen Forschungslandschaft**.  
+Sie umfasst sowohl Grundlagen der Allgemeinbildung als auch komplexe Konzepte für Weiterentwicklung, lebenslanges Lernen und Innovationsförderung.
 
-## 🧭 EINLEITUNG
+Du findest hier Antworten auf:
 
-Digitalisierung ist nicht nur technisches Mittel, sondern integraler Bestandteil demokratischer Selbstorganisation, Sicherheit und Transparenz. Die hier dokumentierten Regelwerke definieren Standards für digitale Infrastruktur, offene Software, digitale Gemeingüter sowie Krisensicherheit.
+- **Wie funktioniert das kollektive Bildungssystem – von Kita bis Hochschule?**  
+- **Welche Rolle spielt Forschung ohne Profitlogik?**  
+- **Wie werden Wissenschaft, Weiterbildung und Bürgerbildung organisiert?**  
+- **Welche Ethik gilt für wissenschaftliches Arbeiten in einer solidarischen Gesellschaft?**
 
-Alle Dateien befinden sich im Repository unter:  
-🔗 [`/Digitalisierung`](https://github.com/hades-dux/Kollektive-Raeterepublik/tree/main/Digitalisierung)
+Die Inhalte richten sich an Lehrende, Forschende, Bildungsaktive und alle Interessierten, die den **Bildungs- und Erkenntnisprozess als gemeinschaftliche Aufgabe** verstehen.
 
----
+## 📂 Inhaltsverzeichnis Bildung & Forschung (https://github.com/hades-dux/Kollektive-Raeterepublik/tree/main/Bildung_und_Forschung) 
 
-## 📘 INHALTSVERZEICHNIS DER DOKUMENTE
-
-| Nr. | Datei | Inhalt |
-|-----|-------|--------|
-| 00 | [`00_Glossar_Digitalisierung.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Digitalisierung/00_Glossar_Digitalisierung.md) | Begriffsklärungen für alle digitalpolitischen Themen |
-| 01 | [`01_Handbuch_Gruppe_Digitalisierung.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Digitalisierung/01_Handbuch_Gruppe_Digitalisierung.md) | Struktur & Aufgaben der Gruppe Digitalisierung |
-| 02 | [`02_Handbuch_Digitale_Infrastruktur.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Digitalisierung/02_Handbuch_Digitale_Infrastruktur.md) | Grundregeln & Ausbauprinzipien digitaler Grundversorgung |
-| 03 | [`03_Handbuch_Cybersicherheit_und_Schutzsysteme.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Digitalisierung/03_Handbuch_Cybersicherheit_und_Schutzsysteme.md) | Verteidigungsmechanismen gegen digitale Bedrohungen |
-| 04 | [`04_Handbuch_Digitale_Plattformen_und_Beteiligungstools.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Digitalisierung/04_Handbuch_Digitale_Plattformen_und_Beteiligungstools.md) | Werkzeuge & Standards für kollektive Online-Partizipation |
-| 05 | [`05_Handbuch_Offene_Software_und_Digitale_Gemeingueter.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Digitalisierung/05_Handbuch_Offene_Software_und_Digitale_Gemeingueter.md) | Gemeingüter-Logik & Prinzipien freier Software |
-| 06 | [`06_Handbuch_Krisenresilienz_digitaler_Systeme.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Digitalisierung/06_Handbuch_Krisenresilienz_digitaler_Systeme.md) | Notfallprotokolle & digitale Robustheit in Krisenzeiten |
+- [00_Glossar.md](./00_Glossar.md)
+- [01_Handbuch_Gruppe_Bildung.md](./01_Handbuch_Gruppe_Bildung.md)
+- [02_Handbuch_Gruppe_Forschung_und_Innovation.md](./02_Handbuch_Gruppe_Forschung_und_Innovation.md)
+- [03_Bildungssystem_Kollektive_Raeterepublik.md](./03_Bildungssystem_Kollektive_Raeterepublik.md)
+- [04_Forschung_Innovation.md](./04_Forschung_Innovation.md)
+- [05_Handbuch_Weiterbildung_und_Lebenslanges_Lernen.md](./05_Handbuch_Weiterbildung_und_Lebenslanges_Lernen.md)
+- [06_Handbuch_Buergerbildung.md](./06_Handbuch_Buergerbildung.md)
+- [07_Handbuch_Wissenschaftskommunikation.md](./07_Handbuch_Wissenschaftskommunikation.md)
+- [08_Handbuch_Forschungsethik.md](./08_Handbuch_Forschungsethik.md)
+- [CHANGELOG.md](./CHANGELOG.md)
+- [README.md](./README.md)
 
 ---
 
-# 🌾 ERNÄHRUNG
+# 💻 Digitalisierung in der Kollektiven Räterepublik
 
-Diese Sektion dokumentiert die Strukturen, Standards und politischen Leitlinien zur Ernährungspolitik, Lebensmittelproduktion und regionalen Versorgung in der Kollektiven Räterepublik.
+> **Digitalisierung ist kein Selbstzweck – sie soll den Menschen dienen, nicht umgekehrt.**
 
----
+Diese Sektion behandelt die Grundstruktur, Prinzipien und Schutzmechanismen einer **solidarischen, offenen und gemeinwohlorientierten digitalen Infrastruktur**.
 
-## 🧭 EINLEITUNG
+Hier findest du zentrale Themen und Antworten zu:
 
-Ernährung wird als gesellschaftliches Grundrecht und politischer Gestaltungsbereich verstanden. Die hier gesammelten Regelwerke definieren Versorgungssicherheit, Souveränität in der Produktion, Qualitätssicherung sowie forschungsbasierte Weiterentwicklung der Ernährungssysteme.
+- **Wie funktioniert die digitale Grundversorgung in der Kollektiven Räterepublik?**  
+- **Was sind die Prinzipien für Cybersicherheit und Datenschutz?**  
+- **Welche digitalen Plattformen stehen der Bevölkerung zur Mitbestimmung und Partizipation zur Verfügung?**  
+- **Wie wird mit Software, offenen Daten und Resilienz gegen Krisen umgegangen?**
 
-Alle Dateien befinden sich im Repository unter:  
-🔗 [`/Ernährung`](https://github.com/hades-dux/Kollektive-Raeterepublik/tree/main/Ern%C3%A4hrung)
+Die Inhalte richten sich an Entwickler:innen, Systemverwalter:innen, Bürger:innen, Datenethiker:innen und alle, die sich für eine **transparente, demokratische und sichere Digitalisierung** interessieren.
 
 ---
 
-## 📘 INHALTSVERZEICHNIS DER DOKUMENTE
+## 📚 Inhaltsverzeichnis Digitalisierung (https://github.com/hades-dux/Kollektive-Raeterepublik/tree/main/Digitalisierung) 
 
-| Nr. | Datei | Inhalt |
-|-----|-------|--------|
-| 00 | [`00_Glossar_Ernährung.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Ern%C3%A4hrung/00_Glossar_Ern%C3%A4hrung.md) | Begriffserklärungen für den Ernährungsbereich |
-| 01 | [`01_Handbuch_Gruppe_Ernährung.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Ern%C3%A4hrung/01_Handbuch_Gruppe_Ern%C3%A4hrung.md) | Struktur & Aufgaben der Gruppe Ernährung |
-| 02 | [`02_Handbuch_Landwirtschaft_Produktion_und_Standards.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Ern%C3%A4hrung/02_Handbuch_Landwirtschaft_Produktion_und_Standards.md) | Regelwerke für nachhaltige Agrarproduktion & Standards |
-| 03 | [`03_Handbuch_Ernährungssouveränität_und_regionale_Versorgung.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Ern%C3%A4hrung/03_Handbuch_Ern%C3%A4hrungssouver%C3%A4nit%C3%A4t_und_regionale_Versorgung.md) | Konzepte regionaler Selbstversorgung und Ernährungssouveränität |
-| 04 | [`04_Handbuch_Lebensmittelqualität_Standards_und_Schutzrichtlinien.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Ern%C3%A4hrung/04_Handbuch_Lebensmittelqualit%C3%A4t_Standards_und_Schutzrichtlinien.md) | Qualitäts- & Sicherheitsstandards für Lebensmittel |
-| 05 | [`05_Handbuch_Forschung_und_Innovation_in_der_Ernährung.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Ern%C3%A4hrung/05_Handbuch_Forschung_und_Innovation_in_der_Ern%C3%A4hrung.md) | Forschungsansätze und Innovationsförderung im Ernährungssektor |
+1. [00_Glossar_Digitalisierung.md](00_Glossar_Digitalisierung.md)  
+2. [01_Handbuch_Gruppe_Digitalisierung.md](01_Handbuch_Gruppe_Digitalisierung.md)  
+3. [02_Handbuch_Digitale_Infrastruktur.md](02_Handbuch_Digitale_Infrastruktur.md)  
+4. [03_Handbuch_Cybersicherheit_und_Schutzsysteme.md](03_Handbuch_Cybersicherheit_und_Schutzsysteme.md)  
+5. [04_Handbuch_Digitale_Plattformen_und_Beteiligungstools.md](04_Handbuch_Digitale_Plattformen_und_Beteiligungstools.md)  
+6. [05_Handbuch_Offene_Software_und_Digitale_Gemeingueter.md](05_Handbuch_Offene_Software_und_Digitale_Gemeingueter.md)  
+7. [06_Handbuch_Krisenresilienz_digitaler_Systeme.md](06_Handbuch_Krisenresilienz_digitaler_Systeme.md)  
+8. [CHANGELOG.md](CHANGELOG.md)
 
 ---
-
-# 🏥 GESUNDHEIT
 
-Diese Sektion dokumentiert die medizinischen, versorgungsbezogenen und forschungsgeleiteten Strukturen der Gesundheitsorganisation innerhalb der Kollektiven Räterepublik.
+# 🌾 Ernährung in der Kollektiven Räterepublik
 
----
+> **Ernährung ist mehr als Versorgung – sie ist Teil von Souveränität, Gesundheit und Gerechtigkeit.**
 
-## 🧭 EINLEITUNG
+Dieser Bereich widmet sich der **gesamten Nahrungsmittelversorgung**, angefangen bei der Landwirtschaft über Qualitätsstandards bis zur Forschung und Innovation in der Ernährung.
 
-Gesundheit wird in der Kollektiven Räterepublik als kollektive Verantwortung und öffentliches Gut verstanden. Die hier versammelten Regelwerke definieren die Organisation des Gesundheitssystems, Prävention, Notfallvorsorge sowie gesundheitsbezogene Forschung und Entwicklung.
+Hier erfährst du:
 
-Alle Dateien befinden sich im Repository unter:  
-🔗 [`/Gesundheit`](https://github.com/hades-dux/Kollektive-Raeterepublik/tree/main/Gesundheit)
+- **Wie wird Ernährungssicherheit und regionale Versorgung gewährleistet?**  
+- **Welche Standards gelten für Produktion, Qualität und Nachhaltigkeit?**  
+- **Wie wird die Ernährungspolitik wissenschaftlich begleitet und weiterentwickelt?**  
+- **Welche Rolle spielt Forschung für zukunftsfähige Ernährungssysteme?**
 
----
+Die Inhalte richten sich an Agrarwissenschaftler:innen, Ernährungsexpert:innen, politische Entscheider:innen, Produzent:innen und an alle, die sich mit dem Thema **gerechte und nachhaltige Ernährung** befassen möchten.
 
-## 📘 INHALTSVERZEICHNIS DER DOKUMENTE
+## 📚 Inhaltsverzeichnis Ernährung (https://github.com/hades-dux/Kollektive-Raeterepublik/tree/main/Ern%C3%A4hrung) 
 
-| Nr. | Datei | Inhalt |
-|-----|-------|--------|
-| 00 | [`00_Glossar_Gesundheit.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Gesundheit/00_Glossar_Gesundheit.md) | Begriffsklärungen im Bereich Gesundheit & Versorgung |
-| 01 | [`01_Handbuch_Gruppe_Gesundheit.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Gesundheit/01_Handbuch_Gruppe_Gesundheit.md) | Struktur & Aufgaben der Gesundheitsgruppe |
-| 02 | [`02_Handbuch_Gesundheitseinrichtungen_und_Versorgung.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Gesundheit/02_Handbuch_Gesundheitseinrichtungen_und_Versorgung.md) | Regelungen zur medizinischen Grundversorgung und Infrastruktur |
-| 03 | [`03_Handbuch_Prävention_und_Gesundheitsförderung.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Gesundheit/03_Handbuch_Pr%C3%A4vention_und_Gesundheitsf%C3%B6rderung.md) | Programme zur Prävention und aktiven Gesundheitsförderung |
-| 04 | [`04_Handbuch_Notfallmedizin_und_Krisenvorsorge.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Gesundheit/04_Handbuch_Notfallmedizin_und_Krisenvorsorge.md) | Organisation medizinischer Notfallvorsorge & Krisenreaktion |
-| 05 | [`05_Handbuch_Forschung_und_Entwicklung_Gesundheit.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Gesundheit/05_Handbuch_Forschung_und_Entwicklung_Gesundheit.md) | Gesundheitsbezogene Forschung & medizinische Innovationen |
+1. [00_Glossar_Ernährung.md](00_Glossar_Ernährung.md)  
+2. [01_Handbuch_Gruppe_Ernährung.md](01_Handbuch_Gruppe_Ernährung.md)  
+3. [02_Handbuch_Landwirtschaft_Produktion_und_Standards.md](02_Handbuch_Landwirtschaft_Produktion_und_Standards.md)  
+4. [03_Handbuch_Ernährungssouveränität_und_regionale_Versorgung.md](03_Handbuch_Ernährungssouveränität_und_regionale_Versorgung.md)  
+5. [04_Handbuch_Lebensmittelqualität_Standards_und_Schutzrichtlinien.md](04_Handbuch_Lebensmittelqualität_Standards_und_Schutzrichtlinien.md)  
+6. [05_Handbuch_Forschung_und_Innovation_in_der_Ernährung.md](05_Handbuch_Forschung_und_Innovation_in_der_Ernährung.md)  
+7. [CHANGELOG.md](CHANGELOG.md)
 
 ---
 
-# 🏗️ INFRASTRUKTUR & AURORAEXPRESS
+# 🏥 Gesundheit in der Kollektiven Räterepublik
 
-Diese Sektion dokumentiert alle strategischen Grundlagen, Handbücher und operativen Regelungen zur physischen, digitalen und sozialen Infrastruktur der Kollektiven Räterepublik.
+> **Gesundheit ist ein kollektives Gut – nicht nur ein individuelles Anliegen.**
 
----
+Der Bereich „Gesundheit“ dokumentiert das kollektive Gesundheitssystem von der medizinischen Versorgung bis hin zu Prävention, Krisenvorsorge und Forschung.  
 
-## 🧭 EINLEITUNG
+Hier erfährst du:
 
-Infrastruktur ist mehr als nur technische Grundlage – sie bildet das Rückgrat der gesellschaftlichen Reproduktionsfähigkeit. Die Auroraexpress-Strategie stellt dabei ein verbindendes Leitmotiv für die ganzheitliche Versorgung, Mobilität, Teilhabe und Notfallrobustheit dar. Diese Sammlung umfasst Netzplanung, Versorgungssysteme, Inklusion, Mobilität und Raumordnung.
+- **Wie ist die Gesundheitsversorgung organisiert und aufgebaut?**  
+- **Welche Maßnahmen dienen der Prävention und Gesundheitsförderung?**  
+- **Wie wird auf medizinische Notlagen und Krisen reagiert?**  
+- **Welche Rolle spielen Forschung & Entwicklung in der medizinischen Infrastruktur?**
 
-Alle Dateien befinden sich im Repository unter:  
-🔗 [`/Infrastruktur_Auroraexpress`](https://github.com/hades-dux/Kollektive-Raeterepublik/tree/main/Infrastruktur_Auroraexpress)
+Die Inhalte richten sich an Fachkräfte aus Medizin & Pflege, politische Entscheider:innen, Wissenschaftler:innen und alle, die das Thema **öffentliche Gesundheit, Gerechtigkeit und Versorgung** mitgestalten möchten.
 
----
+## 📚 Inhaltsverzeichnis Gesundheit (https://github.com/hades-dux/Kollektive-Raeterepublik/tree/main/Gesundheit) 
 
-## 📘 INHALTSVERZEICHNIS DER DOKUMENTE
-
-| Nr. | Datei | Inhalt |
-|-----|-------|--------|
-| 00 | [`00_Glossar_Infrastruktur.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Infrastruktur_Auroraexpress/00_Glossar_Infrastruktur.md) | Zentrale Begriffe rund um Infrastruktur & Versorgung |
-| 01 | [`01_Handbuch_Gruppe_Infrastruktur.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Infrastruktur_Auroraexpress/01_Handbuch_Gruppe_Infrastruktur.md) | Aufbau & Aufgaben der Gruppe Infrastruktur |
-| 02 | [`02_Handbuch_Infrastruktur_und_Oeffentliche_Versorgung.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Infrastruktur_Auroraexpress/02_Handbuch_Infrastruktur_und_Oeffentliche_Versorgung.md) | Grundregeln zur Planung, Ausführung & Wartung |
-| 03 | [`03_Handbuch_Intranet_Kollektive_Raeterepublik.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Infrastruktur_Auroraexpress/03_Handbuch_Intranet_Kollektive_Raeterepublik.md) | Internes digitales Netz der Räterepublik |
-| 04 | [`04_Handbuch_Digitale_Infrastruktur_und_Informationsfreiheit.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Infrastruktur_Auroraexpress/04_Handbuch_Digitale_Infrastruktur_und_Informationsfreiheit.md) | Informationszugang & Netzneutralität |
-| 05 | [`05_Handbuch_Ernährungsversorgung_und_Ernährungssicherheit.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Infrastruktur_Auroraexpress/05_Handbuch_Ern%C3%A4hrungsversorgung_und_Ern%C3%A4hrungssicherheit.md) | Schnittstelle Ernährung & Versorgungsnetzwerke |
-| 06 | [`06_Handbuch_Inklusion_und_Teilhabesicherung.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Infrastruktur_Auroraexpress/06_Handbuch_Inklusion_und_Teilhabesicherung.md) | Barrierefreiheit & gleichberechtigter Zugang |
-| 07 | [`07_Handbuch_Mobilitaet_und_Verkehrsinfrastruktur.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Infrastruktur_Auroraexpress/07_Handbuch_Mobilitaet_und_Verkehrsinfrastruktur.md) | Öffentlicher Nahverkehr & nachhaltige Mobilität |
-| 08 | [`08_Handbuch_Wohnen_Raumordnung_und_Soziale_Infrastruktur.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Infrastruktur_Auroraexpress/08_Handbuch_Wohnen_Raumordnung_und_Soziale_Infrastruktur.md) | Wohnraumplanung & soziale Raumverteilung |
-| 09 | [`09_Handbuch_Krisen- und Notfallinfrastruktur.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Infrastruktur_Auroraexpress/09_Handbuch_Krisen-%20und_Notfallinfrastruktur.md) | Robuste Infrastruktur im Krisen- und Katastrophenfall |
+1. [00_Glossar_Gesundheit.md](00_Glossar_Gesundheit.md)  
+2. [01_Handbuch_Gruppe_Gesundheit.md](01_Handbuch_Gruppe_Gesundheit.md)  
+3. [02_Handbuch_Gesundheitseinrichtungen_und_Versorgung.md](02_Handbuch_Gesundheitseinrichtungen_und_Versorgung.md)  
+4. [03_Handbuch_Prävention_und_Gesundheitsförderung.md](03_Handbuch_Prävention_und_Gesundheitsförderung.md)  
+5. [04_Handbuch_Notfallmedizin_und_Krisenvorsorge.md](04_Handbuch_Notfallmedizin_und_Krisenvorsorge.md)  
+6. [05_Handbuch_Forschung_und_Entwicklung_Gesundheit.md](05_Handbuch_Forschung_und_Entwicklung_Gesundheit.md)  
+7. [CHANGELOG.md](CHANGELOG.md)
 
 ---
 
+# 🏗️ Infrastruktur – Versorgung, Teilhabe und Resilienz
 
-# 🚄 AURORAEXPRESS
+> **Infrastruktur ist das Fundament funktionierender Gesellschaften – physisch, sozial und digital.**
 
-Der Auroraexpress bildet ein systemisches Schlüsselprojekt der Kollektiven Räterepublik. Er verbindet Versorgungssicherheit, ökologischen Hochleistungsverkehr und dezentrale Infrastruktur zu einem integrierten Netz aus Land-, Luft- und Wasserverbindungen.
+Der Ordner `Infrastruktur` enthält die zentralen Handbücher zu **öffentlichen Netzen, Versorgungssystemen, sozialer Teilhabe und baulicher Daseinsvorsorge**. Ziel ist es, die Grundlagen einer nachhaltigen, zugänglichen und krisenfesten Infrastruktur zu schaffen.
 
----
-
-## 🧭 EINLEITUNG
+Du findest hier:
 
-Die Auroraexpress-Initiative ist weit mehr als ein Verkehrssystem: Sie ist ein transversales Infrastrukturprojekt, das Güter-, Personen-, Energie- und Datenströme effizient, sicher und ökologisch miteinander verknüpft. Diese Sektion dokumentiert Architektur, Betreiberstrukturen, Energieintegration, technische Standards sowie langfristige Planung.
+- Planung und Steuerung der **allgemeinen öffentlichen Infrastruktur**
+- Integration von **digitalem Intranet** und **Informationsfreiheit**
+- Zugang zu **Wohnen, Mobilität, Ernährung und Teilhabe**
+- **Inklusion** und barrierefreie Gestaltung
+- Konzepte für **Krisen- und Notfallinfrastruktur**
+- **Ökologische Baustandards** und Zukunftsplanung
 
-Alle Dateien befinden sich im Repository unter:  
-🔗 [`/Auroraexpress`](https://github.com/hades-dux/Kollektive-Raeterepublik/tree/main/Infrastruktur_Auroraexpress/Infrastruktur_Auroraexpress/Auroraexpress)
+Diese Dokumente richten sich an **Infrastrukturplaner:innen, Versorgungsgruppen, Sozialarchitekt:innen, Netztechniker:innen** sowie an alle, die an Aufbau und Erhalt der Grundstruktur der Gesellschaft beteiligt sind.
 
----
+## 📚 Inhaltsverzeichnis Infrastruktur (https://github.com/hades-dux/Kollektive-Raeterepublik/tree/main/Infrastruktur_Auroraexpress) 
 
-## 📘 INHALTSVERZEICHNIS DER DOKUMENTE
-
-| Nr. | Datei | Inhalt |
-|-----|-------|--------|
-| 00 | [`00_glossar.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Infrastruktur_Auroraexpress/Infrastruktur_Auroraexpress/Auroraexpress/00_glossar.md) | Begriffe & Konzepte des Auroraexpress-Systems |
-| 01 | [`01_Handbuch_Gruppe_Auroraexpress.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Infrastruktur_Auroraexpress/Infrastruktur_Auroraexpress/Auroraexpress/01_Handbuch_Gruppe_Auroraexpress.md) | Struktur & Aufgaben der Gruppe Auroraexpress |
-| 02 | [`02_systemstruktur.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Infrastruktur_Auroraexpress/Infrastruktur_Auroraexpress/Auroraexpress/02_systemstruktur.md) | Systemlogik & modulare Architektur des Auroraexpress |
-| 03 | [`03_logo.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Infrastruktur_Auroraexpress/Infrastruktur_Auroraexpress/Auroraexpress/03_logo.md) | Symbolik & visuelle Identität |
-| 04 | [`04_gueterverkehr.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Infrastruktur_Auroraexpress/Infrastruktur_Auroraexpress/Auroraexpress/04_gueterverkehr.md) | Standardrouten & Logistiksysteme im Güterverkehr |
-| 05 | [`05_personenverkehr.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Infrastruktur_Auroraexpress/Infrastruktur_Auroraexpress/Auroraexpress/05_personenverkehr.md) | Zugang, Kapazitäten & soziale Mobilität |
-| 06 | [`06_energie_und_integration.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Infrastruktur_Auroraexpress/Infrastruktur_Auroraexpress/Auroraexpress/06_energie_und_integration.md) | Energierückgewinnung, Speicher & Netzintegration |
-| 07 | [`07_stadtplanung.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Infrastruktur_Auroraexpress/Infrastruktur_Auroraexpress/Auroraexpress/07_stadtplanung.md) | Wechselwirkung mit urbaner Struktur & Lebensraum |
-| 08 | [`08_hubs_der_zukunft.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Infrastruktur_Auroraexpress/Infrastruktur_Auroraexpress/Auroraexpress/08_hubs_der_zukunft.md) | Zentrale & dezentrale Infrastrukturknoten |
-| 09 | [`09_Technische_Verständnismappe.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Infrastruktur_Auroraexpress/Infrastruktur_Auroraexpress/Auroraexpress/09_Technische_Verständnismappe.md) | Grundwissen zu Aufbau & Funktionsweise |
-| 10 | [`10_begriffsklaerung.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Infrastruktur_Auroraexpress/Infrastruktur_Auroraexpress/Auroraexpress/10_begriffsklaerung.md) | Zusätzliche Detailbegriffe |
-| 11 | [`11_Betreiber_Leitfaden.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Infrastruktur_Auroraexpress/Infrastruktur_Auroraexpress/Auroraexpress/11_Betreiber_Leitfaden.md) | Handbuch für Betriebsgruppen & technische Verwaltung |
-| 12 | [`12_Roadmap_Auroraexpress.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Infrastruktur_Auroraexpress/Infrastruktur_Auroraexpress/Auroraexpress/12_Roadmap_Auroraexpress.md) | Langfristige Ausbauplanung bis 2040 |
+| Nr. | Titel | Beschreibung |
+|:--:|:------|:-------------|
+| 00 | [00_Glossar_Infrastruktur.md](./00_Glossar_Infrastruktur.md) | Glossar zentraler Begriffe aus dem Bereich Infrastruktur |
+| 01 | [01_Handbuch_Gruppe_Infrastruktur.md](./01_Handbuch_Gruppe_Infrastruktur.md) | Aufbau und interne Organisation der Gruppe Infrastruktur |
+| 02 | [02_Handbuch_Infrastruktur_und_Oeffentliche_Versorgung.md](./02_Handbuch_Infrastruktur_und_Oeffentliche_Versorgung.md) | Grundversorgung mit Wasser, Strom, Netzen etc. |
+| 03 | [03_Handbuch_Intranet_Kollektive_Raeterepublik.md](./03_Handbuch_Intranet_Kollektive_Raeterepublik.md) | Infrastruktur des digitalen Verwaltungsnetzes |
+| 04 | [04_Handbuch_Digitale_Infrastruktur_und_Informationsfreiheit.md](./04_Handbuch_Digitale_Infrastruktur_und_Informationsfreiheit.md) | Netzneutralität, Datenschutz, digitale Teilhabe |
+| 05 | [05_Handbuch_Ernährungsversorgung_und_Ernährungssicherheit.md](./05_Handbuch_Ernährungsversorgung_und_Ernährungssicherheit.md) | Lebensmittelsicherheit und Zugangssysteme |
+| 06 | [06_Handbuch_Inklusion_und_Teilhabesicherung.md](./06_Handbuch_Inklusion_und_Teilhabesicherung.md) | Barrierefreiheit, soziale Gerechtigkeit in der Infrastruktur |
+| 07 | [07_Handbuch_Mobilitaet_und_Verkehrsinfrastruktur.md](./07_Handbuch_Mobilitaet_und_Verkehrsinfrastruktur.md) | Öffentlicher Verkehr, Mobilitätswende, Auroraexpress |
+| 08 | [08_Handbuch_Wohnen_Raumordnung_und_Soziale_Infrastruktur.md](./08_Handbuch_Wohnen_Raumordnung_und_Soziale_Infrastruktur.md) | Wohnungsversorgung, Raumordnung, soziale Einrichtungen |
+| 09 | [09_Handbuch_Krisen- und_Notfallinfrastruktur.md](./09_Handbuch_Krisen- und_Notfallinfrastruktur.md) | Infrastrukturplanung für Katastrophenfälle |
+| 10 | [10_Handbuch_Oekologische_Baustandards_in_Infrastruktur.md](./10_Handbuch_Oekologische_Baustandards_in_Infrastruktur.md) | Nachhaltige Bauweise & Umweltschutz im Infrastrukturbereich |
 
 ---
 
-# ✈️ AURORAEXPRESS_LUFT
+# 🚄 Infrastruktur Auroraexpress – Das Rückgrat kollektiver Logistik
 
-Die Luftkomponente des Auroraexpress-Systems verbindet weiträumige Logistik mit Spezialisierung, Automatisierung und strategischer Notfallfähigkeit. Sie ist essenziell für resiliente Versorgung und schnelle Krisenreaktion.
+> **Auroraexpress ist das modulare Transportsystem der Räterepublik – intermodal, autonom und kollektiv verwaltet.**
 
----
+Dieser Bereich befasst sich mit dem **kompletten Aufbau und der Planung des Auroraexpress-Systems**, das als zukunftsorientierte Alternative zum traditionellen Güter- und Personenverkehr dient.
 
-## 🧭 EINLEITUNG
+Hier findest du:
 
-Auroraexpress_Luft ergänzt das terrestrische und maritime Netz um flexible, autonome Luftlogistik. Die Dokumente beschreiben Systemaufbau, Flughafennetz, Sicherheitskonzepte und digitale Steuerungsarchitekturen.
+- Grundlagen und Systemarchitektur für **Luft-, Wasser- und Bodenlogistik**
+- Strukturierte Netze, **Routenplanung** und **autonome Steuerungssysteme**
+- Verknüpfung mit Stadtplanung, digitaler Infrastruktur und Krisenresilienz
+- Konzepte zur **Integration in bestehende Versorgungssysteme**
+- Visuelle Logos, Identitäten, Roadmaps und technische Leitfäden
 
-Alle Dateien befinden sich im Repository unter:  
-🔗 [`/Auroraexpress/Auroraexpress_Luft`](https://github.com/hades-dux/Kollektive-Raeterepublik/tree/main/Infrastruktur_Auroraexpress/Infrastruktur_Auroraexpress/Auroraexpress/Auroraexpress_Luft)
+Diese Dokumente richten sich an **Planungsteams, Logistiker:innen, Tech-Entwickler:innen, Krisenmanager:innen** und alle, die an der Umsetzung einer solidarischen, intelligenten Infrastruktur mitwirken wollen.
 
----
+## 📚 Inhaltsverzeichnis Auroraexpress (https://github.com/hades-dux/Kollektive-Raeterepublik/tree/main/Infrastruktur_Auroraexpress/Infrastruktur_Auroraexpress/Auroraexpress) 
 
-## 📘 INHALTSVERZEICHNIS DER DOKUMENTE
-
-| Nr. | Datei | Inhalt |
-|-----|-------|--------|
-| 00 | [`00_Glossar_Auroraexpress_Luft.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Infrastruktur_Auroraexpress/Infrastruktur_Auroraexpress/Auroraexpress/Auroraexpress_Luft/00_Glossar_Auroraexpress_Luft.md) | Begriffe & Grundlagen der Luftlogistik |
-| 01 | [`01_Handbuch_Auroraexpress_Luft.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Infrastruktur_Auroraexpress/Infrastruktur_Auroraexpress/Auroraexpress/Auroraexpress_Luft/01_Handbuch_Auroraexpress_Luft.md) | Aufbau & Koordination der Luftsektion |
-| 02 | [`02_Systemstruktur.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Infrastruktur_Auroraexpress/Infrastruktur_Auroraexpress/Auroraexpress/Auroraexpress_Luft/02_Systemstruktur.md) | Architekturen, Subsysteme & Datenflüsse |
-| 03 | [`03_Logo_und_Identitaet.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Infrastruktur_Auroraexpress/Infrastruktur_Auroraexpress/Auroraexpress/Auroraexpress_Luft/03_Logo_und_Identitaet.md) | Symbolik & visuelles Erkennungsbild |
-| 04 | [`04_Frachtflieger.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Infrastruktur_Auroraexpress/Infrastruktur_Auroraexpress/Auroraexpress/Auroraexpress_Luft/04_Frachtflieger.md) | Typologie & Ausstattung von Luftfracht-Einheiten |
-| 05 | [`05_Spezialisierte_Flughäfen.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Infrastruktur_Auroraexpress/Infrastruktur_Auroraexpress/Auroraexpress/Auroraexpress_Luft/05_Spezialisierte_Flughäfen.md) | Knotenpunkte, Wartung & Spezialisierung |
-| 06 | [`06_Netzsysteme_und_Routenplanung.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Infrastruktur_Auroraexpress/Infrastruktur_Auroraexpress/Auroraexpress/Auroraexpress_Luft/06_Netzsysteme_und_Routenplanung.md) | Algorithmische Routenoptimierung & Netzlogik |
-| 07 | [`07_Ladungsmanagement_und_Autonomie.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Infrastruktur_Auroraexpress/Infrastruktur_Auroraexpress/Auroraexpress/Auroraexpress_Luft/07_Ladungsmanagement_und_Autonomie.md) | Automatisiertes Fracht- & Verteilungssystem |
-| 08 | [`08_Sicherheits- und_Krisensysteme.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Infrastruktur_Auroraexpress/Infrastruktur_Auroraexpress/Auroraexpress/Auroraexpress_Luft/08_Sicherheits-%20und_Krisensysteme.md) | Luftsicherheit & Notfalltauglichkeit |
-| 09 | [`09_Integration_Auroraexpress_Gueterverkehr.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Infrastruktur_Auroraexpress/Infrastruktur_Auroraexpress/Auroraexpress/Auroraexpress_Luft/09_Integration_Auroraexpress_Gueterverkehr.md) | Schnittstellen zur Bodenlogistik |
-| 10 | [`10_Datensicherheit_und_Schnittstellen.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Infrastruktur_Auroraexpress/Infrastruktur_Auroraexpress/Auroraexpress/Auroraexpress_Luft/10_Datensicherheit_und_Schnittstellen.md) | Sicherheitsarchitektur & APIs |
-| 11 | [`11_Kurzfassung_für_Bildung_und_Doku.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Infrastruktur_Auroraexpress/Infrastruktur_Auroraexpress/Auroraexpress/Auroraexpress_Luft/11_Kurzfassung_f%C3%BCr_Bildung_und_Doku.md) | Didaktisch aufbereitete Übersicht für Schulung & Bildung |
-| 12 | [`12_Roadmap_Auroraexpress_Luft.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Infrastruktur_Auroraexpress/Infrastruktur_Auroraexpress/Auroraexpress/Auroraexpress_Luft/12_Roadmap_Auroraexpress_Luft.md) | Entwicklungsetappen bis 2040 |
+### Hauptsektion
+1. [00_glossar.md](00_glossar.md)  
+2. [01_Handbuch_Gruppe_Auroraexpress.md](01_Handbuch_Gruppe_Auroraexpress.md)  
+3. [02_systemstruktur.md](02_systemstruktur.md)  
+4. [03_logo.md](03_logo.md)  
+5. [04_gueterverkehr.md](04_gueterverkehr.md)  
+6. [05_personenverkehr.md](05_personenverkehr.md)  
+7. [06_energie_und_integration.md](06_energie_und_integration.md)  
+8. [07_stadtplanung.md](07_stadtplanung.md)  
+9. [08_hubs_der_zukunft.md](08_hubs_der_zukunft.md)  
+10. [09_Technische_Verständnismappe.md](09_Technische_Verständnismappe.md)  
+11. [10_begriffsklaerung.md](10_begriffsklaerung.md)  
+12. [11_Betreiber_Leitfaden.md](11_Betreiber_Leitfaden.md)  
+13. [12_Roadmap_Auroraexpress.md](12_Roadmap_Auroraexpress.md)
 
 ---
-
-# 🚢 AURORAEXPRESS_WASSER
 
-Die Wasserlogistik des Auroraexpress-Systems verbindet Flüsse, Kanäle und Häfen zu einem widerstandsfähigen, ökologischen und strategisch gekoppelten Verkehrsnetz. Sie ermöglicht sichere Versorgung, modulare Umschlagsplätze und dezentrale Resilienz.
+### Teilsystem: Auroraexpress – Luft (https://github.com/hades-dux/Kollektive-Raeterepublik/tree/main/Infrastruktur_Auroraexpress/Infrastruktur_Auroraexpress/Auroraexpress/Auroraexpress_Luft) 
+1. [Auroraexpress_Luft/00_Glossar_Auroraexpress_Luft.md](Auroraexpress_Luft/00_Glossar_Auroraexpress_Luft.md)  
+2. [Auroraexpress_Luft/01_Handbuch_Auroraexpress_Luft.md](Auroraexpress_Luft/01_Handbuch_Auroraexpress_Luft.md)  
+3. [Auroraexpress_Luft/02_Systemstruktur.md](Auroraexpress_Luft/02_Systemstruktur.md)  
+4. [Auroraexpress_Luft/03_Logo_und_Identitaet.md](Auroraexpress_Luft/03_Logo_und_Identitaet.md)  
+5. [Auroraexpress_Luft/04_Frachtflieger.md](Auroraexpress_Luft/04_Frachtflieger.md)  
+6. [Auroraexpress_Luft/05_Spezialisierte_Flughäfen.md](Auroraexpress_Luft/05_Spezialisierte_Flughäfen.md)  
+7. [Auroraexpress_Luft/06_Netzsysteme_und_Routenplanung.md](Auroraexpress_Luft/06_Netzsysteme_und_Routenplanung.md)  
+8. [Auroraexpress_Luft/07_Ladungsmanagement_und_Autonomie.md](Auroraexpress_Luft/07_Ladungsmanagement_und_Autonomie.md)  
+9. [Auroraexpress_Luft/08_Sicherheits- und_Krisensysteme.md](Auroraexpress_Luft/08_Sicherheits- und_Krisensysteme.md)  
+10. [Auroraexpress_Luft/09_Integration_Auroraexpress_Gueterverkehr.md](Auroraexpress_Luft/09_Integration_Auroraexpress_Gueterverkehr.md)  
+11. [Auroraexpress_Luft/10_Datensicherheit_und_Schnittstellen.md](Auroraexpress_Luft/10_Datensicherheit_und_Schnittstellen.md)  
+12. [Auroraexpress_Luft/11_Kurzfassung_für_Bildung_und_Doku.md](Auroraexpress_Luft/11_Kurzfassung_für_Bildung_und_Doku.md)  
+13. [Auroraexpress_Luft/12_Roadmap_Auroraexpress_Luft.md](Auroraexpress_Luft/12_Roadmap_Auroraexpress_Luft.md)
 
 ---
-
-## 🧭 EINLEITUNG
-
-Auroraexpress_Wasser ist das maritime Rückgrat des intermodalen Versorgungssystems der Kollektiven Räterepublik. Es ergänzt Luft- und Bodenrouten durch emissionsarme Transportwege, smarte Häfen und schwimmende Logistikknotenpunkte.
 
-Alle Dateien befinden sich im Repository unter:  
-🔗 [`/Auroraexpress/Auroraexpress_Wasser`](https://github.com/hades-dux/Kollektive-Raeterepublik/tree/main/Infrastruktur_Auroraexpress/Infrastruktur_Auroraexpress/Auroraexpress/Auroraexpress_Wasser)
+### Teilsystem: Auroraexpress – Wasser (https://github.com/hades-dux/Kollektive-Raeterepublik/tree/main/Infrastruktur_Auroraexpress/Infrastruktur_Auroraexpress/Auroraexpress/Auroraexpress_Wasser) 
+1. [Auroraexpress_Wasser/00_Glossar_Auroraexpress_Wasser.md](Auroraexpress_Wasser/00_Glossar_Auroraexpress_Wasser.md)  
+2. [Auroraexpress_Wasser/01_Grundlagen_und_Zuständigkeiten.md](Auroraexpress_Wasser/01_Grundlagen_und_Zuständigkeiten.md)  
+3. [Auroraexpress_Wasser/02_Hafenstruktur_und_Zonierung.md](Auroraexpress_Wasser/02_Hafenstruktur_und_Zonierung.md)  
+4. [Auroraexpress_Wasser/03_Fahrzeuge_und_Antriebe.md](Auroraexpress_Wasser/03_Fahrzeuge_und_Antriebe.md)  
+5. [Auroraexpress_Wasser/04_Netzsysteme_und_Routen.md](Auroraexpress_Wasser/04_Netzsysteme_und_Routen.md)  
+6. [Auroraexpress_Wasser/05_Floating_Transfer_Hubs.md](Auroraexpress_Wasser/05_Floating_Transfer_Hubs.md)  
+7. [Auroraexpress_Wasser/06_Kopplung_mit_Luft_und_Boden.md](Auroraexpress_Wasser/06_Kopplung_mit_Luft_und_Boden.md)  
+8. [Auroraexpress_Wasser/07_Sicherheits-_und_Krisensysteme.md](Auroraexpress_Wasser/07_Sicherheits-_und_Krisensysteme.md)  
+9. [Auroraexpress_Wasser/08_Kurzfassung_Bildung.md](Auroraexpress_Wasser/08_Kurzfassung_Bildung.md)  
+10. [Auroraexpress_Wasser/09_Logo_und_Designrichtlinien_Auroraexpress_Wasser.md](Auroraexpress_Wasser/09_Logo_und_Designrichtlinien_Auroraexpress_Wasser.md)
 
 ---
 
-## 📘 INHALTSVERZEICHNIS DER DOKUMENTE
-
-| Nr. | Datei | Inhalt |
-|-----|-------|--------|
-| 00 | [`00_Glossar_Auroraexpress_Wasser.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Infrastruktur_Auroraexpress/Infrastruktur_Auroraexpress/Auroraexpress/Auroraexpress_Wasser/00_Glossar_Auroraexpress_Wasser.md) | Zentrale Begriffe der Wasserlogistik |
-| 01 | [`01_Grundlagen_und_Zuständigkeiten.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Infrastruktur_Auroraexpress/Infrastruktur_Auroraexpress/Auroraexpress/Auroraexpress_Wasser/01_Grundlagen_und_Zust%C3%A4ndigkeiten.md) | Steuerung, Zuständigkeiten und Grundprinzipien |
-| 02 | [`02_Hafenstruktur_und_Zonierung.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Infrastruktur_Auroraexpress/Infrastruktur_Auroraexpress/Auroraexpress/Auroraexpress_Wasser/02_Hafenstruktur_und_Zonierung.md) | Aufbau und Klassifikation der Häfen |
-| 03 | [`03_Fahrzeuge_und_Antriebe.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Infrastruktur_Auroraexpress/Infrastruktur_Auroraexpress/Auroraexpress/Auroraexpress_Wasser/03_Fahrzeuge_und_Antriebe.md) | Schiffstypen, Antriebstechnologien & Nachhaltigkeit |
-| 04 | [`04_Netzsysteme_und_Routen.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Infrastruktur_Auroraexpress/Infrastruktur_Auroraexpress/Auroraexpress/Auroraexpress_Wasser/04_Netzsysteme_und_Routen.md) | Verknüpfung von Wasserstraßen und Binnenverbindungen |
-| 05 | [`05_Floating_Transfer_Hubs.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Infrastruktur_Auroraexpress/Infrastruktur_Auroraexpress/Auroraexpress/Auroraexpress_Wasser/05_Floating_Transfer_Hubs.md) | Mobile Verlade- und Umschlagsplattformen |
-| 06 | [`06_Kopplung_mit_Luft_und_Boden.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Infrastruktur_Auroraexpress/Infrastruktur_Auroraexpress/Auroraexpress/Auroraexpress_Wasser/06_Kopplung_mit_Luft_und_Boden.md) | Intermodale Integration mit Auroraexpress_Luft und Landstrecken |
-| 07 | [`07_Sicherheits-_und_Krisensysteme.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Infrastruktur_Auroraexpress/Infrastruktur_Auroraexpress/Auroraexpress/Auroraexpress_Wasser/07_Sicherheits-%5Fund_Krisensysteme.md) | Sicherheitsstandards und Notfallpläne auf Wasserwegen |
-| 08 | [`08_Kurzfassung_Bildung.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Infrastruktur_Auroraexpress/Infrastruktur_Auroraexpress/Auroraexpress/Auroraexpress_Wasser/08_Kurzfassung_Bildung.md) | Didaktische Kurzversion für Schulung & Einführung |
-| 09 | [`09_Logo_und_Designrichtlinien_Auroraexpress_Wasser.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Infrastruktur_Auroraexpress/Infrastruktur_Auroraexpress/Auroraexpress/Auroraexpress_Wasser/09_Logo_und_Designrichtlinien_Auroraexpress_Wasser.md) | Gestaltung & Wiedererkennung der Wasserlinie |
+# 🌍 Integration & Migration – Teilhabe, Schutz und Vielfalt
 
----
+> **Eine solidarische Gesellschaft erkennt Migration als Realität – und Integration als gemeinsame Aufgabe.**
 
-# 🌍 INTEGRATION & MIGRATION
+Der Ordner `Integration & Migration` umfasst Regelwerke, Konzepte und Handbücher, die sich mit der **Aufnahme, Eingliederung und Teilhabe von Zugewanderten** befassen. Die enthaltenen Dokumente definieren sowohl **rechtliche Grundlagen** als auch **praktische Mechanismen** zur Integration und zum Schutz von Menschen mit Migrationshintergrund.
 
-Diese Sektion definiert die strukturellen, sprachlichen, sozialen und kulturellen Grundlagen für ein inklusives Einwanderungssystem in der Kollektiven Räterepublik.
+Du findest hier:
 
----
+- Aufbau von **Aufnahmezentren** und erste Anlaufstellen
+- Regelungen zur **Sprachbildung**, Bildungseinbindung und Qualifikation
+- Rechte, Schutzmechanismen und Formen der **Beteiligung**
+- Förderung von **kulturellem Austausch** und gesellschaftlicher Teilhabe
+- Grundlagen des **kollektiven Asylrechts** und damit verbundener Schutzformen
 
-## 🧭 EINLEITUNG
+Diese Inhalte richten sich an **Integrationsbeauftragte, Bildungseinrichtungen, Behörden**, aber auch an **Migrant:innen, Schutzsuchende und Unterstützende**.
 
-Integration & Migration sind mehr als verwaltungstechnische Vorgänge – sie sind Ausdruck aktiver gesellschaftlicher Öffnung. Diese Dokumente regeln Aufnahmeprozesse, Schutzrechte, Bildungschancen, Teilhabe sowie kulturellen Austausch und Vielfalt.
+## 📚 Inhaltsverzeichnis Integration & Migration (https://github.com/hades-dux/Kollektive-Raeterepublik/tree/main/Integration%20%26%20Migration) 
 
-Alle Dateien befinden sich im Repository unter:  
-🔗 [`/Integration & Migration`](https://github.com/hades-dux/Kollektive-Raeterepublik/tree/main/Integration%20%26%20Migration)
+1. [00_Glossar_Integration_und_Migration.md](00_Glossar_Integration_und_Migration.md)  
+2. [01_Handbuch_Gruppe_Integration_und_Migration.md](01_Handbuch_Gruppe_Integration_und_Migration.md)  
+3. [02_Handbuch_Aufnahmezentren_und_Ersteingliederung.md](02_Handbuch_Aufnahmezentren_und_Ersteingliederung.md)  
+4. [03_Handbuch_Sprachbildung_und_Bildungszugang.md](03_Handbuch_Sprachbildung_und_Bildungszugang.md)  
+5. [04_Handbuch_Rechte_Schutz_und_Beteiligung.md](04_Handbuch_Rechte_Schutz_und_Beteiligung.md)  
+6. [05_Handbuch_Kultureller_Austausch_und_Vielfalt.md](05_Handbuch_Kultureller_Austausch_und_Vielfalt.md)  
+7. [06_Asylrecht_und_Schutzformen.md](06_Asylrecht_und_Schutzformen.md)
 
 ---
 
-## 📘 INHALTSVERZEICHNIS DER DOKUMENTE
-
-| Nr. | Datei | Inhalt |
-|-----|-------|--------|
-| 00 | [Glossar](./00_Glossar.md) | ✅ |
-| 01 | [Gruppe Integration & Migration](./01_Handbuch_Gruppe_Integration_und_Migration.md) | ✅ |
-| 02 | [Aufnahmezentren & Ersteingliederung](./02_Handbuch_Aufnahmezentren_und_Ersteingliederung.md) | ✅ |
-| 03 | [Sprachbildung & Bildungszugang](./03_Handbuch_Sprachbildung_und_Bildungszugang.md) | ✅ |
-| 04 | [Rechte, Schutz & Beteiligung](./04_Handbuch_Rechte_Schutz_und_Beteiligung.md) | ✅ |
-| 05 | [Rückführung & internationale Kooperation](./05_Handbuch_Rueckfuehrung_und_internationale_Kooperation.md) | ✅ |
-| 06 | [Asylrecht & Schutzformen](./06_Asylrecht_und_Schutzformen.md) | ✅ |
+# ⚖️ Justiz & Sicherheit – Rechtsstaatlichkeit, Integrität und kollektive Sicherheit
 
----
+> **Gerechtigkeit und Sicherheit sind die Grundpfeiler jeder freien Gesellschaft – in der Räterepublik sichern wir sie durch kollektive Kontrolle und klare Strukturen.**
 
-# ⚖️ JUSTIZ & SICHERHEIT
+Der Ordner `Justiz_und_Sicherheit` dokumentiert die Organisation der **gerichtlichen Gewalt**, die Einrichtung von **ethischen Instanzen** sowie die Struktur der **öffentlichen Sicherheit und Verteidigung**. Alle Mechanismen beruhen auf **Transparenz**, **Kontrolle durch das Kollektiv** und einem **zivilen Sicherheitsverständnis**.
 
-Diese Sektion dokumentiert die rechtlichen, ethischen und sicherheitsbezogenen Grundstrukturen der Kollektiven Räterepublik – von Gerichtswesen bis Verteidigungsarchitektur.
+Du findest hier:
 
----
+- Das **Justizsystem** mit Tribunalgericht, Bezirksgerichten und Schlichtungsstellen
+- Die Rolle von **Ethik- und Ombudsstellen** zur Wahrung der Integrität
+- Aufbau und Aufgaben von **Sicherheitsdiensten** und **Kriseneinheiten**
+- Die zivile und dezentrale **Krisenverteidigung**, inkl. maritimer und digitaler Sicherheit
+- **Verknüpfung von Rechtsprechung und kollektiven Werten**
 
-## 🧭 EINLEITUNG
+Dieser Bereich richtet sich an **juristische Fachkräfte, Ratsmitglieder, Sicherheitsbeauftragte** und alle, die sich mit **Rechtsstaatlichkeit, Verteidigung und Ethik** im System auseinandersetzen.
 
-Rechtssicherheit, Gewaltenteilung, Deeskalation und verteidigungsfähige Selbstorganisation sind zentrale Prinzipien des Justiz- und Sicherheitsbereichs. Die Dokumente dieser Sektion regeln Gerichtsstrukturen, Sicherheitsdienste, Ethik, Krisenmanagement und digitale Verteidigung.
+## 📚 Inhaltsverzeichnis (https://github.com/hades-dux/Kollektive-Raeterepublik/tree/main/Justiz_und_Sicherheit) 
 
-Alle Dateien befinden sich im Repository unter:  
-🔗 [`/Justiz_und_Sicherheit`](https://github.com/hades-dux/Kollektive-Raeterepublik/tree/main/Justiz_und_Sicherheit)
+1. [00_Glossar_Justiz_und_Sicherheit.md](00_Glossar_Justiz_und_Sicherheit.md)  
+2. [01_Handbuch_Justizsystem.md](01_Handbuch_Justizsystem.md)  
+3. [02_Handbuch_Tribunalgericht.md](02_Handbuch_Tribunalgericht.md)  
+4. [03_Handbuch_Bezirksgerichte.md](03_Handbuch_Bezirksgerichte.md)  
+5. [04_Handbuch_Schlichtungsstellen](04_Handbuch_Schlichtungsstellen)  
+6. [05_Handbuch_Ethik_Ombudsstellen_und_Integrität.md](05_Handbuch_Ethik_Ombudsstellen_und_Integrität.md)  
+7. [06_Handbuch_Gruppe_Sicherheit.md](06_Handbuch_Gruppe_Sicherheit.md)  
+8. [07_Handbuch_Sicherheitsdienste.md](07_Handbuch_Sicherheitsdienste.md)  
+9. [08_Handbuch_Krisenmanagement_und_Verteidigung.md](08_Handbuch_Krisenmanagement_und_Verteidigung.md)  
+10. [09_Handbuch_Militärische_Grundstrukturen_und_Krisenverteidigung.md](09_Handbuch_Militärische_Grundstrukturen_und_Krisenverteidigung.md)  
+11. [10_Handbuch_Maritime_Sicherheitseinheit.md](10_Handbuch_Maritime_Sicherheitseinheit.md)  
+12. [11_Handbuch_Luftsicherheit_und_Hochgeschwindigkeitstransporte.md](11_Handbuch_Luftsicherheit_und_Hochgeschwindigkeitstransporte.md)  
+13. [12_Handbuch_Cybersicherheit.md](12_Handbuch_Cybersicherheit.md)
 
 ---
 
-## 📘 INHALTSVERZEICHNIS DER DOKUMENTE
-
-| Nr. | Datei | Inhalt |
-|-----|-------|--------|
-| 00 | [`00_Glossar_Justiz_und_Sicherheit.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Justiz_und_Sicherheit/00_Glossar_Justiz_und_Sicherheit.md) | Begriffe aus Justiz, Recht & Sicherheit |
-| 01 | [`01_Handbuch_Justizsystem.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Justiz_und_Sicherheit/01_Handbuch_Justizsystem.md) | Aufbau, Prinzipien & Zuständigkeiten des Rechtssystems |
-| 02 | [`02_Handbuch_Tribunalgericht.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Justiz_und_Sicherheit/02_Handbuch_Tribunalgericht.md) | Höchstes Gericht – Aufgaben, Wahl & Kontrolle |
-| 03 | [`03_Handbuch_Bezirksgerichte.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Justiz_und_Sicherheit/03_Handbuch_Bezirksgerichte.md) | Lokale Rechtsprechung & Verfahrensordnung |
-| 04 | [`04_Handbuch_Schlichtungsstellen`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Justiz_und_Sicherheit/04_Handbuch_Schlichtungsstellen) | Mediation & außergerichtliche Einigung |
-| 05 | [`05_Handbuch_Ethik_Ombudsstellen_und_Integrität.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Justiz_und_Sicherheit/05_Handbuch_Ethik_Ombudsstellen_und_Integrit%C3%A4t.md) | Aufsicht, Transparenz & Whistleblower-Schutz |
-| 06 | [`06_Handbuch_Gruppe_Sicherheit.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Justiz_und_Sicherheit/06_Handbuch_Gruppe_Sicherheit.md) | Aufbau & Aufgaben der Sicherheitsgruppe |
-| 07 | [`07_Handbuch_Sicherheitsdienste.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Justiz_und_Sicherheit/07_Handbuch_Sicherheitsdienste.md) | Deeskalation, Objektschutz & Bürgerkontakt |
-| 08 | [`08_Handbuch_Krisenmanagement_und_Verteidigung.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Justiz_und_Sicherheit/08_Handbuch_Krisenmanagement_und_Verteidigung.md) | Koordination & Schutz im Krisenfall |
-| 09 | [`09_Handbuch_Militärische_Grundstrukturen_und_Krisenverteidigung.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Justiz_und_Sicherheit/09_Handbuch_Milit%C3%A4rische_Grundstrukturen_und_Krisenverteidigung.md) | Grundkonzepte dezentraler Verteidigung ohne stehendes Militär |
-| 10 | [`10_Handbuch_Maritime_Sicherheitseinheit.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Justiz_und_Sicherheit/10_Handbuch_Maritime_Sicherheitseinheit.md) | Aufgaben, Struktur & Einsatzbereiche |
-| 11 | [`11_Handbuch_Luftsicherheit_und_Hochgeschwindigkeitstransporte.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Justiz_und_Sicherheit/11_Handbuch_Luftsicherheit_und_Hochgeschwindigkeitstransporte.md) | Sicherung strategischer Verbindungen & Luftkorridore |
-| 12 | [`12_Handbuch_Cybersicherheit.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Justiz_und_Sicherheit/12_Handbuch_Cybersicherheit.md) | Schutz digitaler Systeme, Protokolle & Infrastruktur |
+# 🎭 Kultur – Ausdruck, Erinnerung und kollektives Selbstverständnis
 
----
+> **Kultur ist kein Beiwerk – sie ist der Raum, in dem wir unsere Geschichte verhandeln, Zukunft gestalten und Identität lebendig halten.**
 
-# 🎭 KULTUR
+Der Ordner `Kultur` fasst alle Dokumente zusammen, die sich mit der **kulturellen Infrastruktur**, der **Förderung von Kunst und Erinnerung**, sowie der **Gleichberechtigung kultureller Ausdrucksformen** befassen.
 
-Diese Sektion umfasst die Grundlagen, Förderstrategien und institutionellen Strukturen der Kulturpolitik in der Kollektiven Räterepublik – mit besonderem Fokus auf kollektive Erinnerung, Gerechtigkeit, Freiräume und interkulturellen Austausch.
+Du findest hier:
 
----
+- Grundlegende Aufgaben der **Gruppe Kultur**
+- Strukturen der **Kunst- und Kulturförderung**
+- Die Rolle von **Kunstmärkten, freien Räumen und kollektiven Erinnerungsorten**
+- Förderung von **experimenteller Kunst**, **sozialer Gerechtigkeit** im Kulturbereich
+- Schutz von **kulturellen Räumen** und Förderung des **interkulturellen Austauschs**
 
-## 🧭 EINLEITUNG
+Dieser Bereich richtet sich an **Kulturschaffende, politische Entscheider:innen, Förderstellen** und alle, die Kultur als **Gestaltungs- und Vermittlungsfeld** innerhalb der Räterepublik verstehen.
 
-Kultur ist in der Kollektiven Räterepublik ein demokratischer, öffentlicher Prozess. Die folgenden Handbücher dokumentieren die Mechanismen kollektiver Erinnerung, Kunstförderung, Gerechtigkeitsansprüche, Freiräume und globale Kulturbeziehungen.
+## 📚 Inhaltsverzeichnis (https://github.com/hades-dux/Kollektive-Raeterepublik/tree/main/Kultur) 
 
-Alle Dateien befinden sich im Repository unter:  
-🔗 [`/Kultur`](https://github.com/hades-dux/Kollektive-Raeterepublik/tree/main/Kultur)
+1. [00_Glossar.md](00_Glossar.md)  
+2. [01_Handbuch_Gruppe_Kultur.md](01_Handbuch_Gruppe_Kultur.md)  
+3. [02_Handbuch_Kunst_Kultur_und_kollektive_Erinnerung.md](02_Handbuch_Kunst_Kultur_und_kollektive_Erinnerung.md)  
+4. [03_Handbuch_Kunstfoerderung.md](03_Handbuch_Kunstfoerderung.md)  
+5. [04_Handbuch_Kunstmarkt_freier_raum.md](04_Handbuch_Kunstmarkt_freier_raum.md)  
+6. [05_Handbuch_Kulturpolitik.md](05_Handbuch_Kulturpolitik.md)  
+7. [06_Handbuch_Foerderung_von_Experimenteller_Kunst.md](06_Handbuch_Foerderung_von_Experimenteller_Kunst.md)  
+8. [07_Handbuch_Kultur_und_Soziale_Gerechtigkeit.md](07_Handbuch_Kultur_und_Soziale_Gerechtigkeit.md)  
+9. [08_Handbuch_Foerderung_und_Schutz_von_Kulturellen_Raeumen.md](08_Handbuch_Foerderung_und_Schutz_von_Kulturellen_Raeumen.md)  
+10. [09_Handbuch_Interkultureller_Austausch.md](09_Handbuch_Interkultureller_Austausch.md)  
+11. [10_Handbuch_Internationaler_Kultur_Dialog.md](10_Handbuch_Internationaler_Kultur_Dialog.md)
 
 ---
 
-## 📘 INHALTSVERZEICHNIS DER DOKUMENTE
-
-| Nr. | Datei | Inhalt |
-|-----|-------|--------|
-| 00 | [`00_Glossar.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Kultur/00_Glossar.md) | Begriffe aus Kultur, Förderung & Erinnerung |
-| 01 | [`01_Handbuch_Gruppe_Kultur.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Kultur/01_Handbuch_Gruppe_Kultur.md) | Aufbau & Aufgaben der Gruppe Kultur |
-| 02 | [`02_Handbuch_Kunst_Kultur_und_kollektive_Erinnerung.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Kultur/02_Handbuch_Kunst_Kultur_und_kollektive_Erinnerung.md) | Kulturelles Gedächtnis & Umgang mit Geschichte |
-| 03 | [`03_Handbuch_Kunstfoerderung.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Kultur/03_Handbuch_Kunstfoerderung.md) | Förderstrukturen & Zugangsprinzipien |
-| 04 | [`04_Handbuch_Kunstmarkt_freier_raum.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Kultur/04_Handbuch_Kunstmarkt_freier_raum.md) | Umgang mit künstlerischer Arbeit, Markt & Öffentlichkeit |
-| 05 | [`05_Handbuch_Kulturpolitik.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Kultur/05_Handbuch_Kulturpolitik.md) | Leitlinien, Gremien & Verantwortungsstruktur |
-| 06 | [`06_Handbuch_Foerderung_von_Experimenteller_Kunst.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Kultur/06_Handbuch_Foerderung_von_Experimenteller_Kunst.md) | Absicherung & Räume für radikal neue Ausdrucksformen |
-| 07 | [`07_Handbuch_Kultur_und_Soziale_Gerechtigkeit.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Kultur/07_Handbuch_Kultur_und_Soziale_Gerechtigkeit.md) | Kulturelle Teilhabe und Verteilungsgerechtigkeit |
-| 08 | [`08_Handbuch_Foerderung_und_Schutz_von_Kulturellen_Raeumen.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Kultur/08_Handbuch_Foerderung_und_Schutz_von_Kulturellen_Raeumen.md) | Schutz und Entwicklung nichtkommerzieller Kulturräume |
-| 09 | [`09_Handbuch_Interkultureller_Austausch.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Kultur/09_Handbuch_Interkultureller_Austausch.md) | Austauschformate zwischen kulturellen Gruppen |
-| 10 | [`10_Handbuch_Internationaler_Kultur_Dialog.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Kultur/10_Handbuch_Internationaler_Kultur_Dialog.md) | Globale Kulturkooperation & diplomatischer Dialog |
-
----
+# 🎨 Kunst – Freiraum, Verantwortung und kollektive Inspiration
 
-# 🎨 KUNST
+> **Kunst ist Ausdruck von Freiheit, Kritik und kollektiver Vorstellungskraft. Sie begleitet die Gesellschaft – nicht als Dekoration, sondern als Spiegel, Impulsgeberin und Utopiearbeiterin.**
 
-Diese Sektion umfasst die Struktur, Förderung und kritische Reflexion künstlerischer Praxis in der Kollektiven Räterepublik – mit Fokus auf gesellschaftlicher Verantwortung, kultureller Infrastruktur, Erinnerung und internationalem Austausch.
+Der Ordner `Kunst` bündelt alle Themen rund um die **freie Kunst**, ihre **gesellschaftliche Funktion**, ihre **Orte**, ihre **Grenzen und Chancen**.
 
----
+Hier findest du:
 
-## 🧭 EINLEITUNG
+- Die Aufgaben der **Gruppe Kunst**
+- Strukturen der **freien und gesellschaftlich engagierten Kunst**
+- Die Rolle von **Kunstorten, Infrastrukturen** und **alternativen Räumen**
+- Internationale Perspektiven, **Kulturpartnerschaften** und **Subkulturen**
 
-Kunst wird als freier, pluraler und gleichzeitig verantwortlicher Ausdruck gesellschaftlicher Prozesse verstanden. Die Handbücher dieser Sektion regeln Gruppenstruktur, Räume, Subkulturen, freie Kunst und ihre Verflechtung mit kollektiver Erinnerung.
+Diese Inhalte richten sich an **Künstler:innen, Kulturarbeiter:innen, Förderinstitutionen** und alle, die die Bedeutung der Kunst im gesellschaftlichen Kontext stärken wollen.
 
-Alle Dateien befinden sich im Repository unter:  
-🔗 [`/Kunst`](https://github.com/hades-dux/Kollektive-Raeterepublik/tree/main/Kunst)
+## 📚 Inhaltsverzeichnis Kunst (https://github.com/hades-dux/Kollektive-Raeterepublik/tree/main/Kunst) 
 
----
+1. [00_Glossar_Kunst.md](00_Glossar_Kunst.md)  
+2. [01_Handbuch_Gruppe_Kunst.md](01_Handbuch_Gruppe_Kunst.md)  
+3. [02_Handbuch_Kunst_Kultur_und_kollektive_Erinnerung.md](02_Handbuch_Kunst_Kultur_und_kollektive_Erinnerung.md)  
+4. [03_Handbuch_Freie_Kunst_und_gesellschaftliche_Verantwortung.md](03_Handbuch_Freie_Kunst_und_gesellschaftliche_Verantwortung.md)  
+5. [04_Handbuch_Kunstorte_und_Kulturinfrastruktur.md](04_Handbuch_Kunstorte_und_Kulturinfrastruktur.md)  
+6. [05_Handbuch_Internationale_Kulturpartnerschaften.md](05_Handbuch_Internationale_Kulturpartnerschaften.md)  
+7. [06_Handbuch_Subkulturen_und_alternative_Kunstszenen.md](06_Handbuch_Subkulturen_und_alternative_Kunstszenen.md)
 
-## 📘 INHALTSVERZEICHNIS DER DOKUMENTE
-
-| Nr. | Datei | Inhalt |
-|-----|-------|--------|
-| 00 | [`00_Glossar_Kunst.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Kunst/00_Glossar_Kunst.md) | Begriffserklärungen für Kunst und Kulturpolitik |
-| 01 | [`01_Handbuch_Gruppe_Kunst.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Kunst/01_Handbuch_Gruppe_Kunst.md) | Aufbau & Aufgaben der Gruppe Kunst |
-| 02 | [`02_Handbuch_Kunst_Kultur_und_kollektive_Erinnerung.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Kunst/02_Handbuch_Kunst_Kultur_und_kollektive_Erinnerung.md) | Überschneidung von Kunst, Erinnerung & Geschichtsbildern |
-| 03 | [`03_Handbuch_Freie_Kunst_und_gesellschaftliche_Verantwortung.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Kunst/03_Handbuch_Freie_Kunst_und_gesellschaftliche_Verantwortung.md) | Autonomie, Wirkung und Verantwortung künstlerischer Praxis |
-| 04 | [`04_Handbuch_Kunstorte_und_Kulturinfrastruktur.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Kunst/04_Handbuch_Kunstorte_und_Kulturinfrastruktur.md) | Orte, Räume und strukturelle Rahmenbedingungen |
-| 05 | [`05_Handbuch_Internationale_Kulturpartnerschaften.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Kunst/05_Handbuch_Internationale_Kulturpartnerschaften.md) | Globale Netzwerke, Austauschformate & Kooperation |
-| 06 | [`06_Handbuch_Subkulturen_und_alternative_Kunstszenen.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Kunst/06_Handbuch_Subkulturen_und_alternative_Kunstszenen.md) | Förderung und Schutz subkultureller & alternativer Szenen |
 
 ---
 
-# 📜 MANIFEST & GRUNDLAGEN
+# 📖 Manifest & Grundlagen – Fundament der Kollektiven Räterepublik
 
-Diese Sektion enthält die ideellen, konzeptionellen und systemischen Grundlagen der Kollektiven Räterepublik – darunter das Manifest, konstitutionelle Kernelemente und Prinzipien der Organisation.
-
----
+> **Was ist das System? Wo kommt es her? Was will es?**  
+> Dieser Ordner ist der Ursprung, die Grundlage und der gedankliche Ausgangspunkt der Kollektiven Räterepublik.
 
-## 🧭 EINLEITUNG
+Hier findest du zentrale Texte, die das gesamte System prägen:
 
-Hier sind alle zentralen Gründungsdokumente versammelt, auf denen die Kollektive Räterepublik systemisch und normativ basiert. Sie definieren Leitideen, Prinzipien der kollektiven Selbstorganisation und die langfristigen Zielsetzungen des Projekts.
+- Die **Verfassung** – juristische und politische Basis
+- Das **Manifest** – in drei Teilen als philosophisch-politisches Leitdokument
+- Das **Glossar** – als Einstiegshilfe in zentrale Begriffe
 
-Alle Dateien befinden sich im Repository unter:  
-🔗 [`/Manifest_und_Grundlagen`](https://github.com/hades-dux/Kollektive-Raeterepublik/tree/main/Manifest_und_Grundlagen)
+Dieser Ordner eignet sich besonders für:
 
----
+- Neueinsteiger:innen, die den Kern des Systems verstehen wollen
+- Alle, die nach der **Vision, Herkunft und Begründung** der Räterepublik suchen
+- Fortgeschrittene, die Begriffe oder Fundamente nachschlagen möchten
 
-## 📘 INHALTSVERZEICHNIS DER DOKUMENTE
+Er ist Ausgangspunkt für **alle weiteren Handbücher und politischen Strukturen**.
 
-| Nr. | Datei | Inhalt |
-|-----|-------|--------|
+## 📚 Inhaltsverzeichnis Manifest & Grundlagen (https://github.com/hades-dux/Kollektive-Raeterepublik/tree/main/Manifest_und_Grundlagen) 
 
+1. [00_glossar.md](00_glossar.md)  
+2. [01_Verfassung.md](01_Verfassung.md)  
+3. [02_Manifest_Teil_I_Die_Diagnose.md](02_Manifest_Teil_I_Die_Diagnose.md)  
+4. [03_Manifest_Teil_II_Die_Antwort.md](03_Manifest_Teil_II_Die_Antwort.md)  
+5. [04_Manifest_Teil_III_Der_Aufruf.md](04_Manifest_Teil_III_Der_Aufruf.md)  
+6. [README.md](README.md)
 
 ---
-
-# 🧩 META & SYSTEMSTRUKTUR
 
-Diese Sektion enthält das übergeordnete Fundament zur Steuerung, Darstellung und methodischen Entwicklung der gesamten Kollektiven Räterepublik – einschließlich Systemübersicht, Querverweise, Theoriegrundlagen und Visualisierungen.
-
----
+# 🧠 Meta & Systemstruktur – Einstiegspunkt, Überblick & Verständnislogik
 
-## 🧭 EINLEITUNG
+> **Wenn du neu bist und das System verstehen willst, beginne hier.**  
+> Dieser Ordner ist die wichtigste Sammlung für Orientierung, Einstieg und Systemverständnis.
 
-Hier wird geregelt, wie alle Dokumente miteinander verbunden sind, wie sich das System weiterentwickelt, wie die Beteiligung gesichert ist und wie alle Inhalte für alle zugänglich bleiben. Diese Ebene ist die zentrale Schaltstelle eurer digitalen Räterepublik-Architektur.
+Hier findest du:
 
-Alle Dateien befinden sich im Repository unter:  
-🔗 [`/Meta_und_Systemstruktur`](https://github.com/hades-dux/Kollektive-Raeterepublik/tree/main/Meta_und_Systemstruktur)
+- Eine **Bibliothek**, die dir alle Ordner, Themen und Inhalte erklärt
+- Eine **Systemlogik**, die dir zeigt, wie alles miteinander zusammenhängt
+- Ein **Glossar**, das Begriffe klärt
+- Grundlagen zur **Zugänglichkeit**, **Beteiligung**, **Systempflege** und **Visueller Darstellung**
+- Vergleiche mit anderen Systemen (z. B. parlamentarische Demokratie)
+- Das **KI-Ethik-Gesetz**, das Regeln zum Umgang mit künstlicher Intelligenz enthält
 
----
+Dieser Ordner eignet sich besonders für:
 
-## 📘 INHALTSVERZEICHNIS DER DOKUMENTE
-
-| Nr. | Datei | Inhalt |
-|-----|-------|--------|
-| 00a | [`00_Bibliothek_der_Kollektiven_Raeterepublik.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Meta_und_Systemstruktur/00_Bibliothek_der_Kollektiven_Raeterepublik.md.md) | Zentrale Einstiegsseite & Navigationsbibliothek |
-| 00b | [`00_Glossar.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Meta_und_Systemstruktur/00_Glossar.md) | Systemübergreifende Begriffsdefinitionen |
-| 01 | [`01_Querverzeichnisse_und_Links.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Meta_und_Systemstruktur/01_Querverzeichnisse_und_Links.md) | Interne & externe Verweise, thematische Zuordnung |
-| 02 | [`02_Grundstruktur_der_Kollektiven_Raeterepublik.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Meta_und_Systemstruktur/02_Grundstruktur_der_Kollektiven_Raeterepublik.md) | Überblick über Aufbau & Zuständigkeiten |
-| 03 | [`03_Zyklus_der_politischen_Mitbestimmung.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Meta_und_Systemstruktur/03_Zyklus_der_politischen_Mitbestimmung.md) | Prozesse kollektiver Entscheidungsfindung |
-| 04 | [`04_Politische_Entscheidungen_und_Rückkopplung.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Meta_und_Systemstruktur/04_Politische_Entscheidungen_und_Rückkopplung.md) | Rückbindung & Dokumentation von Entscheidungen |
-| 05 | [`05_Anwendungslogik_der_Handbuecher.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Meta_und_Systemstruktur/05_Anwendungslogik_der_Handbuecher.md) | Aufbau, Zitierweise & Standardisierung aller Regelwerke |
-| 06 | [`06_Historische_und_Theoretische_Grundlagen.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Meta_und_Systemstruktur/06_Historische_und_Theoretische_Grundlagen.md) | Wurzeln, Bezugssysteme & ideologische Klarheit |
-| 07 | [`07_Systemvergleich_Raetedemokratie_vs_Parlament.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Meta_und_Systemstruktur/07_Systemvergleich_Raetedemokratie_vs_Parlament.md) | Kontrastanalyse parlamentarischer & rätedemokratischer Systeme |
-| 08 | [`08_Systempflege_und_Revisionsprotokoll.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Meta_und_Systemstruktur/08_Systempflege_und_Revisionsprotokoll.md) | Versionskontrolle, Meta-Redaktion & Pflegezyklen |
-| 09 | [`09_Visualisierung_der_Systemlogik.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Meta_und_Systemstruktur/09_Visualisierung_der_Systemlogik.md) | Diagramme, Modelle & Strukturgrafiken |
-| 11 | [`11_Buergerbeteiligung_und_Partizipationskultur.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Meta_und_Systemstruktur/11_Buergerbeteiligung_und_Partizipationskultur.md) | Grundlagen demokratischer Beteiligung im Alltag |
-| 12 | [`12_Zugänglichkeit_Barrierefreiheit_und_Sprachen.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Meta_und_Systemstruktur/12_Zugänglichkeit_Barrierefreiheit_und_Sprachen.md) | Prinzipien inklusiver Kommunikation & Mehrsprachigkeit |
-| 13 | [`13_Ausblick_und_Entwicklungsperspektiven.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Meta_und_Systemstruktur/13_Ausblick_und_Entwicklungsperspektiven.md) | Zukünftige Erweiterungen, Forschung & Pilotstrukturen |
-| 14 | [`14_Flagge_und_Symbole.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Meta_und_Systemstruktur/14_Flagge_und_Symbole.md) | Visuelle Identität der Räterepublik |
+- Neueinsteiger:innen, die einen **niedrigschwelligen Einstieg** suchen
+- Fortgeschrittene, die **systemisch denken** und quervernetzen wollen
+- Dokumentations- und Orga-Akteure, die sich an **Strukturstandards** orientieren
 
----
+Er ist die **Grundlage für Navigation, Nachvollziehbarkeit und systemische Weiterentwicklung**.
 
-# 🏛️ POLITIK & VERWALTUNG
+## 📚 Inhaltsverzeichnis Meta & Systemstruktur (https://github.com/hades-dux/Kollektive-Raeterepublik/tree/main/Meta_und_Systemstruktur) 
 
-Diese Sektion beschreibt die rätedemokratische Struktur der Kollektiven Räterepublik in ihrer politischen, administrativen und organisatorischen Ausprägung – vom Kollektiv über Bezirksräte bis zu Sonderräten und Abstimmungssystemen.
+1. [00_Bibliothek_der_Kollektiven_Raeterepublik.md](00_Bibliothek_der_Kollektiven_Raeterepublik.md)  
+2. [00_Glossar.md](00_Glossar.md)  
+3. [01_Querverzeichnisse_und_Links.md](01_Querverzeichnisse_und_Links.md)  
+4. [02_Grundstruktur_der_Kollektiven_Raeterepublik.md](02_Grundstruktur_der_Kollektiven_Raeterepublik.md)  
+5. [03_Zyklus_der_politischen_Mitbestimmung.md](03_Zyklus_der_politischen_Mitbestimmung.md)  
+6. [04_Politische_Entscheidungen_und_Rückkopplung.md](04_Politische_Entscheidungen_und_Rückkopplung.md)  
+7. [05_Anwendungslogik_der_Handbuecher.md](05_Anwendungslogik_der_Handbuecher.md)  
+8. [06_Historische_und_Theoretische_Grundlagen.md](06_Historische_und_Theoretische_Grundlagen.md)  
+9. [07_Systemvergleich_Raetedemokratie_vs_Parlament.md](07_Systemvergleich_Raetedemokratie_vs_Parlament.md)  
+10. [08_Systempflege_und_Revisionsprotokoll.md](08_Systempflege_und_Revisionsprotokoll.md)  
+11. [09_Visualisierung_der_Systemlogik.md](09_Visualisierung_der_Systemlogik.md)  
+12. [11_Buergerbeteiligung_und_Partizipationskultur.md](11_Buergerbeteiligung_und_Partizipationskultur.md)  
+13. [12_Zugänglichkeit_Barrierefreiheit_und_Sprachen.md](12_Zugänglichkeit_Barrierefreiheit_und_Sprachen.md)  
+14. [13_Ausblick_und_Entwicklungsperspektiven.md](13_Ausblick_und_Entwicklungsperspektiven.md)  
+15. [14_Flagge_und_Symbole.md](14_Flagge_und_Symbole.md)  
+16. [15_KI_Ethik_Gesetz.md](15_KI_Ethik_Gesetz.md)  
+17. [README.md](README.md)
 
 ---
 
-## 🧭 EINLEITUNG
+# 🏛️ Politik & Verwaltung – Aufbau, Organisation und demokratische Steuerung
 
-Das politische System der Räterepublik ist auf kollektiver Selbstverwaltung, direkter Beteiligung und funktionaler Dezentralität aufgebaut. Diese Dokumente bilden die organisatorische und strukturelle Grundlage sämtlicher Entscheidungsinstanzen und Verwaltungsabläufe.
+> **Wie funktioniert das politische Rückgrat der Kollektiven Räterepublik?**  
+> Dieser Ordner enthält alle Kernfunktionen der politischen Ordnung und Entscheidungsstrukturen.
 
-Alle Dateien befinden sich im Repository unter:  
-🔗 [`/Politik_und_Verwaltung`](https://github.com/hades-dux/Kollektive-Raeterepublik/tree/main/Politik_und_Verwaltung)
+Hier findest du:
 
----
+- Die Beschreibung des **Kollektivs** als oberstes Organ und dessen Mitbestimmungslogik
+- **Bezirksräte, Kollektivrat, geschlossener Rat** – ihre Aufgaben und Zusammenspiel
+- Die **kleinen Räte**, Gruppenstrukturen und **Betriebsräte**
+- Grundlagen zu **Wahlen, Bürgerabstimmungen und Demokratie**
+- Regelungen zur **Verwaltung**, **Verantwortung** und **Amtsführung**
 
-## 📘 INHALTSVERZEICHNIS DER DOKUMENTE
-
-| Nr. | Datei | Inhalt |
-|-----|-------|--------|
-| 00 | [`00_Glossar_Politik_und_Verwaltung.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Politik_und_Verwaltung/00_Glossar_Politik_und_Verwaltung.md) | Begriffe rund um Räte, Abstimmungen & Verwaltung |
-| 01 | [`01_Kollektiv.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Politik_und_Verwaltung/01_Kollektiv.md) | Aufbau, Rechte und Rolle des Kollektivs |
-| 02 | [`02_Bezirksraete.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Politik_und_Verwaltung/02_Bezirksraete.md) | Lokale Exekutivebene & ihre Zusammensetzung |
-| 03 | [`03_Kollektivrat.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Politik_und_Verwaltung/03_Kollektivrat.md) | Zentrale demokratische Kontrollinstanz |
-| 04 | [`04_Geschlossener_Rat.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Politik_und_Verwaltung/04_Geschlossener_Rat.md) | Exekutives Gremium zur Umsetzung kollektiver Beschlüsse |
-| 05 | [`05_Gruppen.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Politik_und_Verwaltung/05_Gruppen.md) | Thematische Organisationseinheiten |
-| 06 | [`06_Vorsitzender_Gruppen.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Politik_und_Verwaltung/06_Vorsitzender_Gruppen.md) | Aufgaben und Legitimation der Gruppenleitungen |
-| 07 | [`07_Kleine_Raete.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Politik_und_Verwaltung/07_Kleine_Raete.md) | Struktur, Wahl und Funktion der Gruppenräte |
-| 08 | [`08_Betriebsraete.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Politik_und_Verwaltung/08_Betriebsraete.md) | Unternehmensbezogene demokratische Mitbestimmung |
-| 09 | [`09_Uebergeordnete_Betriebsraete.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Politik_und_Verwaltung/09_Uebergeordnete_Betriebsraete.md) | Koordination und Delegation auf überbetrieblicher Ebene |
-| 10 | [`10_Demokratie_Buergerabstimmungen_Wahlsysteme.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Politik_und_Verwaltung/10_Demokratie_Buergerabstimmungen_Wahlsysteme.md) | Wahlverfahren, Abstimmungslogik & Vetoregelungen |
+Dieser Bereich zeigt dir:
 
----
+- Wie Entscheidungen entstehen
+- Wie Macht kontrolliert und verteilt wird
+- Wie Menschen sich auf verschiedenen Ebenen einbringen können
+- Welche Prinzipien und Aufgaben die **Verfassungsorgane** tragen
 
-# 🧭 SONDERRÄTE & ABRUFGREMIEN
+Ein Muss für alle, die **Verfassungsstruktur**, **Verwaltungspraxis** und **tiefere politische Prozesse** verstehen wollen.
 
-Diese Sektion dokumentiert alle flexibel aktivierbaren, themenspezifischen und krisenbezogenen Sonderräte und Kontrollgremien der Kollektiven Räterepublik.
+## 📚 Inhaltsverzeichnis Politik & Verwaltung (https://github.com/hades-dux/Kollektive-Raeterepublik/tree/main/Politik_und_Verwaltung) 
 
+1. [00_Glossar_Politik_und_Verwaltung.md](00_Glossar_Politik_und_Verwaltung.md)  
+2. [01_Kollektiv.md](01_Kollektiv.md)  
+3. [02_Bezirksraete.md](02_Bezirksraete.md)  
+4. [03_Kollektivrat.md](03_Kollektivrat.md)  
+5. [04_Geschlossener_Rat.md](04_Geschlossener_Rat.md)  
+6. [05_Gruppen.md](05_Gruppen.md)  
+7. [06_Vorsitzender_Gruppen.md](06_Vorsitzender_Gruppen.md)  
+8. [07_Kleine_Raete.md](07_Kleine_Raete.md)  
+9. [08_Betriebsraete.md](08_Betriebsraete.md)  
+10. [09_Uebergeordnete_Betriebsraete.md](09_Uebergeordnete_Betriebsraete.md)  
+11. [10_Demokratie_Buergerabstimmungen_Wahlsysteme.md](10_Demokratie_Buergerabstimmungen_Wahlsysteme.md)  
+12. [README.md](README.md)
+
 ---
 
-## 🧭 EINLEITUNG
+# 🧩 Sonderräte & Abrufgremien – Spezialisierte Organe für besondere Aufgaben
 
-Sonderräte und Abrufgremien sind temporäre oder thematisch spezialisierte Räte, die im Bedarfsfall aktiv werden. Sie agieren unabhängig von den ständigen Verwaltungsstrukturen und gewährleisten Reaktionsfähigkeit, Aufsicht und Innovation in Ausnahme- oder Spezialbereichen.
+> **Was passiert in Krisen oder bei komplexen Herausforderungen?**  
+> In diesem Ordner findest du alle Räte, die auf spezifische Problemlagen reagieren oder Sonderaufgaben übernehmen.
 
-Alle Dateien befinden sich im Repository unter:  
-🔗 [`/Sonderraete_und_Abrufgremien`](https://github.com/hades-dux/Kollektive-Raeterepublik/tree/main/Politik_und_Verwaltung/Sonderraete_und_Abrufgremien)
+Du findest hier:
 
----
+- Den **Krisenrat**, der im Ernstfall schnell und kollektiv reagiert
+- Den **Aufsichtsrat für KI-Systeme**, der technologische Entwicklungen begleitet
+- Den **Entbürokratisierungsrat**, der Prozesse vereinfachen soll
+- Räte zu Themen wie **Energie**, **Mobilität**, **Datenschutz**, **Kultur**, **Moderation** und mehr
 
-## 📘 INHALTSVERZEICHNIS DER DOKUMENTE
-
-| Nr. | Datei | Inhalt |
-|-----|-------|--------|
-| 00 | [`00_Glossar_Sonderraete_und_Abrufgremien.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Politik_und_Verwaltung/Sonderraete_und_Abrufgremien/00_Glossar_Sonderraete_und_Abrufgremien.md) | Begriffsdefinitionen für Sonderräte & Gremien |
-| 01 | [`01_Krisenrat.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Politik_und_Verwaltung/Sonderraete_und_Abrufgremien/01_Krisenrat.md) | Steuerung & Handlungsvollmacht in Krisenzeiten |
-| 02 | [`02_Aufsichtsrat_KI_Systeme.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Politik_und_Verwaltung/Sonderraete_und_Abrufgremien/02_Aufsichtsrat_KI_Systeme.md) | Kontrolle & ethische Aufsicht über KI-Infrastrukturen |
-| 03 | [`03_Entbuerokratisierungsrat.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Politik_und_Verwaltung/Sonderraete_und_Abrufgremien/03_Entbuerokratisierungsrat.md) | Abbau unnötiger Regelkomplexität & Verwaltungsreduktion |
-| 05 | [`05_Interkontinentaler_Aussenpolitischer_Rat.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Politik_und_Verwaltung/Sonderraete_und_Abrufgremien/05_Interkontinentaler_Aussenpolitischer_Rat.md) | Außenbeziehungen & diplomatische Vertretung |
-| 06 | [`06_Kulturrat.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Politik_und_Verwaltung/Sonderraete_und_Abrufgremien/06_Kulturrat.md) | Bewahrung, Vermittlung & Schutz kultureller Prozesse |
-| 07 | [`07_Mobilitaetsrat.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Politik_und_Verwaltung/Sonderraete_und_Abrufgremien/07_Mobilitaetsrat.md) | Strategische Koordination überregionale Mobilität |
-| 08 | [`08_Moderationsrat.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Politik_und_Verwaltung/Sonderraete_und_Abrufgremien/08_Moderationsrat.md) | Deeskalation, Vermittlung & gesellschaftlicher Ausgleich |
-| 09 | [`09_Energiesicherungsrat.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Politik_und_Verwaltung/Sonderraete_und_Abrufgremien/09_Energiesicherungsrat.md) | Versorgungssicherheit bei Energie & Ressourcen |
-| 10 | [`10_Katastrophenhilferat.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Politik_und_Verwaltung/Sonderraete_und_Abrufgremien/10_Katastrophenhilferat.md) | Koordination bei Naturkatastrophen & Notlagen |
-| 11 | [`11_Innovationsrat.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Politik_und_Verwaltung/Sonderraete_und_Abrufgremien/11_Innovationsrat.md) | Strategische Förderung & Bewertung disruptiver Ideen |
-| 12 | [`12_Datenschutz- und_Freiheitsrat.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Politik_und_Verwaltung/Sonderraete_und_Abrufgremien/12_Datenschutz-%20und_Freiheitsrat.md) | Schutz digitaler Rechte & individueller Freiheiten |
+Diese Gremien:
 
----
+- Werden bei Bedarf **aktiviert** (abrufbar)
+- **Handeln außerhalb des normalen Zyklus**
+- Haben **spezialisierte Befugnisse**, aber sind in den demokratischen Rahmen eingebettet
+
+Ein Bereich für alle, die verstehen wollen, **wie Flexibilität im System verankert ist**, wie **Reaktion auf neue Herausforderungen** funktioniert und **wie übergreifende Koordination organisiert** ist.
 
-# 🌱 UMWELT & KLIMA
+## 📚 Inhaltsverzeichnis Sonderräte & Abrufgremien (https://github.com/hades-dux/Kollektive-Raeterepublik/tree/main/Politik_und_Verwaltung/Sonderraete_und_Abrufgremien) 
 
-Diese Sektion dokumentiert die ökologischen, klimapolitischen und bildungsbezogenen Grundlagen der Kollektiven Räterepublik – von Energie über Ressourcenschutz bis zu Biodiversität und internationaler Verantwortung.
+1. [00_Glossar_Sonderraete_und_Abrufgremien.md](00_Glossar_Sonderraete_und_Abrufgremien.md)  
+2. [01_Krisenrat.md](01_Krisenrat.md)  
+3. [02_Aufsichtsrat_KI_Systeme.md](02_Aufsichtsrat_KI_Systeme.md)  
+4. [03_Entbuerokratisierungsrat.md](03_Entbuerokratisierungsrat.md)  
+5. [05_Interkontinentaler_Aussenpolitischer_Rat.md](05_Interkontinentaler_Aussenpolitischer_Rat.md)  
+6. [06_Kulturrat.md](06_Kulturrat.md)  
+7. [07_Mobilitaetsrat.md](07_Mobilitaetsrat.md)  
+8. [08_Moderationsrat.md](08_Moderationsrat.md)  
+9. [09_Energiesicherungsrat.md](09_Energiesicherungsrat.md)  
+10. [10_Katastrophenhilferat.md](10_Katastrophenhilferat.md)  
+11. [11_Innovationsrat.md](11_Innovationsrat.md)  
+12. [12_Datenschutz- und Freiheitsrat.md](12_Datenschutz-%20und_Freiheitsrat.md)  
+13. [README.md](README.md)
 
 ---
 
-## 🧭 EINLEITUNG
+# 🌱 Umwelt & Klima – Nachhaltigkeit als Fundament der Gesellschaft
 
-Umweltschutz ist systemrelevant – ökologisch, politisch, ethisch. Die hier dokumentierten Handbücher beschreiben Schutzmechanismen, Strategien für Nachhaltigkeit, ökologische Bildung und die Rolle der Räterepublik in der globalen Klimaverantwortung.
+> **Wie sichern wir langfristig unsere Lebensgrundlagen?**  
+> In diesem Ordner findest du alles zur ökologischen Verantwortung der Kollektiven Räterepublik.
 
-Alle Dateien befinden sich im Repository unter:  
-🔗 [`/Umwelt_und_Klima`](https://github.com/hades-dux/Kollektive-Raeterepublik/tree/main/Umwelt%20%26%20Klima)
+Du findest hier:
 
----
+- Konzepte zum **Klimaschutz** und zur **Ressourcenschonung**
+- Strategien für **erneuerbare Energien** und **nachhaltige Landwirtschaft**
+- Maßnahmen zur **Biodiversität**, **Abfallwirtschaft** und **Kreislaufökonomie**
+- Programme zur **Umweltbildung** und internationalen Kooperation
 
-## 📘 INHALTSVERZEICHNIS DER DOKUMENTE
-
-| Nr. | Datei | Inhalt |
-|-----|-------|--------|
-| 00 | [`00_Glossar.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Umwelt%20%26%20Klima/00_Glossar.md) | Grundbegriffe aus Umwelt-, Klima- und Ressourcenschutz |
-| 01 | [`01_Handbuch_Gruppe_Umwelt_und_Klima.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Umwelt%20%26%20Klima/01_Handbuch_Gruppe_Umwelt_und_Klima.md) | Aufgaben, Aufbau & Verantwortung der Umweltgruppe |
-| 02 | [`02_Handbuch_Klimaschutz_und_Ressourcenschonung.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Umwelt%20%26%20Klima/02_Handbuch_Klimaschutz_und_Ressourcenschonung.md) | Strategien zur Emissionsvermeidung & Schonung natürlicher Ressourcen |
-| 03 | [`03_Handbuch_Erneuerbare_Energien.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Umwelt%20%26%20Klima/03_Handbuch_Erneuerbare_Energien.md) | Strukturen und Förderung nachhaltiger Energieversorgung |
-| 04 | [`04_Handbuch_Nachhaltige_Landwirtschaft.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Umwelt%20%26%20Klima/04_Handbuch_Nachhaltige_Landwirtschaft.md) | Ressourcenschonende Ernährung & Bodenbewirtschaftung |
-| 05 | [`05_Handbuch_Abfallwirtschaft_und_Kreislaufwirtschaft.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Umwelt%20%26%20Klima/05_Handbuch_Abfallwirtschaft_und_Kreislaufwirtschaft.md) | Recycling, Wiederverwendung & Minimierung von Müll |
-| 06 | [`06_Handbuch_Biodiversität_und_Naturschutz.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Umwelt%20%26%20Klima/06_Handbuch_Biodiversit%C3%A4t_und_Naturschutz.md) | Erhalt von Lebensräumen & Artenvielfalt |
-| 07 | [`07_Handbuch_Umweltbildung_und_Bewusstseinsförderung.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Umwelt%20%26%20Klima/07_Handbuch_Umweltbildung_und_Bewusstseinsf%C3%B6rderung.md) | Bildung, Aufklärung & kulturelle Transformation |
-| 08 | [`08_Handbuch_Internationale_Verantwortung.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Umwelt%20%26%20Klima/08_Handbuch_Internationale_Verantwortung.md) | Globale Verpflichtungen & transnationale Zusammenarbeit |
+Diese Sektion:
 
----
+- Definiert die **ökologische Rolle** der Räterepublik
+- Zeigt auf, wie Umweltziele **praktisch umgesetzt** werden
+- Bildet die **Grundlage für alle Infrastruktur- und Produktionsentscheidungen**
 
-# 📺 UNTERHALTUNG
+Ein Muss für alle, die die Räterepublik als **zukunftsfähiges, ökologisches Projekt** verstehen wollen.
 
-Diese Sektion dokumentiert die organisatorischen, inhaltlichen und systemischen Grundlagen für Medien, öffentliche Programme, Informationszugang und kulturelle Vermittlung in der Kollektiven Räterepublik.
+## 📚 Inhaltsverzeichnis Umwelt & Klima (https://github.com/hades-dux/Kollektive-Raeterepublik/tree/main/Umwelt%20%26%20Klima) 
 
+1. [00_Glossar.md](00_Glossar.md)  
+2. [01_Handbuch_Gruppe_Umwelt_und_Klima.md](01_Handbuch_Gruppe_Umwelt_und_Klima.md)  
+3. [02_Handbuch_Klimaschutz_und_Ressourcenschonung.md](02_Handbuch_Klimaschutz_und_Ressourcenschonung.md)  
+4. [03_Handbuch_Erneuerbare_Energien.md](03_Handbuch_Erneuerbare_Energien.md)  
+5. [04_Handbuch_Nachhaltige_Landwirtschaft.md](04_Handbuch_Nachhaltige_Landwirtschaft.md)  
+6. [05_Handbuch_Abfallwirtschaft_und_Kreislaufwirtschaft.md](05_Handbuch_Abfallwirtschaft_und_Kreislaufwirtschaft.md)  
+7. [06_Handbuch_Biodiversität_und_Naturschutz.md](06_Handbuch_Biodiversität_und_Naturschutz.md)  
+8. [07_Handbuch_Umweltbildung_und_Bewusstseinsförderung.md](07_Handbuch_Umweltbildung_und_Bewusstseinsförderung.md)  
+9. [08_Handbuch_Internationale_Verantwortung.md](08_Handbuch_Internationale_Verantwortung.md)  
+10. [README.md](README.md)
+
 ---
 
-## 🧭 EINLEITUNG
+# 🎭 Unterhaltung – Medien, Kultur und Kommunikation im öffentlichen Raum
 
-Die Gruppe Unterhaltung ist zuständig für mediale Inhalte, Nachrichtenversorgung, Bildungsformate, Archive und die Koordination der Krisenkommunikation. Sie trägt zur Informationsfreiheit, demokratischen Aufklärung und kulturellen Kontinuität bei.
+> **Wie informieren, unterhalten und bilden wir eine solidarische Gesellschaft?**  
+> Dieser Ordner enthält die medienpolitischen Grundlagen der Kollektiven Räterepublik.
 
-Alle Dateien befinden sich im Repository unter:  
-🔗 [`/Unterhaltung`](https://github.com/hades-dux/Kollektive-Raeterepublik/tree/main/Unterhaltung)
+Hier findest du:
 
----
+- Leitlinien zur **Medienorganisation** und **Informationsverbreitung**
+- Regeln für **Programme**, **Formate** und die Gestaltung der Inhalte
+- Aufbau **öffentlicher Archive** und Mediatheken
+- Konzepte zur **Krisenkommunikation** und Notfallprotokollen
 
-## 📘 INHALTSVERZEICHNIS DER DOKUMENTE
+Diese Sektion:
 
-| Nr. | Datei | Inhalt |
-|-----|-------|--------|
-| 00 | [`00_Glossar_Unterhaltung.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Unterhaltung/00_Glossar_Unterhaltung.md) | Begriffe aus Medien, Kommunikation & Unterhaltung |
-| 01 | [`01_Handbuch_Gruppe_Unterhaltung.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Unterhaltung/01_Handbuch_Gruppe_Unterhaltung.md) | Aufbau & Aufgaben der Gruppe Unterhaltung |
-| 02 | [`02_Handbuch_Medien_und_Informationsverbreitung.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Unterhaltung/02_Handbuch_Medien_und_Informationsverbreitung.md) | Öffentliches Mediensystem & Informationspolitik |
-| 03 | [`03_Handbuch_Programme_Inhalte_und_Formate.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Unterhaltung/03_Handbuch_Programme_Inhalte_und_Formate.md) | Formate, Zielgruppen & Programmgestaltung |
-| 04 | [`04_Handbuch_Oeffentliche_Kulturarchive_und_Mediatheken.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Unterhaltung/04_Handbuch_Oeffentliche_Kulturarchive_und_Mediatheken.md) | Archivierung & Zugang zu kulturellen Inhalten |
-| 05 | [`05_Handbuch_Krisenkommunikation_und_Notfallprotokolle.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Unterhaltung/05_Handbuch_Krisenkommunikation_und_Notfallprotokolle.md) | Kommunikation in Ausnahmezuständen & Notfällen |
+- Stärkt die **kollektive Medienbildung**
+- Sichert eine **faire, unabhängige und zugängliche Medienlandschaft**
+- Schützt vor **Desinformation** und fördert **Transparenz**
 
----
+Ein zentrales Fundament für eine **informierte, aufgeklärte und kreative Öffentlichkeit**.
 
-# 🏭 WIRTSCHAFT & PRODUKTION
+## 📚 Inhaltsverzeichnis Unterhaltung (https://github.com/hades-dux/Kollektive-Raeterepublik/tree/main/Unterhaltung) 
 
-Diese Sektion bildet die wirtschaftliche und produktionsbezogene Architektur der Kollektiven Räterepublik ab – von Währungslogik bis Krisenwirtschaft, von Innovationsförderung bis öffentlicher Grundversorgung.
+1. [00_Glossar_Unterhaltung.md](00_Glossar_Unterhaltung.md)  
+2. [01_Handbuch_Gruppe_Unterhaltung.md](01_Handbuch_Gruppe_Unterhaltung.md)  
+3. [02_Handbuch_Medien_und_Informationsverbreitung.md](02_Handbuch_Medien_und_Informationsverbreitung.md)  
+4. [03_Handbuch_Programme_Inhalte_und_Formate.md](03_Handbuch_Programme_Inhalte_und_Formate.md)  
+5. [04_Handbuch_Oeffentliche_Kulturarchive_und_Mediatheken.md](04_Handbuch_Oeffentliche_Kulturarchive_und_Mediatheken.md)  
+6. [05_Handbuch_Krisenkommunikation_und_Notfallprotokolle.md](05_Handbuch_Krisenkommunikation_und_Notfallprotokolle.md)  
+7. [README.md](README.md)
 
 ---
-
-## 🧭 EINLEITUNG
 
-Die Wirtschaftsstruktur der Kollektiven Räterepublik basiert auf demokratischer Planung, kooperativer Produktion und strategischer Versorgungssicherheit. Diese Handbücher definieren Rahmen, Mechanismen, Instrumente und Ziele der ökonomischen Selbstorganisation.
+# ⚙️ Wirtschaft & Produktion – Organisation, Versorgung & Zukunftsstrategien
 
-Alle Dateien befinden sich im Repository unter:  
-🔗 [`/Wirtschaft_und_Produktion`](https://github.com/hades-dux/Kollektive-Raeterepublik/tree/main/Wirtschaft_und_Produktion)
+> **Wie funktioniert Wirtschaft ohne Ausbeutung und Konkurrenz?**  
+> In diesem Ordner findest du die wirtschaftliche Grundlogik der Kollektiven Räterepublik.
 
----
+Enthalten sind:
 
-## 📘 INHALTSVERZEICHNIS DER DOKUMENTE
-
-| Nr. | Datei | Inhalt |
-|-----|-------|--------|
-| 00 | [`00_Glossar_Wirtschaft.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Wirtschaft_und_Produktion/00_Glossar_Wirtschaft.md) | Begriffe aus Ökonomie, Produktion & Planung |
-| 01 | [`01_Handbuch_Gruppe_Wirtschaft_und_Produktion.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Wirtschaft_und_Produktion/01_Handbuch_Gruppe_Wirtschaft_und_Produktion.md) | Aufbau & Zuständigkeit der Wirtschaftsgruppe |
-| 02 | [`02_Handbuch_Wirtschaftsorganisation_und_Produktionsstrukturen.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Wirtschaft_und_Produktion/02_Handbuch_Wirtschaftsorganisation_und_Produktionsstrukturen.md) | Aufbauplan & Steuerungslogik der Gesamtwirtschaft |
-| 03 | [`03_Handbuch_KC_Waehrung_und_Finanzlogik.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Wirtschaft_und_Produktion/03_Handbuch_KC_Waehrung_und_Finanzlogik.md) | KC-System, Geldflüsse & Haushaltslogik |
-| 04 | [`04_Handbuch_Hybridwirtschaft_Plan_und_Marktelemente.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Wirtschaft_und_Produktion/04_Handbuch_Hybridwirtschaft_Plan_und_Marktelemente.md) | Kombination von Planwirtschaft & flexiblen Märkten |
-| 05 | [`05_Handbuch_Betriebsnetzwerke_und_Kooperationen.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Wirtschaft_und_Produktion/05_Handbuch_Betriebsnetzwerke_und_Kooperationen.md) | Kollektive Betriebslandschaft & sektorübergreifende Netzwerke |
-| 06 | [`06_Handbuch_Innovationsfoerderung_und_Technologietransfer.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Wirtschaft_und_Produktion/06_Handbuch_Innovationsfoerderung_und_Technologietransfer.md) | Förderung disruptiver Technologien & Umsetzung in Produktion |
-| 07 | [`07_Handbuch_Krisenwirtschaft_und_Anpassungsstrategien.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Wirtschaft_und_Produktion/07_Handbuch_Krisenwirtschaft_und_Anpassungsstrategien.md) | Strategien bei Engpässen, Versorgungsausfällen & Umbrüchen |
-| 08 | [`08_Handbuch_Oeffentliche_Grundversorgung.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Wirtschaft_und_Produktion/08_Handbuch_Oeffentliche_Grundversorgung.md) | Lebensnotwendige Leistungen & Zugang für alle |
-| 09 | [`09_Handbuch_Internationale_Wirtschaftsbeziehungen.md`](https://github.com/hades-dux/Kollektive-Raeterepublik/blob/main/Wirtschaft_und_Produktion/09_Handbuch_Internationale_Wirtschaftsbeziehungen.md) | Außenwirtschaft, Tauschsysteme & globale Kooperationen |
+- Struktur der **Produktionsweise**, **Planung** und **Krisenreaktion**
+- Ausgestaltung von **Betriebsnetzwerken** und **Innovationsmodellen**
+- Regeln für **öffentliche Versorgung**, **Finanzlogik** und **Währungssystem**
+- Umgang mit **internationalen Wirtschaftsbeziehungen**
 
----
+Diese Sektion beschreibt:
 
-<sub><sup>📄 **Stand:** April 2025 · Diese Bibliothek wird **kontinuierlich erweitert und aktualisiert**.  
-Bei Änderungen bitte Pull Requests, Issues oder direkte Ergänzungen in den jeweiligen Sektionen nutzen.  
-Alle Inhalte stehen unter gemeinschaftlicher Verantwortung.</sup></sub>
+- den Aufbau einer **bedarfsorientierten Hybridwirtschaft**
+- wie wirtschaftliche **Solidarität und Effizienz** vereint werden
+- wie die **Produktionsmittel kollektiv gesteuert** und nachhaltig genutzt werden
 
----
+Ein zentrales Fundament für eine **gerechte, stabile und kooperative Wirtschaftsordnung**.
 
-<sub><sup>Autor: Fabio Weidner | Version 1.0 | Meta & Systemstruktur | April 2025</sup></sub>
+## 📚 Inhaltsverzeichnis Wirtschaft & Produktion (https://github.com/hades-dux/Kollektive-Raeterepublik/tree/main/Wirtschaft_und_Produktion) 
 
+1. [00_Glossar_Wirtschaft.md](00_Glossar_Wirtschaft.md)  
+2. [01_Handbuch_Gruppe_Wirtschaft_und_Produktion.md](01_Handbuch_Gruppe_Wirtschaft_und_Produktion.md)  
+3. [02_Handbuch_Wirtschaftsorganisation_und_Produktionsstrukturen.md](02_Handbuch_Wirtschaftsorganisation_und_Produktionsstrukturen.md)  
+4. [03_Handbuch_KC_Waehrung_und_Finanzlogik.md](03_Handbuch_KC_Waehrung_und_Finanzlogik.md)  
+5. [04_Handbuch_Hybridwirtschaft_Plan_und_Marktelemente.md](04_Handbuch_Hybridwirtschaft_Plan_und_Marktelemente.md)  
+6. [05_Handbuch_Betriebsnetzwerke_und_Kooperationen.md](05_Handbuch_Betriebsnetzwerke_und_Kooperationen.md)  
+7. [06_Handbuch_Innovationsfoerderung_und_Technologietransfer.md](06_Handbuch_Innovationsfoerderung_und_Technologietransfer.md)  
+8. [07_Handbuch_Krisenwirtschaft_und_Anpassungsstrategien.md](07_Handbuch_Krisenwirtschaft_und_Anpassungsstrategien.md)  
+9. [08_Handbuch_Oeffentliche_Grundversorgung.md](08_Handbuch_Oeffentliche_Grundversorgung.md)  
+10. [09_Handbuch_Internationale_Wirtschaftsbeziehungen.md](09_Handbuch_Internationale_Wirtschaftsbeziehungen.md)  
+11. [README.md](README.md)
 
+---
 
+## 📘 Projektbasics
 
+- [`CODE_OF_CONDUCT.md`](./CODE_OF_CONDUCT.md) – Verhaltenskodex für alle Mitwirkenden  
+- [`CONTRIBUTING.md`](./CONTRIBUTING.md) – So kannst du dich einbringen  
+- [`LICENSE.md`](./LICENSE.md) – Lizenz: CC BY-NC-SA 4.0  
+- [`SECURITY.md`](./SECURITY.md) – Sicherheit, Meldestellen & Kontakt
 
+---
 
+## 📌 Ziel
 
+Die **Kollektive Räterepublik** ist ein konzeptionelles politisches Modell, das auf Selbstverwaltung, demokratischer Kontrolle und gemeinschaftlicher Planung basiert. Dieses Repository soll als vollständige Grundlage für Weiterentwicklung, Debatte und Umsetzung dienen.
 
+---
 
+<sub><sup>Letzte Aktualisierung: Mai 2025 • Redaktion: Fabio Weidner • Struktur geprüft</sup></sub>
